@@ -1,0 +1,860 @@
+{
+  "app_name": "ab277c0995e945d2b2c50c46883627f1",
+  "app_title": "PC Building Simulator",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ab277c0995e945d2b2c50c46883627f1",
+      "asset_id": "ab277c0995e945d2b2c50c46883627f1",
+      "build_version": "v1.15.4_91",
+      "catalog_item_id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "1d5f269fb00d4190b456ae211b8ed471"
+      },
+      "namespace": "8f5f5eff22f3468fa5551771406fc868",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567xSELMSaswE9ZwaJIceAzlYJJ",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-03-12T15:28:23.957Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/Saves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "PCBuildingSimulator"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "8f5f5eff22f3468fa5551771406fc868"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "PC Building Simulator",
+    "developer": "The Irregular Corporation",
+    "developerId": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-04-13T02:35:23.004Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "RepublicOfGamers"
+          }
+        },
+        "description": "Republic of Gamers Workshop",
+        "developer": "The Irregular Corporation",
+        "developerId": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+        "endOfSupport": false,
+        "entitlementName": "77c7a2897058462aae6eefe83026a40c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "77c7a2897058462aae6eefe83026a40c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "ae0dde49ce21ca2a5798a68dbd1276c8",
+            "size": 970798,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-06T02:36:15.707Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RepublicofGamersWorkshop_TheIrregularCorporation_DLC_S1_2560x1440-ae0dde49ce21ca2a5798a68dbd1276c8",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "5a8fc927f8cc089296cf1d27a277dda4",
+            "size": 838285,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-06T02:36:19.843Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RepublicofGamersWorkshop_TheIrregularCorporation_DLC_S2_1200x1600-5a8fc927f8cc089296cf1d27a277dda4",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-10-26T17:35:40.748Z",
+        "mainGameItem": {
+          "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+          "namespace": "8f5f5eff22f3468fa5551771406fc868",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+            "namespace": "8f5f5eff22f3468fa5551771406fc868",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8f5f5eff22f3468fa5551771406fc868",
+        "releaseInfo": [
+          {
+            "appId": "97902386c4284bf3a95ec557c6d57e96",
+            "dateAdded": "2021-03-12T00:00:00.000Z",
+            "id": "8a1b5d0698d34a2faeabf8795a353a80",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Republic of Gamers Workshop",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-04-13T02:34:42.845Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "EsportsExpansion"
+          }
+        },
+        "description": "Esports Expansion",
+        "developer": "The Irregular Corporation",
+        "developerId": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+        "endOfSupport": false,
+        "entitlementName": "b855981be1694d6c89069e66ad4515a9",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b855981be1694d6c89069e66ad4515a9",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "e0b805c2b361668b6788cd551af45c0d",
+            "size": 937776,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-06T02:34:27.434Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EsportsExpansion_TheIrregularCorporation_DLC_S1_2560x1440-e0b805c2b361668b6788cd551af45c0d",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "12501f144083706df1d465690a0c1efc",
+            "size": 601682,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-06T02:34:31.758Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EsportsExpansion_TheIrregularCorporation_DLC_S2_1200x1600-12501f144083706df1d465690a0c1efc",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-10-28T01:52:03.944Z",
+        "mainGameItem": {
+          "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+          "namespace": "8f5f5eff22f3468fa5551771406fc868",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+            "namespace": "8f5f5eff22f3468fa5551771406fc868",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8f5f5eff22f3468fa5551771406fc868",
+        "releaseInfo": [
+          {
+            "appId": "dbd1ed3a99924598bea0dce9c01c9e07",
+            "dateAdded": "2021-03-12T00:00:00.000Z",
+            "id": "8a1b5d0698d34a2faeabf8795a353a80",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Esports Expansion",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-04-13T02:35:40.370Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "NZXT"
+          }
+        },
+        "description": "NZXT Workshop",
+        "developer": "The Irregular Corporation",
+        "developerId": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+        "endOfSupport": false,
+        "entitlementName": "c6765bfb3ee24c1cb3db8fab12137b32",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c6765bfb3ee24c1cb3db8fab12137b32",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "33aa561fa210c2dd4b920a234a3e0eeb",
+            "size": 969299,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-06T02:37:14.135Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NZXTWorkshop_TheIrregularCorporation_DLC_S1_2560x1440-33aa561fa210c2dd4b920a234a3e0eeb",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "9fd04df0c51ec976527da02bae78cdac",
+            "size": 837662,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-06T02:37:17.324Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NZXTWorkshop_TheIrregularCorporation_DLC_S2_1200x1600-9fd04df0c51ec976527da02bae78cdac",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-10-26T17:35:40.779Z",
+        "mainGameItem": {
+          "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+          "namespace": "8f5f5eff22f3468fa5551771406fc868",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+            "namespace": "8f5f5eff22f3468fa5551771406fc868",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8f5f5eff22f3468fa5551771406fc868",
+        "releaseInfo": [
+          {
+            "appId": "0e6aa7fa0ec044a095fb681af30b2223",
+            "dateAdded": "2021-03-12T00:00:00.000Z",
+            "id": "8a1b5d0698d34a2faeabf8795a353a80",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "NZXT Workshop",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-04-13T02:36:36.048Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "EVGA"
+          }
+        },
+        "description": "EVGA Workshop",
+        "developer": "The Irregular Corporation",
+        "developerId": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+        "endOfSupport": false,
+        "entitlementName": "6cde9b366e114740a4354f18e478bf64",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6cde9b366e114740a4354f18e478bf64",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "ea8eece58bf4f6afdb2f73331e7e2164",
+            "size": 831027,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-06T02:40:03.204Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EVGAWorkshop_TheIrregularCorporation_DLC_S1_2560x1440-ea8eece58bf4f6afdb2f73331e7e2164",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "3ae9f80727f7e176b7b6b3a865342e48",
+            "size": 838256,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-06T02:40:06.551Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EVGAWorkshop_TheIrregularCorporation_DLC_S2_1200x1600-3ae9f80727f7e176b7b6b3a865342e48",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-10-26T17:35:40.745Z",
+        "mainGameItem": {
+          "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+          "namespace": "8f5f5eff22f3468fa5551771406fc868",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+            "namespace": "8f5f5eff22f3468fa5551771406fc868",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8f5f5eff22f3468fa5551771406fc868",
+        "releaseInfo": [
+          {
+            "appId": "14a277091a444f208cb70a6bab2b2a38",
+            "dateAdded": "2021-03-12T00:00:00.000Z",
+            "id": "8a1b5d0698d34a2faeabf8795a353a80",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "EVGA Workshop",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-08-19T16:46:44.209Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "OverclockedEditionContent"
+          }
+        },
+        "description": "Overclocked Edition Content",
+        "developer": "The Irregular Corporation",
+        "developerId": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+        "endOfSupport": false,
+        "entitlementName": "e2d9600e8fa34c418a98942e176118c0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e2d9600e8fa34c418a98942e176118c0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "c56208970c67fab4dadad53f6b2db5d3",
+            "size": 974068,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-06T02:41:18.929Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OverclockedEditionContent_TheIrregularCorporation_DLC_S1_2560x1440-c56208970c67fab4dadad53f6b2db5d3",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "20dddf91963b2d928b9717db030c51c0",
+            "size": 823240,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-06T02:41:23.383Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OverclockedEditionContent_TheIrregularCorporation_DLC_S2_1200x1600-20dddf91963b2d928b9717db030c51c0",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-10-26T17:35:40.790Z",
+        "mainGameItem": {
+          "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+          "namespace": "8f5f5eff22f3468fa5551771406fc868",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+            "namespace": "8f5f5eff22f3468fa5551771406fc868",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8f5f5eff22f3468fa5551771406fc868",
+        "releaseInfo": [
+          {
+            "appId": "c03cad69a4b14147ba24ead01394c65e",
+            "compatibleApps": [],
+            "dateAdded": "2021-03-12T00:00:00.000Z",
+            "id": "5b1969b3c0324f08ab8571eb0a4890bf",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Overclocked Edition Content",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-04-13T02:36:19.150Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "AORUS"
+          }
+        },
+        "description": "AORUS Workshop",
+        "developer": "The Irregular Corporation",
+        "developerId": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+        "endOfSupport": false,
+        "entitlementName": "c9b5a739844f495a99916edf9fc8ec37",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c9b5a739844f495a99916edf9fc8ec37",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "15c2beb48396aa4dbf405f4b2666a45f",
+            "size": 979617,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-06T02:39:17.870Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AORUSWorkshop_TheIrregularCorporation_DLC_S1_2560x1440-15c2beb48396aa4dbf405f4b2666a45f",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "04b71a8b06fab4e533ff8b0c504f48c3",
+            "size": 844552,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-06T02:39:22.524Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AORUSWorkshop_TheIrregularCorporation_DLC_S2_1200x1600-04b71a8b06fab4e533ff8b0c504f48c3",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-10-26T17:35:40.782Z",
+        "mainGameItem": {
+          "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+          "namespace": "8f5f5eff22f3468fa5551771406fc868",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+            "namespace": "8f5f5eff22f3468fa5551771406fc868",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8f5f5eff22f3468fa5551771406fc868",
+        "releaseInfo": [
+          {
+            "appId": "964b418878ec4bf29990c3ef47c068bb",
+            "dateAdded": "2021-03-12T00:00:00.000Z",
+            "id": "8a1b5d0698d34a2faeabf8795a353a80",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "AORUS Workshop",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-04-13T02:35:01.890Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "RazerWorkshop"
+          }
+        },
+        "description": "Razer Workshop",
+        "developer": "The Irregular Corporation",
+        "developerId": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+        "endOfSupport": false,
+        "entitlementName": "5638a48b320640cb8dde0bc5dc1dcefc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5638a48b320640cb8dde0bc5dc1dcefc",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "0b44e7e1105ce508152690a123366f4a",
+            "size": 970333,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-06T02:35:28.968Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RazerWorkshop_TheIrregularCorporation_DLC_S1_2560x1440-0b44e7e1105ce508152690a123366f4a",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "7a5fccaf5da9dc1636a7c5609285a00d",
+            "size": 839092,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-06T02:35:32.341Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RazerWorkshop_TheIrregularCorporation_DLC_S2_1200x1600-7a5fccaf5da9dc1636a7c5609285a00d",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-10-26T17:35:40.736Z",
+        "mainGameItem": {
+          "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+          "namespace": "8f5f5eff22f3468fa5551771406fc868",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+            "namespace": "8f5f5eff22f3468fa5551771406fc868",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8f5f5eff22f3468fa5551771406fc868",
+        "releaseInfo": [
+          {
+            "appId": "7b8c78ac344d4000a4e33066d3905493",
+            "dateAdded": "2021-03-12T00:00:00.000Z",
+            "id": "8a1b5d0698d34a2faeabf8795a353a80",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Razer Workshop",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-04-13T02:35:59.278Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "OverclockersUK"
+          }
+        },
+        "description": "Overclockers UK Workshop",
+        "developer": "The Irregular Corporation",
+        "developerId": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+        "endOfSupport": false,
+        "entitlementName": "41504555440e420a94b70f78f8affc07",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "41504555440e420a94b70f78f8affc07",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "0df95c31ba02748209fd7cfe457c7982",
+            "size": 972891,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-06T02:38:10.048Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OverclockersUKWorkshop_TheIrregularCorporation_DLC_S1_2560x1440-0df95c31ba02748209fd7cfe457c7982",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "67ee974b8473b4efb3c1715159ca9efc",
+            "size": 840561,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-06T02:38:21.477Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OverclockersUKWorkshop_TheIrregularCorporation_DLC_S2_1200x1600-67ee974b8473b4efb3c1715159ca9efc",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-10-26T17:35:40.733Z",
+        "mainGameItem": {
+          "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+          "namespace": "8f5f5eff22f3468fa5551771406fc868",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+            "namespace": "8f5f5eff22f3468fa5551771406fc868",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8f5f5eff22f3468fa5551771406fc868",
+        "releaseInfo": [
+          {
+            "appId": "d6790658385b48a0b531ff83e92d7f08",
+            "dateAdded": "2021-03-12T00:00:00.000Z",
+            "id": "8a1b5d0698d34a2faeabf8795a353a80",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Overclockers UK Workshop",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-08-16T15:22:44.667Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "FractalDesign"
+          }
+        },
+        "description": "Fractal Design Workshop",
+        "developer": "The Irregular Corporation",
+        "developerId": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+        "endOfSupport": false,
+        "entitlementName": "8df5ac1bd2af424c9aba9d554d239d69",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8df5ac1bd2af424c9aba9d554d239d69",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "93c4e606f6693d6ed5c2ce67fb189a3c",
+            "size": 974481,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-06T02:40:42.253Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FractalDesignWorkshop_TheIrregularCorporation_DLC_S1_2560x1440-93c4e606f6693d6ed5c2ce67fb189a3c",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "673b6747d9180db484e158a0957b1ea4",
+            "size": 822968,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-06T02:40:45.375Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FractalDesignWorkshop_TheIrregularCorporation_DLC_S2_1200x1600-673b6747d9180db484e158a0957b1ea4",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-10-26T17:35:40.754Z",
+        "mainGameItem": {
+          "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+          "namespace": "8f5f5eff22f3468fa5551771406fc868",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+            "namespace": "8f5f5eff22f3468fa5551771406fc868",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8f5f5eff22f3468fa5551771406fc868",
+        "releaseInfo": [
+          {
+            "appId": "69ae9743c6ae4668a6f6631a525f6e67",
+            "compatibleApps": [],
+            "dateAdded": "2021-03-12T00:00:00.000Z",
+            "id": "e0477cf06f2a4fcb9d972588061dcb7e",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Fractal Design Workshop",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "63e4593b6a4949e78ff5fa2a2aa2bf47",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "053592d64b04adff6734a480dcead96d",
+        "size": 939324,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-10-27T22:37:37.881Z",
+        "url": "https://cdn1.epicgames.com/item/8f5f5eff22f3468fa5551771406fc868/EGS_PCBuildingSimulator_TheIrregularCorporation_S1_2560x1440-053592d64b04adff6734a480dcead96d",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "aff87a5534769574ce1ccc6e24772b4c",
+        "size": 594249,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-10-27T22:37:41.709Z",
+        "url": "https://cdn1.epicgames.com/item/8f5f5eff22f3468fa5551771406fc868/EGS_PCBuildingSimulator_TheIrregularCorporation_S2_1200x1600-aff87a5534769574ce1ccc6e24772b4c",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-11-03T21:17:29.766Z",
+    "mainGameItemList": [],
+    "namespace": "8f5f5eff22f3468fa5551771406fc868",
+    "releaseInfo": [
+      {
+        "appId": "ab277c0995e945d2b2c50c46883627f1",
+        "dateAdded": "2021-03-12T15:30:14.075Z",
+        "id": "17c481931d5a497dad5fd1a4ce0e013d",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "PC Building Simulator",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

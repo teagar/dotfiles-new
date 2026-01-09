@@ -1,0 +1,18 @@
+2026/01/09-01:34:54.358 4f0 Reusing MANIFEST /home/teagar/.config/lunarclient/Local Storage/leveldb/MANIFEST-000001
+2026/01/09-01:34:54.410 4f0 Recovering log #462
+2026/01/09-01:34:54.411 4f0 Reusing old log /home/teagar/.config/lunarclient/Local Storage/leveldb/000462.log 
+2026/01/09-01:49:41.077 4f1 Level-0 table #466: started
+2026/01/09-01:49:41.081 4f1 Level-0 table #466: 28789 bytes OK
+2026/01/09-01:49:41.083 4f1 Delete type=0 #462
+2026/01/09-01:49:41.084 4f1 Compacting 4@0 + 1@1 files
+2026/01/09-01:49:41.087 4f1 Generated table #467@0: 135 keys, 61560 bytes
+2026/01/09-01:49:41.088 4f1 Compacted 4@0 + 1@1 files => 61560 bytes
+2026/01/09-01:49:41.089 4f1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/09-01:49:41.089 4f1 Delete type=2 #457
+2026/01/09-01:49:41.089 4f1 Delete type=2 #459
+2026/01/09-01:49:41.089 4f1 Delete type=2 #461
+2026/01/09-01:49:41.089 4f1 Delete type=2 #463
+2026/01/09-01:49:41.089 4f1 Delete type=2 #466
+2026/01/09-01:50:13.045 4f0 Level-0 table #469: started
+2026/01/09-01:50:13.048 4f0 Level-0 table #469: 22072 bytes OK
+2026/01/09-01:50:13.051 4f0 Delete type=0 #465

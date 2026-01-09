@@ -1,0 +1,12 @@
+- DEVICE: "/dev/input/event23"
+  EVDEV: 1
+  UINPUT: 1
+  MAPPINGS:
+    # Exemplo de remapeamento: troque teclas para o segundo jogador
+    KEY_W: KEY_UP
+    KEY_S: KEY_DOWN
+    KEY_A: KEY_LEFT
+    KEY_D: KEY_RIGHT
+    KEY_J: KEY_LEFTCTRL
+    KEY_K: KEY_LEFTALT
+

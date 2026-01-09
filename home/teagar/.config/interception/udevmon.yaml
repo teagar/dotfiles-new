@@ -1,0 +1,7 @@
+---
+- device_path: /dev/input/by-id/usb-SEMICO_USB_Keyboard-event-if01
+  grab_device: true
+  events:
+    - match: ".*"
+      remap:
+        - set_key: "none"

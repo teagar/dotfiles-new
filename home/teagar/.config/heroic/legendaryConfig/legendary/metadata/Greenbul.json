@@ -1,0 +1,717 @@
+{
+  "app_name": "Greenbul",
+  "app_title": "SMITE",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Greenbul",
+      "asset_id": "Greenbul",
+      "build_version": "2235",
+      "catalog_item_id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "076207fa2b5c4803a636af606c3c28b7",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-10-18T01:53:04.913Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SMITE"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "076207fa2b5c4803a636af606c3c28b7"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      }
+    },
+    "description": "SMITE",
+    "developer": "Hi-Rez Studios",
+    "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-03-27T03:14:38.413Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Season Pass 2020 Marker Audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "504bb34bbeb94ee08dd5091c02797758",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "504bb34bbeb94ee08dd5091c02797758",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-01-26T11:50:57.679Z",
+        "longDescription": "Season Pass 2020 Marker Audience",
+        "mainGameItem": {
+          "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+          "namespace": "076207fa2b5c4803a636af606c3c28b7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+            "namespace": "076207fa2b5c4803a636af606c3c28b7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "076207fa2b5c4803a636af606c3c28b7",
+        "status": "ACTIVE",
+        "title": "Season Pass 2020 Marker Audience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-09T20:28:17.095Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "SMITE MOS",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "706be9d26be546c7ba5e18973cc1e63a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "706be9d26be546c7ba5e18973cc1e63a",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-08-04T14:48:13.100Z",
+        "mainGameItem": {
+          "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+          "namespace": "076207fa2b5c4803a636af606c3c28b7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+            "namespace": "076207fa2b5c4803a636af606c3c28b7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "076207fa2b5c4803a636af606c3c28b7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SMITE MOS",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-03-27T03:15:01.497Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Epic Store Exclusive Marker Audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "c9f48e87c93e48acafac015b663c798a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c9f48e87c93e48acafac015b663c798a",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-12-15T11:57:40.079Z",
+        "longDescription": "Epic Store Exclusive Marker Audience",
+        "mainGameItem": {
+          "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+          "namespace": "076207fa2b5c4803a636af606c3c28b7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+            "namespace": "076207fa2b5c4803a636af606c3c28b7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "076207fa2b5c4803a636af606c3c28b7",
+        "status": "ACTIVE",
+        "title": "Epic Store Exclusive Marker Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-03-27T03:14:57.452Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Ultimate God Pack Marker Audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "8c3383782a064adb80d93816c4267b08",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8c3383782a064adb80d93816c4267b08",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-08-04T14:48:13.108Z",
+        "longDescription": "Ultimate God Pack Marker Audience",
+        "mainGameItem": {
+          "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+          "namespace": "076207fa2b5c4803a636af606c3c28b7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+            "namespace": "076207fa2b5c4803a636af606c3c28b7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "076207fa2b5c4803a636af606c3c28b7",
+        "status": "ACTIVE",
+        "title": "Ultimate God Pack Marker Audience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-06-01T21:26:06.802Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "SMITE Code Slasher Bundle",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "cd6a6001640a49398871631eb2c339de",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cd6a6001640a49398871631eb2c339de",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-08-04T14:48:13.119Z",
+        "mainGameItem": {
+          "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+          "namespace": "076207fa2b5c4803a636af606c3c28b7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+            "namespace": "076207fa2b5c4803a636af606c3c28b7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "076207fa2b5c4803a636af606c3c28b7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SMITE Code Slasher Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-22T18:11:38.793Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "SMITE Year 10 Pass",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "d5325f94d87a4effa0b7164c59f5b3ae",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d5325f94d87a4effa0b7164c59f5b3ae",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-08-04T14:48:13.127Z",
+        "mainGameItem": {
+          "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+          "namespace": "076207fa2b5c4803a636af606c3c28b7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+            "namespace": "076207fa2b5c4803a636af606c3c28b7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "076207fa2b5c4803a636af606c3c28b7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SMITE Year 10 Pass",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-22T18:12:22.373Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "SMITE Year 10 Deluxe Edition",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "46866edd6bb7438d8efec0ba01d34f20",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "46866edd6bb7438d8efec0ba01d34f20",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-08-04T14:48:13.081Z",
+        "mainGameItem": {
+          "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+          "namespace": "076207fa2b5c4803a636af606c3c28b7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+            "namespace": "076207fa2b5c4803a636af606c3c28b7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "076207fa2b5c4803a636af606c3c28b7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SMITE Year 10 Deluxe Edition",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-04-24T09:27:33.341Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "SMITE x VShojo Deluxe Bundle",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "b5ac3ac12f464753b2bb728229155dfc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b5ac3ac12f464753b2bb728229155dfc",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-05-16T12:17:59.477Z",
+        "mainGameItem": {
+          "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+          "namespace": "076207fa2b5c4803a636af606c3c28b7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+            "namespace": "076207fa2b5c4803a636af606c3c28b7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "076207fa2b5c4803a636af606c3c28b7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SMITE x VShojo Deluxe Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-07-18T17:15:04.484Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "SMITE x Avatar Bundle",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "5fce001c43fe4e8ca4b4f2783ade046b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5fce001c43fe4e8ca4b4f2783ade046b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-08-08T10:59:19.359Z",
+        "mainGameItem": {
+          "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+          "namespace": "076207fa2b5c4803a636af606c3c28b7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+            "namespace": "076207fa2b5c4803a636af606c3c28b7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "076207fa2b5c4803a636af606c3c28b7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SMITE x Avatar Bundle",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-10-02T18:09:04.054Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "SMITE x RuneScape Premium Bundle",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "33cb0e4b5e3e45a38a2e59a6a0eb2e78",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "33cb0e4b5e3e45a38a2e59a6a0eb2e78",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-12-12T16:55:14.010Z",
+        "mainGameItem": {
+          "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+          "namespace": "076207fa2b5c4803a636af606c3c28b7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+            "namespace": "076207fa2b5c4803a636af606c3c28b7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "076207fa2b5c4803a636af606c3c28b7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SMITE x RuneScape Premium Bundle",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-09T12:25:27.660Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "SMITE Cybernetic Underworld Bundle",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "1c6cc70ab48a4fb7a2551d2660f83832",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1c6cc70ab48a4fb7a2551d2660f83832",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "c03f82a4019f767052fb26e9f81d759d",
+            "size": 1005283,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-22T13:06:28.845Z",
+            "url": "https://cdn1.epicgames.com/item/076207fa2b5c4803a636af606c3c28b7/SMITE_10r13_UnderworldBundleDLC_EPIC_Landscape-Offer-Image_2560x1440_2560x1440-c03f82a4019f767052fb26e9f81d759d",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "0c57501bba96b43cd10a4eb95a80634b",
+            "size": 989327,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-22T13:06:31.994Z",
+            "url": "https://cdn1.epicgames.com/item/076207fa2b5c4803a636af606c3c28b7/SMITE_10r13_UnderworldBundleDLC_EPIC_Portrait-Offer-Image_1200x1600_1200x1600-0c57501bba96b43cd10a4eb95a80634b",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-12-12T12:00:02.055Z",
+        "mainGameItem": {
+          "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+          "namespace": "076207fa2b5c4803a636af606c3c28b7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+            "namespace": "076207fa2b5c4803a636af606c3c28b7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "076207fa2b5c4803a636af606c3c28b7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SMITE Cybernetic Underworld Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-09T12:27:06.142Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "SMITE Year 11 Legacy Deluxe Edition",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "1adbce7ad3e045b6a741e1eb8a8cc327",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1adbce7ad3e045b6a741e1eb8a8cc327",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-01-12T11:50:09.243Z",
+        "mainGameItem": {
+          "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+          "namespace": "076207fa2b5c4803a636af606c3c28b7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+            "namespace": "076207fa2b5c4803a636af606c3c28b7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "076207fa2b5c4803a636af606c3c28b7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SMITE Year 11 Legacy Deluxe Edition",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-09T12:26:38.958Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "SMITE Year 11 Legacy Pass",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "26f41997a50e47bea3249412fef2f795",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "26f41997a50e47bea3249412fef2f795",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-01-12T11:50:09.243Z",
+        "mainGameItem": {
+          "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+          "namespace": "076207fa2b5c4803a636af606c3c28b7",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+            "namespace": "076207fa2b5c4803a636af606c3c28b7",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "076207fa2b5c4803a636af606c3c28b7",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SMITE Year 11 Legacy Pass",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "f1d19d1fcd1444ce8a9b8435a3db9ff3",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "8298c71910dfb6659d18046770ac29a8",
+        "size": 462538,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-01-21T12:05:44.656Z",
+        "url": "https://cdn1.epicgames.com/item/076207fa2b5c4803a636af606c3c28b7/SMITE-Hero-1920x1080_jan25_1920x1080-8298c71910dfb6659d18046770ac29a8",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "97ca4ff09898f9abba5f6c66ed0e135c",
+        "size": 572654,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-01-21T12:05:50.461Z",
+        "url": "https://cdn1.epicgames.com/item/076207fa2b5c4803a636af606c3c28b7/SMITE-Portrait-1200x1600_jan25_1200x1600-97ca4ff09898f9abba5f6c66ed0e135c",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-06-20T20:02:53.683Z",
+    "mainGameItemList": [],
+    "namespace": "076207fa2b5c4803a636af606c3c28b7",
+    "releaseInfo": [
+      {
+        "appId": "Greenbul",
+        "dateAdded": "2019-10-18T00:00:00.000Z",
+        "id": "4a66543d2d7441a1a37a982e4adf33d7",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "SMITE",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

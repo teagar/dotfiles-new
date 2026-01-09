@@ -1,0 +1,430 @@
+{
+  "app_name": "40404abd974443de81c875af6323f329",
+  "app_title": "ARK Ragnarok",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "40404abd974443de81c875af6323f329",
+      "asset_id": "40404abd974443de81c875af6323f329",
+      "build_version": "361.4.win",
+      "catalog_item_id": "e5fb718ceea24f12a6e59602f6a29c6c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "744fad1de2c2457699a60a62aafcd10f"
+      },
+      "namespace": "ark",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-05-28T21:54:16.814Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Ragnarok"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ark"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "ARK Ragnarok",
+    "developer": "Studio Wildcard",
+    "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+    "endOfSupport": false,
+    "entitlementName": "e5fb718ceea24f12a6e59602f6a29c6c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "e5fb718ceea24f12a6e59602f6a29c6c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "57a08b3edd6d54d179427a7e7af8d7fd",
+        "size": 745003,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-06-01T16:03:50.124Z",
+        "url": "https://cdn1.epicgames.com/ark/item/EGS_RagnarokARKExpansionMap_StudioWildcard_DLC_S1-2560x1440-57a08b3edd6d54d179427a7e7af8d7fd.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "cebef6fbf975e9be62a11bdf52a77672",
+        "size": 441308,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-06-10T23:19:50.060Z",
+        "url": "https://cdn1.epicgames.com/ark/item/EGS_RagnarokARKExpansionTALL-1200x1600-cebef6fbf975e9be62a11bdf52a77672.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-06-11T14:27:42.814Z",
+    "mainGameItem": {
+      "ageGatings": {},
+      "applicationId": "",
+      "categories": [
+        {
+          "path": "public"
+        },
+        {
+          "path": "games"
+        },
+        {
+          "path": "applications"
+        }
+      ],
+      "creationDate": "2020-03-23T17:43:29.664Z",
+      "customAttributes": {
+        "CanRunOffline": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "CanSkipKoreanIdVerification": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "FolderName": {
+          "type": "STRING",
+          "value": "ARKSurvivalEvolved"
+        },
+        "MonitorPresence": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "PresenceId": {
+          "type": "STRING",
+          "value": "ark"
+        },
+        "RequirementsJson": {
+          "type": "STRING",
+          "value": "[]"
+        },
+        "SkipAutoInstallDlc": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "extraLaunchOption_001_Args": {
+          "type": "STRING",
+          "value": "-nobattleye"
+        },
+        "extraLaunchOption_001_Name": {
+          "type": "STRING",
+          "value": "Play ARK: No BattlEye AntiCheat, Unofficial Servers Only"
+        },
+        "extraLaunchOption_002_Args": {
+          "type": "STRING",
+          "value": "-sm4 -nomansky"
+        },
+        "extraLaunchOption_002_Name": {
+          "type": "STRING",
+          "value": "Launch ARK (DirectX 10, Low-End Graphics)"
+        },
+        "extraLaunchOption_003_Args": {
+          "type": "STRING",
+          "value": "-allowansel"
+        },
+        "extraLaunchOption_003_Name": {
+          "type": "STRING",
+          "value": "Launch ARK with NVIDIA Ansel"
+        },
+        "extraLaunchOption_004_Args": {
+          "type": "STRING",
+          "value": "-nobattleye -TotalConversionMod=0"
+        },
+        "extraLaunchOption_004_Name": {
+          "type": "STRING",
+          "value": "Launch ARK (Reset Active Total Conversion)"
+        },
+        "extraLaunchOption_005_Args": {
+          "type": "STRING",
+          "value": "-lowmemory -sm4 -nomansky"
+        },
+        "extraLaunchOption_005_Name": {
+          "type": "STRING",
+          "value": "Launch ARK (Extremely Low Memory)"
+        },
+        "extraLaunchOption_006_Args": {
+          "type": "STRING",
+          "value": "-nomansky"
+        },
+        "extraLaunchOption_006_Name": {
+          "type": "STRING",
+          "value": "Launch ARK (No Sky Effects)"
+        },
+        "extraLaunchOption_007_Args": {
+          "type": "STRING",
+          "value": "-nobattleye -resetres"
+        },
+        "extraLaunchOption_007_Name": {
+          "type": "STRING",
+          "value": "Reset Game Resolution"
+        },
+        "extraLaunchOption_008_Args": {
+          "type": "STRING",
+          "value": "4"
+        },
+        "extraLaunchOption_008_Name": {
+          "type": "STRING",
+          "value": "Uninstall BattlEye"
+        }
+      },
+      "description": "ARK: Survival Evolved",
+      "developer": "Studio Wildcard",
+      "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+      "endOfSupport": false,
+      "entitlementName": "743e47ee84ac49a1a49f4781da70e0d0",
+      "entitlementType": "EXECUTABLE",
+      "eulaIds": [
+        "egstore"
+      ],
+      "id": "743e47ee84ac49a1a49f4781da70e0d0",
+      "itemType": "DURABLE",
+      "keyImages": [
+        {
+          "height": 1440,
+          "md5": "c316afb7c33a9dfb892eef6b99169e43",
+          "size": 966339,
+          "type": "DieselGameBox",
+          "uploadedDate": "2020-06-10T16:30:54.400Z",
+          "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKSurvivalEvolved_StudioWildcard_S1-2560x1440-c316afb7c33a9dfb892eef6b99169e43.jpg",
+          "width": 2560
+        },
+        {
+          "height": 1600,
+          "md5": "5b58fdefea9f885c7426e894a1034921",
+          "size": 710510,
+          "type": "DieselGameBoxTall",
+          "uploadedDate": "2020-06-10T16:31:09.702Z",
+          "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKSurvivalEvolved_StudioWildcard_S2-1200x1600-5b58fdefea9f885c7426e894a1034921.jpg",
+          "width": 1200
+        }
+      ],
+      "lastModifiedDate": "2025-06-20T22:32:33.494Z",
+      "mainGameItemList": [],
+      "namespace": "ark",
+      "releaseInfo": [
+        {
+          "appId": "aafc587fbf654758802c8e41e4fb3255",
+          "dateAdded": "2020-03-28T00:00:00.000Z",
+          "id": "11b239088217436ea81bf3c5af8337fd",
+          "platform": [
+            "Windows",
+            "Mac"
+          ]
+        }
+      ],
+      "status": "ACTIVE",
+      "title": "ARK: Survival Evolved",
+      "unsearchable": true
+    },
+    "mainGameItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-03-23T17:43:29.664Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ARKSurvivalEvolved"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "ark"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "SkipAutoInstallDlc": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "extraLaunchOption_001_Args": {
+            "type": "STRING",
+            "value": "-nobattleye"
+          },
+          "extraLaunchOption_001_Name": {
+            "type": "STRING",
+            "value": "Play ARK: No BattlEye AntiCheat, Unofficial Servers Only"
+          },
+          "extraLaunchOption_002_Args": {
+            "type": "STRING",
+            "value": "-sm4 -nomansky"
+          },
+          "extraLaunchOption_002_Name": {
+            "type": "STRING",
+            "value": "Launch ARK (DirectX 10, Low-End Graphics)"
+          },
+          "extraLaunchOption_003_Args": {
+            "type": "STRING",
+            "value": "-allowansel"
+          },
+          "extraLaunchOption_003_Name": {
+            "type": "STRING",
+            "value": "Launch ARK with NVIDIA Ansel"
+          },
+          "extraLaunchOption_004_Args": {
+            "type": "STRING",
+            "value": "-nobattleye -TotalConversionMod=0"
+          },
+          "extraLaunchOption_004_Name": {
+            "type": "STRING",
+            "value": "Launch ARK (Reset Active Total Conversion)"
+          },
+          "extraLaunchOption_005_Args": {
+            "type": "STRING",
+            "value": "-lowmemory -sm4 -nomansky"
+          },
+          "extraLaunchOption_005_Name": {
+            "type": "STRING",
+            "value": "Launch ARK (Extremely Low Memory)"
+          },
+          "extraLaunchOption_006_Args": {
+            "type": "STRING",
+            "value": "-nomansky"
+          },
+          "extraLaunchOption_006_Name": {
+            "type": "STRING",
+            "value": "Launch ARK (No Sky Effects)"
+          },
+          "extraLaunchOption_007_Args": {
+            "type": "STRING",
+            "value": "-nobattleye -resetres"
+          },
+          "extraLaunchOption_007_Name": {
+            "type": "STRING",
+            "value": "Reset Game Resolution"
+          },
+          "extraLaunchOption_008_Args": {
+            "type": "STRING",
+            "value": "4"
+          },
+          "extraLaunchOption_008_Name": {
+            "type": "STRING",
+            "value": "Uninstall BattlEye"
+          }
+        },
+        "description": "ARK: Survival Evolved",
+        "developer": "Studio Wildcard",
+        "developerId": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+        "endOfSupport": false,
+        "entitlementName": "743e47ee84ac49a1a49f4781da70e0d0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "743e47ee84ac49a1a49f4781da70e0d0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "c316afb7c33a9dfb892eef6b99169e43",
+            "size": 966339,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-06-10T16:30:54.400Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKSurvivalEvolved_StudioWildcard_S1-2560x1440-c316afb7c33a9dfb892eef6b99169e43.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "5b58fdefea9f885c7426e894a1034921",
+            "size": 710510,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-06-10T16:31:09.702Z",
+            "url": "https://cdn1.epicgames.com/ark/item/EGS_ARKSurvivalEvolved_StudioWildcard_S2-1200x1600-5b58fdefea9f885c7426e894a1034921.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-20T22:32:33.494Z",
+        "mainGameItemList": [],
+        "namespace": "ark",
+        "releaseInfo": [
+          {
+            "appId": "aafc587fbf654758802c8e41e4fb3255",
+            "dateAdded": "2020-03-28T00:00:00.000Z",
+            "id": "11b239088217436ea81bf3c5af8337fd",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "ARK: Survival Evolved",
+        "unsearchable": true
+      }
+    ],
+    "namespace": "ark",
+    "releaseInfo": [
+      {
+        "appId": "40404abd974443de81c875af6323f329",
+        "dateAdded": "2020-03-28T00:00:00.000Z",
+        "id": "11b239088217436ea81bf3c5af8337fd",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "ARK Ragnarok",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

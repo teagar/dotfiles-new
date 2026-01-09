@@ -1,0 +1,1329 @@
+[    0.0206] Loaded translation file for language en-US
+[    0.0210] PCSX2 v2.6.0
+[    0.0210] Savestate version: 0x9a550000
+[    0.0210] 
+[    0.0210] 
+[    0.0210] Host Machine Init:
+[    0.0210]   Operating System = Arch Linux rolling
+[    0.0211]   Available RAM    = 4905 MB (4.79 GB)
+[    0.0211]   Physical RAM     = 7712 MB (7.53 GB)
+[    0.0211] 
+[    0.0211]   Processor        = Intel 11th Gen Core i5-11400H
+[    0.0211]   Core Count       = 6 cores
+[    0.0211]   Thread Count     = 12 threads
+[    0.0211]   Cluster Count    = 1 clusters
+[    0.0211] CPU Extensions Detected:
+[    0.0211]   AVX AVX2 AVX512F
+[    0.0211] 
+[    0.0211] Allocating host memory for virtual systems...
+[    0.0215] Data Memory                      @ 0x0000558B70000000 -> 0x0000558B79F00000 [159mb]
+[    0.0215] Code Memory                      @ 0x0000558B79F00000 -> 0x0000558B8D000000 [305mb]
+[    0.0216]   EE Main Memory                   @ 0x0000558B70000000 -> 0x0000558B78F00000 [143mb]
+[    0.0216]   IOP Main Memory                  @ 0x0000558B78F00000 -> 0x0000558B79200000 [3mb]
+[    0.0216]   VU0/1 On-Chip Memory             @ 0x0000558B79200000 -> 0x0000558B79300000 [1mb]
+[    0.0216]   VTLB Virtual Map                 @ 0x0000558B79300000 -> 0x0000558B79B00000 [8mb]
+[    0.0216]   VTLB Address Map                 @ 0x0000558B79B00000 -> 0x0000558B79F00000 [4mb]
+[    0.0216]   R5900 Recompiler Cache           @ 0x0000558B79F00000 -> 0x0000558B7DF00000 [64mb]
+[    0.0216]   R3000A Recompiler Cache          @ 0x0000558B7DF00000 -> 0x0000558B7FF00000 [32mb]
+[    0.0216]   Micro VU0 Recompiler Cache       @ 0x0000558B80F00000 -> 0x0000558B84F00000 [64mb]
+[    0.0216]   Micro VU0 Recompiler Cache       @ 0x0000558B84F00000 -> 0x0000558B88F00000 [64mb]
+[    0.0216]   VIF0 Unpack Recompiler Cache     @ 0x0000558B7FF00000 -> 0x0000558B80700000 [8mb]
+[    0.0216]   VIF1 Unpack Recompiler Cache     @ 0x0000558B80700000 -> 0x0000558B80F00000 [8mb]
+[    0.0216]   VIF Unpack Recompiler Cache      @ 0x0000558B88F00000 -> 0x0000558B89000000 [1mb]
+[    0.0216]   GS Software Renderer             @ 0x0000558B89000000 -> 0x0000558B8D000000 [64mb]
+[    0.0230] Fastmem area: 0x7f1c00000000 - 0x7f1cffffffff
+[    0.0238] Generating SSE-optimized unpacking functions for VIF interpreters...
+[    0.0239] Unpack function generation complete.  Generated function statistics:
+[    0.0239]   Reserved buffer    : 1048576 bytes @ 0x0000558B88F00000
+[    0.0239]   x86 code generated : 7344 bytes
+[    0.0239] 
+[    0.0245] SDLInputSource: Using Controller DB from resources.
+[    0.1205] Scanning /home/teagar/Iso
+[    0.1206] Scanning '/home/teagar/Iso/SLUS_219.78.DBZBT4B13REV5.iso'...
+[    0.1208] We're a tagged commit, but not running from an AppImage. Disabling automatic updater.
+[    0.1212] isoFile open ok: /home/teagar/Iso/SLUS_219.78.DBZBT4B13REV5.iso
+[    0.1212]   Image type  = CD
+[    0.1212]   blocks      = 2415592
+[    0.1212]   offset      = 0
+[    0.1212]   blocksize   = 2048
+[    0.1212]   blockoffset = 24
+[    0.1219] isoFile: Invalid layer1 Primary Volume Descriptor
+[    0.1219]  * CDVD Disk Open: DVD, Single layer or unknown:
+[    0.1219]  * * Track 1: Data (Mode 1) (2415592 sectors)
+[    0.1220] ISOReader: PVD found at index 0
+[    0.1221] ISOReader: PVD found at index 0
+[    0.1221] (SYSTEM.CNF) Detected PS2 Disc = cdrom0:\SLUS_219.78;1
+[    0.1221] (SYSTEM.CNF) Software version = 1.00
+[    0.1222] (SYSTEM.CNF) Disc region type = NTSC
+[    0.1222] cdvdLoadElf(): 'cdrom0:\SLUS_219.78;1' -> 'SLUS_219.78' in ISO.
+[    0.1256] Initializing Elf: 2115688 bytes
+[    0.1258] GameDB: Has not been initialized yet, initializing...
+[    0.1641] SDLInputSource: 720 gamepad mappings are loaded.
+[    0.1784] GameDB: 12838 games on record (loaded in 52.58ms)
+[    0.1785] Creating new game list cache file: '/home/teagar/.config/PCSX2/cache/gamelist.cache'
+[    0.2596] SDLInputSource: Gamepad 1 inserted
+[    0.2598] SDLInputSource: Opened gamepad 1 (instance id 1, player id 0): Xbox Series Controller
+[    0.2598] SDLInputSource: Gamepad 0 has 6 axes and 12 buttons
+[    0.2598] SDLInputSource: Rumble is supported on 'Xbox Series Controller' via gamepad
+[    8.4001] Loading BIOS...
+[    8.4032] BIOS Found: Europe  v02.00(14/06/2004)  Console 20040614-100914
+[    8.4079] BIOS rom1 module not found, skipping...
+[    8.4080] BIOS rom2 module not found, skipping...
+[    8.4083] Failed to open or read MEC file at SCPH-70004_BIOS_V12_PAL_200.nvm: errno 2: No such file or directory, creating default.
+[    8.4083] Mechacon version: 0x00020603
+[    8.4083] Opening CDVD...
+[    8.4087] isoFile open ok: /home/teagar/Iso/SLUS_219.78.DBZBT4B13REV5.iso
+[    8.4087]   Image type  = CD
+[    8.4087]   blocks      = 2415592
+[    8.4087]   offset      = 0
+[    8.4087]   blocksize   = 2048
+[    8.4087]   blockoffset = 24
+[    8.4088] isoFile: Invalid layer1 Primary Volume Descriptor
+[    8.4089]  * CDVD Disk Open: DVD, Single layer or unknown:
+[    8.4089]  * * Track 1: Data (Mode 1) (2415592 sectors)
+[    8.4089] ISOReader: PVD found at index 0
+[    8.4089] ISOReader: PVD found at index 0
+[    8.4089] (SYSTEM.CNF) Detected PS2 Disc = cdrom0:\SLUS_219.78;1
+[    8.4090] (SYSTEM.CNF) Software version = 1.00
+[    8.4090] (SYSTEM.CNF) Disc region type = NTSC
+[    8.4090] cdvdLoadElf(): 'cdrom0:\SLUS_219.78;1' -> 'SLUS_219.78' in ISO.
+[    8.4103] Initializing Elf: 2115688 bytes
+[    8.4104] Serial 'SLUS-21978' not found in GameDB.
+[    8.4104] Disc changed to SLUS_219.78.DBZBT4B13REV5.iso.
+[    8.4104]   Name: SLUS_219.78.DBZBT4B13REV5
+[    8.4104]   Serial: SLUS-21978
+[    8.4104]   Version: 1.00
+[    8.4104]   CRC: 428113C2
+[    8.4104] No game settings found (tried '/home/teagar/.config/PCSX2/gamesettings/428113C2.ini')
+[    8.4104] Applying settings...
+[    8.4143] Reopening memory cards...
+[    8.4144] (FileMcd) Creating new 8MB memory card: /home/teagar/.config/PCSX2/memcards/Mcd001.ps2
+[    8.4187] McdSlot 0 [File]: Mcd001.ps2 [8 MB, UNFORMATTED]
+[    8.4188] (FileMcd) Creating new 8MB memory card: /home/teagar/.config/PCSX2/memcards/Mcd002.ps2
+[    8.4231] McdSlot 1 [File]: Mcd002.ps2 [8 MB, UNFORMATTED]
+[    8.4243] HLE Host: Set 'host:' root path to: /home/teagar/Iso
+[    8.4243] 
+[    8.4244] EE/iR5900 Recompiler Reset
+[    8.4650] iR3000A Recompiler reset.
+[    8.4738] mVU Reset
+[    8.4739] mVU Reset
+[    8.4793] Resetting host memory for virtual systems...
+[    8.6032] Time Zone Offset: GMT+01:00
+[    8.6032] Time Zone Location: Berlin
+[    8.6032] DST: Winter Time
+[    8.6032] Time Format: 24-Hour
+[    8.6032] Date Format: DD/MM/YYYY
+[    8.6032] System Time Basis: Operating System Time
+[    8.6032] Resulting System Time: 2026-01-05 21:25:59
+[    8.6032] Close virtual disk tray
+[    8.6032] Media already loaded (fast boot)
+[    8.6032] Opening GS...
+[    8.6439] VK: Enabling extension: VK_KHR_get_surface_capabilities2
+[    8.6527] Using Vulkan GPU 'NVIDIA GeForce GTX 1650' for automatic renderer check.
+[    8.6527] Allowing Vulkan as default renderer.
+[    8.6532] acquireRenderWindow() recreate=true fullscreen=false render_to_main=true surfaceless=false
+[    8.6549] Surface refresh rate: 144.149 hz
+[    8.6558] VK: Enabling extension: VK_KHR_surface
+[    8.6558] VK: Enabling extension: VK_KHR_wayland_surface
+[    8.6558] VK: Enabling extension: VK_KHR_surface_maintenance1
+[    8.6559] VK: Enabling extension: VK_KHR_get_surface_capabilities2
+[    8.6678] No GPU requested, using first (NVIDIA GeForce GTX 1650)
+[    8.6679] 5 vulkan queue families
+[    8.6683] VK: Enabling extension: VK_KHR_swapchain
+[    8.6683] VK: Enabling extension: VK_KHR_push_descriptor
+[    8.6683] VK: Enabling extension: VK_EXT_provoking_vertex
+[    8.6683] VK: Enabling extension: VK_EXT_memory_budget
+[    8.6683] VK: Enabling extension: VK_EXT_calibrated_timestamps
+[    8.6683] VK: Enabling extension: VK_EXT_attachment_feedback_loop_layout
+[    8.6683] VK: Enabling extension: VK_EXT_line_rasterization
+[    8.6683] VK: Enabling extension: VK_KHR_driver_properties
+[    8.6683] VK: Enabling extension: VK_KHR_swapchain_maintenance1
+[    8.8175] GPU timing is supported (TS=1 TS valid bits=64, TS period=1.000000)
+[    8.8175] VK_EXT_provoking_vertex is supported
+[    8.8175] VK_EXT_memory_budget is supported
+[    8.8175] VK_EXT_calibrated_timestamps is supported
+[    8.8175] VK_EXT_rasterization_order_attachment_access is NOT supported
+[    8.8175] VK_KHR_swapchain_maintenance1 is supported
+[    8.8175] VK_EXT_full_screen_exclusive is NOT supported
+[    8.8175] VK_KHR_driver_properties is supported
+[    8.8175] VK_EXT_attachment_feedback_loop_layout is supported
+[    8.8196] Immediate not supported for vsync-disabled, using mailbox.
+[    8.8206] Creating a swap chain with 3 images in present mode VK_PRESENT_MODE_MAILBOX_KHR
+[    8.8230] Optional features: primitive_id texture_barrier provoking_vertex_last vs_expand
+[    8.8230] Using hardware for point expansion and hardware for line expansion.
+[    9.9152] Vulkan Graphics Driver Info:
+[    9.9152] Driver 590.192.64
+[    9.9152] Vulkan 1.4.325
+[    9.9152] Conformance Version 1.4.3.0
+[    9.9152] 590.48.01
+[    9.9152] NVIDIA
+[    9.9152] NVIDIA GeForce GTX 1650
+[    9.9172] Opening SPU2...
+[    9.9184] Creating Cubeb audio stream, sample rate = 48000, expansion = Disabled, buffer = 50, latency = 20, stretching enabled, driver = , device = 
+[    9.9269] Minimum latency: 25 ms (1200 audio frames)
+[    9.9270] Minimum latency is above requested latency: 1200 vs 960, adjusting to compensate.
+[    9.9270] Allocated buffer of 38400 frames for buffer of 50 ms [expansion Disabled (block size 2048), stretch enabled, target size 2432].
+[    9.9271] cubeb_pulse.c:924:Requested buffer attributes maxlength 4294967295, tlength 4800, prebuf 4294967295, minreq 1200, fragsize 1200
+[    9.9401] cubeb_pulse.c:1035:Output buffer attributes maxlength 4194304, tlength 3600, prebuf 2404, minreq 1200, fragsize 1200
+[    9.9401] cubeb_pulse.c:1049:Cubeb stream (0x7f1d04daa650) init successful.
+[    9.9403] cubeb_pulse.c:1115:Cubeb stream (0x7f1d04daa650) started successfully.
+[    9.9403] Initializing Pad...
+[    9.9403] Initializing SIO2...
+[    9.9403] Initializing SIO0...
+[    9.9403] Opening DEV9...
+[    9.9403] DEV9: DEV9init
+[    9.9404] DEV9: DEV9init2
+[    9.9404] DEV9: DEV9init3
+[    9.9447] DEV9: DEV9init ok
+[    9.9447] DEV9: DEV9open
+[    9.9447] Opening USB...
+[    9.9447] Opening FW...
+[    9.9448] Frame rate: 60, target speed: 1, target frame rate: 60, ticks per frame: 16666666
+[    9.9494] VM subsystems initialized in 1549.33 ms
+[    9.9779] R3000 Debugger: Branch to 0x890 (SYSMEM). Clearing modules.
+[    9.9802] RegisterLibraryEntries: excepman version 1.01
+[    9.9813] RegisterLibraryEntries:  intrman version 1.02
+[    9.9814] RegisterLibraryEntries:   ssbusc version 1.01
+[    9.9817] RegisterLibraryEntries:  dmacman version 1.02
+[    9.9821] RegisterLibraryEntries:  timrman version 1.01
+[    9.9823] RegisterLibraryEntries:  sysclib version 1.01
+[    9.9824] RegisterLibraryEntries:    stdio version 1.01
+[    9.9825] RegisterLibraryEntries:  heaplib version 1.01
+[    9.9832] FW: read mem 0x1f80847c: 0x10000001
+[    9.9832] FW: write mem 0x1f808414: 0x417f0000
+[    9.9832] FW: read mem 0x1f808400: 0xffc00001
+[    9.9832] FW: write mem 0x1f80844c: 0xffffffff
+[    9.9832] FW: write mem 0x1f808420: 0xffffffff
+[    9.9832] FW: write mem 0x1f808428: 0xffffffff
+[    9.9832] FW: write mem 0x1f808430: 0xffffffff
+[    9.9842] RegisterLibraryEntries:   thbase version 1.01
+[    9.9842] RegisterLibraryEntries:  thevent version 1.01
+[    9.9842] RegisterLibraryEntries:  thsemap version 1.01
+[    9.9843] RegisterLibraryEntries:  thmsgbx version 1.01
+[    9.9843] RegisterLibraryEntries:  thfpool version 1.01
+[    9.9843] RegisterLibraryEntries:  thvpool version 1.01
+[    9.9848] RegisterIntrHandler: intr INT_RTC5, handler fcb0
+[    9.9849] Updating psxCounter[5] mode old repeat 1 new 0 old toggle 0 new 0
+[    9.9852] RegisterLibraryEntries:   vblank version 1.01
+[    9.9853] RegisterIntrHandler: intr INT_VBLANK, handler 122a4
+[    9.9853] RegisterIntrHandler: intr INT_EVBLANK, handler 1235c
+[    9.9856] RegisterLibraryEntries:    ioman version 1.02
+[    9.9862] RegisterLibraryEntries:  modload version 1.01
+[    9.9865] RegisterLibraryEntries:   romdrv version 2.01
+[    9.9868] RegisterLibraryEntries:    stdio version 1.02
+[    9.9871] RegisterLibraryEntries:   sifman version 1.01
+[    9.9881] RegisterIntrHandler: intr INT_dmaSIF0, handler 16d94
+[   10.0496] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0496] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0496] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0496] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0496] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0496] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0496] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0496] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0496] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0496] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0496] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0496] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0496] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0496] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0496] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0497] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0498] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0498] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0498] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   10.0927] RegisterLibraryEntries:   sifcmd version 1.01
+[   10.0929] RegisterIntrHandler: intr INT_dmaSIF1, handler 183c0
+[   10.0935] ISOReader: PVD found at index 0
+[   10.0936] (SYSTEM.CNF) Detected PS2 Disc = cdrom0:\SLUS_219.78;1
+[   10.0936] (SYSTEM.CNF) Software version = 1.00
+[   10.0936] (SYSTEM.CNF) Disc region type = NTSC
+[   10.0937] ISOReader: PVD found at index 0
+[   10.0937] cdvdLoadElf(): 'cdrom0:\SLUS_219.78;1' -> 'SLUS_219.78' in ISO.
+[   10.0952] Initializing Elf: 2115688 bytes
+[   10.0962] ELF Loading: cdrom0:\SLUS_219.78;1, Game CRC = 428113C2, EntryPoint = 0x00100008
+[   10.0996] RegisterLibraryEntries:  cdvdman version 1.01
+[   10.0998] RegisterIntrHandler: intr INT_CDROM, handler 1f620
+[   10.1015] RegisterLibraryEntries:  cdvdfsv version 1.01
+[   10.1041] RegisterLibraryEntries:  secrman version 1.03
+[   10.1042] RegisterLibraryEntries:   eesync version 1.01
+[   10.1099] sifcmd sceSifRegisterRpc: rpc_id 80000592
+[   10.1099] sifcmd sceSifRegisterRpc: rpc_id 8000059a
+[   10.1099] sifcmd sceSifRegisterRpc: rpc_id 80000593
+[   10.1100] sifcmd sceSifRegisterRpc: rpc_id 80000597
+[   10.1100] sifcmd sceSifRegisterRpc: rpc_id 80000595
+[   10.1100] sifcmd sceSifRegisterRpc: rpc_id 80000006
+[   10.1100] sifcmd sceSifRegisterRpc: rpc_id 80000001
+[   10.1101] sifcmd sceSifRegisterRpc: rpc_id 80000003
+[   11.2002] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2003] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2004] microVU0: Waiting on VU1 thread to access VU1 regs!
+[   11.2010] ELF cdrom0:\SLUS_219.78;1 with entry point at 0x00100008 is executing.
+[   11.2010] ELF changed, active CRC 428113C2 (cdrom0:\SLUS_219.78;1)
+[   11.2016] Applying core settings...
+[   11.2019] Updating CPU configuration...
+[   11.2019] iR3000A Recompiler reset.
+[   11.2071] mVU Reset
+[   11.2071] mVU Reset
+[   11.2219] iR3000A Recompiler reset.
+[   11.2253] mVU Reset
+[   11.2253] mVU Reset
+[   11.2292] EE/iR5900 Recompiler Reset
+[   11.2444] BIOS: Successfully found the instruction pattern. Assuming the thread list is here: 8001a640
+[   11.2487] RegisterIntrHandler: intr INT_CDROM, handler 1f620
+[   11.2510] R3000 Debugger: Branch to 0x890 (SYSMEM). Clearing modules.
+[   11.2531] RegisterLibraryEntries: excepman version 1.01
+[   11.2541] RegisterLibraryEntries:  intrman version 1.02
+[   11.2542] RegisterLibraryEntries:   ssbusc version 1.01
+[   11.2546] RegisterLibraryEntries:  dmacman version 1.02
+[   11.2550] RegisterLibraryEntries:  timrman version 1.01
+[   11.2553] RegisterLibraryEntries:  sysclib version 1.01
+[   11.2553] RegisterLibraryEntries:    stdio version 1.01
+[   11.2555] RegisterLibraryEntries:  heaplib version 1.01
+[   11.2569] RegisterLibraryEntries:   thbase version 1.01
+[   11.2570] RegisterLibraryEntries:  thevent version 1.01
+[   11.2570] RegisterLibraryEntries:  thsemap version 1.01
+[   11.2570] RegisterLibraryEntries:  thmsgbx version 1.01
+[   11.2570] RegisterLibraryEntries:  thfpool version 1.01
+[   11.2570] RegisterLibraryEntries:  thvpool version 1.01
+[   11.2576] RegisterIntrHandler: intr INT_RTC5, handler fcb0
+[   11.2577] Updating psxCounter[5] mode old repeat 0 new 1 old toggle 0 new 0
+[   11.2577] Updating psxCounter[5] mode old repeat 1 new 0 old toggle 0 new 0
+[   11.2580] RegisterLibraryEntries:   vblank version 1.01
+[   11.2581] RegisterIntrHandler: intr INT_VBLANK, handler 122a4
+[   11.2581] RegisterIntrHandler: intr INT_EVBLANK, handler 1235c
+[   11.2584] RegisterLibraryEntries:    ioman version 1.02
+[   11.2594] RegisterLibraryEntries:  modload version 1.01
+[   11.2601] RegisterLibraryEntries:   romdrv version 2.01
+[   11.2612] RegisterLibraryEntries:    stdio version 1.02
+[   11.2620] RegisterLibraryEntries:   sifman version 1.01
+[   11.2648] RegisterLibraryEntries:  cdvdman version 1.01
+[   11.2650] RegisterIntrHandler: intr INT_CDROM, handler 1a620
+[   11.2664] RegisterLibraryEntries:  secrman version 1.03
+[   11.2669] RegisterLibraryEntries:  sio2man version 1.01
+[   11.2674] RegisterIntrHandler: intr INT_SIO2, handler 37908
+[   11.2710] RegisterLibraryEntries:    mcman version 1.01
+[   11.4719] R3000 Debugger: Branch to 0x890 (SYSMEM). Clearing modules.
+[   11.5366] RegisterLibraryEntries: excepman version 1.01
+[   11.5381] RegisterLibraryEntries:  intrman version 1.02
+[   11.5382] RegisterLibraryEntries:   ssbusc version 1.01
+[   11.5387] RegisterLibraryEntries:  dmacman version 1.02
+[   11.5393] RegisterLibraryEntries:  timrman version 1.03
+[   11.5396] RegisterLibraryEntries:  sysclib version 1.04
+[   11.5397] RegisterLibraryEntries:    stdio version 1.02
+[   11.5398] RegisterLibraryEntries:  heaplib version 1.01
+[   11.5422] RegisterLibraryEntries:   thbase version 1.02
+[   11.5423] RegisterLibraryEntries:  thevent version 1.01
+[   11.5423] RegisterLibraryEntries:  thsemap version 1.01
+[   11.5424] RegisterLibraryEntries:  thmsgbx version 1.01
+[   11.5424] RegisterLibraryEntries:  thfpool version 1.01
+[   11.5424] RegisterLibraryEntries:  thvpool version 1.01
+[   11.5430] Updating psxCounter[5] mode old repeat 0 new 1 old toggle 0 new 0
+[   11.5431] RegisterIntrHandler: intr INT_RTC5, handler 1145c
+[   11.5432] Updating psxCounter[5] mode old repeat 1 new 0 old toggle 0 new 0
+[   11.5436] RegisterLibraryEntries:   vblank version 1.01
+[   11.5437] RegisterIntrHandler: intr INT_VBLANK, handler 13ba4
+[   11.5437] RegisterIntrHandler: intr INT_EVBLANK, handler 13c5c
+[   11.5444] RegisterLibraryEntries:    ioman version 1.04
+[   11.5503] RegisterLibraryEntries:  modload version 1.07
+[   11.5514] RegisterLibraryEntries:   romdrv version 2.01
+[   11.5522] RegisterLibraryEntries:    stdio version 1.03
+[   11.5532] RegisterLibraryEntries:   sifman version 1.01
+[   11.5542] RegisterIntrHandler: intr INT_dmaSIF0, handler 1b478
+[   11.5544] RegisterLibraryEntries:   sifcmd version 1.01
+[   11.5545] RegisterIntrHandler: intr INT_dmaSIF1, handler 1d018
+[   11.5589] RegisterLibraryEntries:  cdvdman version 1.01
+[   11.5594] RegisterIntrHandler: intr INT_CDROM, handler 26a70
+[   11.5594] RegisterIntrHandler: intr INT_dmaCD, handler 289d0
+[   11.5681] RegisterLibraryEntries:  cdvdfsv version 1.01
+[   11.5714] RegisterLibraryEntries:  secrman version 1.03
+[   11.5716] RegisterLibraryEntries:   eesync version 1.01
+[   11.5874] sifcmd sceSifRegisterRpc: rpc_id 80000592
+[   11.5874] sifcmd sceSifRegisterRpc: rpc_id 8000059a
+[   11.5874] sifcmd sceSifRegisterRpc: rpc_id 80000593
+[   11.5875] sifcmd sceSifRegisterRpc: rpc_id 80000597
+[   11.5876] sifcmd sceSifRegisterRpc: rpc_id 80000595
+[   11.5876] sifcmd sceSifRegisterRpc: rpc_id 8000059c
+[   11.5876] sifcmd sceSifRegisterRpc: rpc_id 80000006
+[   11.5878] sifcmd sceSifRegisterRpc: rpc_id 80000001
+[   11.5878] sifcmd sceSifRegisterRpc: rpc_id 80000003
+[   11.6031] RegisterIntrHandler: intr INT_CDROM, handler 26a70
+[   11.6032] RegisterIntrHandler: intr INT_dmaCD, handler 289d0
+[   11.6217] CDGetToc Param[0]=0, Param[1]=179
+[   11.8526] RegisterLibraryEntries:  sio2man version 2.04
+[   11.8530] RegisterIntrHandler: intr INT_SIO2, handler 4c4b4
+[   11.9175] RegisterLibraryEntries:    mcman version 2.07
+[   11.9194] RegisterLibraryEntries:   mcserv version 2.01
+[   11.9201] sifcmd sceSifRegisterRpc: rpc_id 80000400
+[   11.9519] RegisterLibraryEntries:   dbcman version 1.02
+[   11.9526] sifcmd sceSifRegisterRpc: rpc_id 80001300
+[   11.9527] sifcmd sceSifRegisterRpc: rpc_id 8000131c
+[   11.9528] sifcmd sceSifRegisterRpc: rpc_id 8000131e
+[   11.9528] sifcmd sceSifRegisterRpc: rpc_id 8000131f
+[   11.9859] RegisterLibraryEntries:    sio2d version 2.03
+[   12.0685] RegisterLibraryEntries:    libsd version 1.05
+[   12.1023] RegisterLibraryEntries:   sdrdrv version 1.01
+[   12.1027] sifcmd sceSifRegisterRpc: rpc_id 80000701
+[   12.1520] RegisterLibraryEntries:  modhsyn version 1.04
+[   12.1845] RegisterLibraryEntries: modsesq2 version 1.01
+[   12.2336] RegisterLibraryEntries:  cdvdstm version 1.01
+[   12.2678] sifcmd sceSifRegisterRpc: rpc_id 2000004
+[   12.3188] RegisterIntrHandler: intr INT_dmaSPU, handler 85418
+[   12.3188] RegisterIntrHandler: intr INT_dmaSPU2, handler 85418
+[   12.3188] RegisterIntrHandler: intr INT_SPU, handler 86b40
+[   12.3193] sifcmd sceSifRegisterRpc: rpc_id 90000200
+[   12.3206] UpdateVSyncRate: Mode Changed to NTSC.
+[   12.3206] Frame rate: 59.829998, target speed: 1, target frame rate: 59.829998, ticks per frame: 16714023
+[   12.3206] Set GS CRTC configuration. NTSC 640x448 @ 59.940 (59.82) Interlaced (FRAME)
+[   12.3209] UpdateVSyncRate: Mode Changed to NTSC.
+[   12.3209] Frame rate: 59.94, target speed: 1, target frame rate: 59.94, ticks per frame: 16683350
+[   12.3211] UpdateVSyncRate: Mode Changed to NTSC.
+[   12.3211] Frame rate: 59.829998, target speed: 1, target frame rate: 59.829998, ticks per frame: 16714023
+[   12.3211] Set GS CRTC configuration. NTSC 640x448 @ 59.940 (59.82) Interlaced (FRAME)
+[   12.3211] UpdateVSyncRate: Mode Changed to NTSC.
+[   12.3211] Frame rate: 59.94, target speed: 1, target frame rate: 59.94, ticks per frame: 16683350
+[   12.3502] UpdateVSyncRate: Mode Changed to NTSC.
+[   12.3502] Frame rate: 59.829998, target speed: 1, target frame rate: 59.829998, ticks per frame: 16714023
+[   12.3502] Set GS CRTC configuration. NTSC 640x448 @ 59.940 (59.82) Interlaced (FIELD)
+[   12.3503] UpdateVSyncRate: Mode Changed to NTSC.
+[   12.3503] Frame rate: 59.94, target speed: 1, target frame rate: 59.94, ticks per frame: 16683350
+[   12.3539] RegisterIntrHandler: intr INT_RTC4, handler 8ca8
+[   12.3540] Updating psxCounter[4] mode old repeat 1 new 0 old toggle 0 new 0
+[   12.4671] Pad: DS2 Config Finished - P1/S1 - AL: On - AB: Locked - VS: Normal - VL: Normal - RB: D+A+P (0x0003FFFF)
+[   45.3352] FMV started
+[   48.3562] Creating a swap chain with 3 images in present mode VK_PRESENT_MODE_MAILBOX_KHR
+[   49.6894] BIOS Found: Europe  v02.00(14/06/2004)  Console 20040614-100914
+[   60.8246] We're a tagged commit, but not running from an AppImage. Disabling automatic updater.
+[   60.8295] BIOS Found: Europe  v01.60(04/10/2001)  Console 20011004-175839
+[   60.8314] BIOS Found: Japan   v01.00(17/01/2000)  Console 20000117-050310
+[   60.8319] BIOS Found: USA     v01.60(07/02/2002)  Console 20020207-164243
+[   60.8322] BIOS Found: Europe  v02.00(14/06/2004)  Console 20040614-100914
+[   60.9074] cubeb.c:727:DeviceID: "alsa_output.pci-0000_00_1f.3.analog-stereo" (PREFERRED)
+[   60.9074] 	Name:	"Built-in Audio Analog Stereo"
+[   60.9074] 	Group:	"/devices/pci0000:00/0000:00:1f.3/sound/card0"
+[   60.9074] 	Vendor:	"Intel Corporation"
+[   60.9074] 	Type:	output
+[   60.9074] 	State:	enabled
+[   60.9075] 	Maximum channels:	2
+[   60.9075] 	Format:	S16LE 
+[   83.6727] BIOS Found: Europe  v02.00(14/06/2004)  Console 20040614-100914
+[   83.6887] Uploaded texture resource 'fullscreenui/placeholder.png' (487x354)
+[   83.6912] Uploaded texture resource 'icons/AppBanner.svg' (709x108)
+[   83.6917] Uploaded texture resource 'icons/star-0.svg' (91x23)
+[   83.6921] Uploaded texture resource 'icons/star-1.svg' (91x23)
+[   83.6926] Uploaded texture resource 'icons/star-2.svg' (91x23)
+[   83.6930] Uploaded texture resource 'icons/star-3.svg' (91x23)
+[   83.6934] Uploaded texture resource 'icons/star-4.svg' (91x23)
+[   83.6938] Uploaded texture resource 'icons/star-5.svg' (91x23)
+[   83.6959] Uploaded texture resource 'fullscreenui/media-cdrom.svg' (85x85)
+[   83.7048] (VMManager) Pausing...
+[   88.5216] Add 74 seconds play time to SLUS-21978 -> now 74
+[   88.6124] DEV9: DEV9close
+[   88.6400] Writing 822980 bytes to '/home/teagar/.config/PCSX2/cache/vulkan_pipelines.bin'
+[   88.7088] DEV9: DEV9shutdown
+[   88.7093] NVRAM has not changed, not writing to disk.
+[   88.7116] Scanning /home/teagar/Iso
+[  106.3496] (MapController) Map Pad1/Up to 'SDL-0/DPadUp'
+[  106.3496] (MapController) Map Pad1/Right to 'SDL-0/DPadRight'
+[  106.3497] (MapController) Map Pad1/Down to 'SDL-0/DPadDown'
+[  106.3497] (MapController) Map Pad1/Left to 'SDL-0/DPadLeft'
+[  106.3497] (MapController) Map Pad1/Triangle to 'SDL-0/FaceNorth'
+[  106.3497] (MapController) Map Pad1/Circle to 'SDL-0/FaceEast'
+[  106.3497] (MapController) Map Pad1/Cross to 'SDL-0/FaceSouth'
+[  106.3497] (MapController) Map Pad1/Square to 'SDL-0/FaceWest'
+[  106.3497] (MapController) Map Pad1/Select to 'SDL-0/Back'
+[  106.3497] (MapController) Map Pad1/Start to 'SDL-0/Start'
+[  106.3498] (MapController) Map Pad1/L1 to 'SDL-0/LeftShoulder'
+[  106.3498] (MapController) Map Pad1/L2 to 'SDL-0/+LeftTrigger'
+[  106.3498] (MapController) Map Pad1/R1 to 'SDL-0/RightShoulder'
+[  106.3498] (MapController) Map Pad1/R2 to 'SDL-0/+RightTrigger'
+[  106.3498] (MapController) Map Pad1/L3 to 'SDL-0/LeftStick'
+[  106.3498] (MapController) Map Pad1/R3 to 'SDL-0/RightStick'
+[  106.3498] (MapController) Map Pad1/Analog to 'SDL-0/Guide'
+[  106.3498] (MapController) Map Pad1/LUp to 'SDL-0/-LeftY'
+[  106.3498] (MapController) Map Pad1/LRight to 'SDL-0/+LeftX'
+[  106.3498] (MapController) Map Pad1/LDown to 'SDL-0/+LeftY'
+[  106.3498] (MapController) Map Pad1/LLeft to 'SDL-0/-LeftX'
+[  106.3498] (MapController) Map Pad1/RUp to 'SDL-0/-RightY'
+[  106.3499] (MapController) Map Pad1/RRight to 'SDL-0/+RightX'
+[  106.3499] (MapController) Map Pad1/RDown to 'SDL-0/+RightY'
+[  106.3499] (MapController) Map Pad1/RLeft to 'SDL-0/-RightX'
+[  106.3499] (MapController) Map Pad1/LargeMotor to 'SDL-0/LargeMotor'
+[  106.3499] (MapController) Map Pad1/SmallMotor to 'SDL-0/SmallMotor'
+[  106.3499] (MapController) Map Pad1/SmallMotor to 'SDL-0/SmallMotor'
+[  106.3499] (MapController) Map Pad1/LargeMotor to 'SDL-0/LargeMotor'
+[  106.3500] Applying settings...
+[  111.0833] Loading BIOS...
+[  111.0835] BIOS Found: Europe  v02.00(14/06/2004)  Console 20040614-100914
+[  111.0854] BIOS rom1 module not found, skipping...
+[  111.0855] BIOS rom2 module not found, skipping...
+[  111.0855] Mechacon version: 0x00020603
+[  111.0855] Opening CDVD...
+[  111.0858] isoFile open ok: /home/teagar/Iso/SLUS_219.78.DBZBT4B13REV5.iso
+[  111.0859]   Image type  = CD
+[  111.0859]   blocks      = 2415592
+[  111.0859]   offset      = 0
+[  111.0859]   blocksize   = 2048
+[  111.0859]   blockoffset = 24
+[  111.0859] isoFile: Invalid layer1 Primary Volume Descriptor
+[  111.0860]  * CDVD Disk Open: DVD, Single layer or unknown:
+[  111.0860]  * * Track 1: Data (Mode 1) (2415592 sectors)
+[  111.0860] ISOReader: PVD found at index 0
+[  111.0860] ISOReader: PVD found at index 0
+[  111.0860] (SYSTEM.CNF) Detected PS2 Disc = cdrom0:\SLUS_219.78;1
+[  111.0860] (SYSTEM.CNF) Software version = 1.00
+[  111.0860] (SYSTEM.CNF) Disc region type = NTSC
+[  111.0860] cdvdLoadElf(): 'cdrom0:\SLUS_219.78;1' -> 'SLUS_219.78' in ISO.
+[  111.1052] Initializing Elf: 2115688 bytes
+[  111.1057] Serial 'SLUS-21978' not found in GameDB.
+[  111.1057] Disc changed to SLUS_219.78.DBZBT4B13REV5.iso.
+[  111.1057]   Name: SLUS_219.78.DBZBT4B13REV5
+[  111.1057]   Serial: SLUS-21978
+[  111.1057]   Version: 1.00
+[  111.1057]   CRC: 428113C2
+[  111.1057] No game settings found (tried '/home/teagar/.config/PCSX2/gamesettings/428113C2.ini')
+[  111.1058] Applying settings...
+[  111.1066] Reopening memory cards...
+[  111.1066] McdSlot 0 [File]: Mcd001.ps2 [8 MB, UNFORMATTED]
+[  111.1066] McdSlot 1 [File]: Mcd002.ps2 [8 MB, UNFORMATTED]
+[  111.1068] HLE Host: Set 'host:' root path to: /home/teagar/Iso
+[  111.1068] 
+[  111.1070] EE/iR5900 Recompiler Reset
+[  111.1198] iR3000A Recompiler reset.
+[  111.1235] mVU Reset
+[  111.1235] mVU Reset
+[  111.1274] Resetting host memory for virtual systems...
+[  111.1913] Time Zone Offset: GMT+01:00
+[  111.1913] Time Zone Location: Berlin
+[  111.1913] DST: Winter Time
+[  111.1913] Time Format: 24-Hour
+[  111.1913] Date Format: DD/MM/YYYY
+[  111.1913] System Time Basis: Operating System Time
+[  111.1914] Resulting System Time: 2026-01-05 21:27:42
+[  111.1914] Close virtual disk tray
+[  111.1914] Media already loaded (fast boot)
+[  111.1914] Opening GS...
+[  111.1922] acquireRenderWindow() recreate=true fullscreen=false render_to_main=true surfaceless=false
+[  111.1949] Surface refresh rate: 144.149 hz
+[  111.1959] VK: Enabling extension: VK_KHR_surface
+[  111.1959] VK: Enabling extension: VK_KHR_wayland_surface
+[  111.1959] VK: Enabling extension: VK_KHR_surface_maintenance1
+[  111.1959] VK: Enabling extension: VK_KHR_get_surface_capabilities2
+[  111.2112] No GPU requested, using first (NVIDIA GeForce GTX 1650)
+[  111.2113] 5 vulkan queue families
+[  111.2122] VK: Enabling extension: VK_KHR_swapchain
+[  111.2122] VK: Enabling extension: VK_KHR_push_descriptor
+[  111.2123] VK: Enabling extension: VK_EXT_provoking_vertex
+[  111.2123] VK: Enabling extension: VK_EXT_memory_budget
+[  111.2123] VK: Enabling extension: VK_EXT_calibrated_timestamps
+[  111.2123] VK: Enabling extension: VK_EXT_attachment_feedback_loop_layout
+[  111.2123] VK: Enabling extension: VK_EXT_line_rasterization
+[  111.2123] VK: Enabling extension: VK_KHR_driver_properties
+[  111.2123] VK: Enabling extension: VK_KHR_swapchain_maintenance1
+[  111.3439] GPU timing is supported (TS=1 TS valid bits=64, TS period=1.000000)
+[  111.3440] VK_EXT_provoking_vertex is supported
+[  111.3440] VK_EXT_memory_budget is supported
+[  111.3440] VK_EXT_calibrated_timestamps is supported
+[  111.3440] VK_EXT_rasterization_order_attachment_access is NOT supported
+[  111.3440] VK_KHR_swapchain_maintenance1 is supported
+[  111.3440] VK_EXT_full_screen_exclusive is NOT supported
+[  111.3440] VK_KHR_driver_properties is supported
+[  111.3440] VK_EXT_attachment_feedback_loop_layout is supported
+[  111.3449] Read 70 entries from '/home/teagar/.config/PCSX2/cache/vulkan_shaders.idx'
+[  111.3459] Immediate not supported for vsync-disabled, using mailbox.
+[  111.3469] Creating a swap chain with 3 images in present mode VK_PRESENT_MODE_MAILBOX_KHR
+[  111.3493] Optional features: primitive_id texture_barrier provoking_vertex_last vs_expand
+[  111.3493] Using hardware for point expansion and hardware for line expansion.
+[  111.4078] Vulkan Graphics Driver Info:
+[  111.4079] Driver 590.192.64
+[  111.4079] Vulkan 1.4.325
+[  111.4079] Conformance Version 1.4.3.0
+[  111.4079] 590.48.01
+[  111.4079] NVIDIA
+[  111.4079] NVIDIA GeForce GTX 1650
+[  111.4102] Opening SPU2...
+[  111.4104] Creating Cubeb audio stream, sample rate = 48000, expansion = Disabled, buffer = 50, latency = 20, stretching enabled, driver = , device = 
+[  111.4164] Minimum latency: 25 ms (1200 audio frames)
+[  111.4164] Minimum latency is above requested latency: 1200 vs 960, adjusting to compensate.
+[  111.4164] Allocated buffer of 38400 frames for buffer of 50 ms [expansion Disabled (block size 2048), stretch enabled, target size 2432].
+[  111.4165] cubeb_pulse.c:924:Requested buffer attributes maxlength 4294967295, tlength 4800, prebuf 4294967295, minreq 1200, fragsize 1200
+[  111.4294] cubeb_pulse.c:1035:Output buffer attributes maxlength 4194304, tlength 3600, prebuf 2404, minreq 1200, fragsize 1200
+[  111.4294] cubeb_pulse.c:1049:Cubeb stream (0x7f1d04dc5ac0) init successful.
+[  111.4296] cubeb_pulse.c:1115:Cubeb stream (0x7f1d04dc5ac0) started successfully.
+[  111.4296] Initializing Pad...
+[  111.4296] Initializing SIO2...
+[  111.4296] Initializing SIO0...
+[  111.4296] Opening DEV9...
+[  111.4296] DEV9: DEV9init
+[  111.4296] DEV9: DEV9init2
+[  111.4296] DEV9: DEV9init3
+[  111.4303] DEV9: DEV9init ok
+[  111.4303] DEV9: DEV9open
+[  111.4303] Opening USB...
+[  111.4303] Opening FW...
+[  111.4304] Frame rate: 60, target speed: 1, target frame rate: 60, ticks per frame: 16666666
+[  111.4358] VM subsystems initialized in 352.62 ms
+[  111.4652] R3000 Debugger: Branch to 0x890 (SYSMEM). Clearing modules.
+[  111.4689] RegisterLibraryEntries: excepman version 1.01
+[  111.4700] RegisterLibraryEntries:  intrman version 1.02
+[  111.4701] RegisterLibraryEntries:   ssbusc version 1.01
+[  111.4704] RegisterLibraryEntries:  dmacman version 1.02
+[  111.4707] RegisterLibraryEntries:  timrman version 1.01
+[  111.4709] RegisterLibraryEntries:  sysclib version 1.01
+[  111.4710] RegisterLibraryEntries:    stdio version 1.01
+[  111.4711] RegisterLibraryEntries:  heaplib version 1.01
+[  111.4715] FW: read mem 0x1f80847c: 0x10000001
+[  111.4715] FW: write mem 0x1f808414: 0x417f0000
+[  111.4715] FW: read mem 0x1f808400: 0xffc00001
+[  111.4715] FW: write mem 0x1f80844c: 0xffffffff
+[  111.4715] FW: write mem 0x1f808420: 0xffffffff
+[  111.4715] FW: write mem 0x1f808428: 0xffffffff
+[  111.4715] FW: write mem 0x1f808430: 0xffffffff
+[  111.4724] RegisterLibraryEntries:   thbase version 1.01
+[  111.4724] RegisterLibraryEntries:  thevent version 1.01
+[  111.4725] RegisterLibraryEntries:  thsemap version 1.01
+[  111.4725] RegisterLibraryEntries:  thmsgbx version 1.01
+[  111.4725] RegisterLibraryEntries:  thfpool version 1.01
+[  111.4725] RegisterLibraryEntries:  thvpool version 1.01
+[  111.4729] RegisterIntrHandler: intr INT_RTC5, handler fcb0
+[  111.4731] Updating psxCounter[5] mode old repeat 1 new 0 old toggle 0 new 0
+[  111.4733] RegisterLibraryEntries:   vblank version 1.01
+[  111.4734] RegisterIntrHandler: intr INT_VBLANK, handler 122a4
+[  111.4734] RegisterIntrHandler: intr INT_EVBLANK, handler 1235c
+[  111.4738] RegisterLibraryEntries:    ioman version 1.02
+[  111.4745] RegisterLibraryEntries:  modload version 1.01
+[  111.4748] RegisterLibraryEntries:   romdrv version 2.01
+[  111.4750] RegisterLibraryEntries:    stdio version 1.02
+[  111.4753] RegisterLibraryEntries:   sifman version 1.01
+[  111.4764] RegisterIntrHandler: intr INT_dmaSIF0, handler 16d94
+[  111.5440] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5440] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5441] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5442] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  111.5886] RegisterLibraryEntries:   sifcmd version 1.01
+[  111.5887] RegisterIntrHandler: intr INT_dmaSIF1, handler 183c0
+[  111.5894] ISOReader: PVD found at index 0
+[  111.5894] (SYSTEM.CNF) Detected PS2 Disc = cdrom0:\SLUS_219.78;1
+[  111.5894] (SYSTEM.CNF) Software version = 1.00
+[  111.5894] (SYSTEM.CNF) Disc region type = NTSC
+[  111.5896] ISOReader: PVD found at index 0
+[  111.5896] cdvdLoadElf(): 'cdrom0:\SLUS_219.78;1' -> 'SLUS_219.78' in ISO.
+[  111.5907] Initializing Elf: 2115688 bytes
+[  111.5920] ELF Loading: cdrom0:\SLUS_219.78;1, Game CRC = 428113C2, EntryPoint = 0x00100008
+[  111.5953] RegisterLibraryEntries:  cdvdman version 1.01
+[  111.5955] RegisterIntrHandler: intr INT_CDROM, handler 1f620
+[  111.5971] RegisterLibraryEntries:  cdvdfsv version 1.01
+[  111.5997] RegisterLibraryEntries:  secrman version 1.03
+[  111.6000] RegisterLibraryEntries:   eesync version 1.01
+[  111.6055] sifcmd sceSifRegisterRpc: rpc_id 80000592
+[  111.6056] sifcmd sceSifRegisterRpc: rpc_id 8000059a
+[  111.6056] sifcmd sceSifRegisterRpc: rpc_id 80000593
+[  111.6056] sifcmd sceSifRegisterRpc: rpc_id 80000597
+[  111.6056] sifcmd sceSifRegisterRpc: rpc_id 80000595
+[  111.6057] sifcmd sceSifRegisterRpc: rpc_id 80000006
+[  111.6057] sifcmd sceSifRegisterRpc: rpc_id 80000001
+[  111.6057] sifcmd sceSifRegisterRpc: rpc_id 80000003
+[  112.5210] FMV ended
+[  112.6866] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6866] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6867] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6868] microVU0: Waiting on VU1 thread to access VU1 regs!
+[  112.6872] ELF cdrom0:\SLUS_219.78;1 with entry point at 0x00100008 is executing.
+[  112.6873] ELF changed, active CRC 428113C2 (cdrom0:\SLUS_219.78;1)
+[  112.6875] Applying core settings...
+[  112.6878] Updating CPU configuration...
+[  112.6878] iR3000A Recompiler reset.
+[  112.6947] mVU Reset
+[  112.6947] mVU Reset
+[  112.7100] iR3000A Recompiler reset.
+[  112.7133] mVU Reset
+[  112.7134] mVU Reset
+[  112.7176] EE/iR5900 Recompiler Reset
+[  112.7330] BIOS: Successfully found the instruction pattern. Assuming the thread list is here: 8001a640
+[  112.7373] RegisterIntrHandler: intr INT_CDROM, handler 1f620
+[  112.7396] R3000 Debugger: Branch to 0x890 (SYSMEM). Clearing modules.
+[  112.7416] RegisterLibraryEntries: excepman version 1.01
+[  112.7425] RegisterLibraryEntries:  intrman version 1.02
+[  112.7427] RegisterLibraryEntries:   ssbusc version 1.01
+[  112.7431] RegisterLibraryEntries:  dmacman version 1.02
+[  112.7436] RegisterLibraryEntries:  timrman version 1.01
+[  112.7439] RegisterLibraryEntries:  sysclib version 1.01
+[  112.7439] RegisterLibraryEntries:    stdio version 1.01
+[  112.7441] RegisterLibraryEntries:  heaplib version 1.01
+[  112.7458] RegisterLibraryEntries:   thbase version 1.01
+[  112.7458] RegisterLibraryEntries:  thevent version 1.01
+[  112.7459] RegisterLibraryEntries:  thsemap version 1.01
+[  112.7459] RegisterLibraryEntries:  thmsgbx version 1.01
+[  112.7459] RegisterLibraryEntries:  thfpool version 1.01
+[  112.7460] RegisterLibraryEntries:  thvpool version 1.01
+[  112.7466] RegisterIntrHandler: intr INT_RTC5, handler fcb0
+[  112.7468] Updating psxCounter[5] mode old repeat 0 new 1 old toggle 0 new 0
+[  112.7468] Updating psxCounter[5] mode old repeat 1 new 0 old toggle 0 new 0
+[  112.7472] RegisterLibraryEntries:   vblank version 1.01
+[  112.7473] RegisterIntrHandler: intr INT_VBLANK, handler 122a4
+[  112.7474] RegisterIntrHandler: intr INT_EVBLANK, handler 1235c
+[  112.7477] RegisterLibraryEntries:    ioman version 1.02
+[  112.7487] RegisterLibraryEntries:  modload version 1.01
+[  112.7492] RegisterLibraryEntries:   romdrv version 2.01
+[  112.7499] RegisterLibraryEntries:    stdio version 1.02
+[  112.7503] RegisterLibraryEntries:   sifman version 1.01
+[  112.7532] RegisterLibraryEntries:  cdvdman version 1.01
+[  112.7534] RegisterIntrHandler: intr INT_CDROM, handler 1a620
+[  112.7541] RegisterLibraryEntries:  secrman version 1.03
+[  112.7544] RegisterLibraryEntries:  sio2man version 1.01
+[  112.7549] RegisterIntrHandler: intr INT_SIO2, handler 37908
+[  112.7579] RegisterLibraryEntries:    mcman version 1.01
+[  112.9574] R3000 Debugger: Branch to 0x890 (SYSMEM). Clearing modules.
+[  113.0221] RegisterLibraryEntries: excepman version 1.01
+[  113.0234] RegisterLibraryEntries:  intrman version 1.02
+[  113.0235] RegisterLibraryEntries:   ssbusc version 1.01
+[  113.0240] RegisterLibraryEntries:  dmacman version 1.02
+[  113.0246] RegisterLibraryEntries:  timrman version 1.03
+[  113.0250] RegisterLibraryEntries:  sysclib version 1.04
+[  113.0251] RegisterLibraryEntries:    stdio version 1.02
+[  113.0253] RegisterLibraryEntries:  heaplib version 1.01
+[  113.0274] RegisterLibraryEntries:   thbase version 1.02
+[  113.0274] RegisterLibraryEntries:  thevent version 1.01
+[  113.0275] RegisterLibraryEntries:  thsemap version 1.01
+[  113.0275] RegisterLibraryEntries:  thmsgbx version 1.01
+[  113.0275] RegisterLibraryEntries:  thfpool version 1.01
+[  113.0275] RegisterLibraryEntries:  thvpool version 1.01
+[  113.0280] Updating psxCounter[5] mode old repeat 0 new 1 old toggle 0 new 0
+[  113.0281] RegisterIntrHandler: intr INT_RTC5, handler 1145c
+[  113.0282] Updating psxCounter[5] mode old repeat 1 new 0 old toggle 0 new 0
+[  113.0286] RegisterLibraryEntries:   vblank version 1.01
+[  113.0287] RegisterIntrHandler: intr INT_VBLANK, handler 13ba4
+[  113.0287] RegisterIntrHandler: intr INT_EVBLANK, handler 13c5c
+[  113.0294] RegisterLibraryEntries:    ioman version 1.04
+[  113.0368] RegisterLibraryEntries:  modload version 1.07
+[  113.0377] RegisterLibraryEntries:   romdrv version 2.01
+[  113.0381] RegisterLibraryEntries:    stdio version 1.03
+[  113.0385] RegisterLibraryEntries:   sifman version 1.01
+[  113.0395] RegisterIntrHandler: intr INT_dmaSIF0, handler 1b478
+[  113.0396] RegisterLibraryEntries:   sifcmd version 1.01
+[  113.0397] RegisterIntrHandler: intr INT_dmaSIF1, handler 1d018
+[  113.0445] RegisterLibraryEntries:  cdvdman version 1.01
+[  113.0449] RegisterIntrHandler: intr INT_CDROM, handler 26a70
+[  113.0449] RegisterIntrHandler: intr INT_dmaCD, handler 289d0
+[  113.0544] RegisterLibraryEntries:  cdvdfsv version 1.01
+[  113.0569] RegisterLibraryEntries:  secrman version 1.03
+[  113.0572] RegisterLibraryEntries:   eesync version 1.01
+[  113.0719] sifcmd sceSifRegisterRpc: rpc_id 80000592
+[  113.0719] sifcmd sceSifRegisterRpc: rpc_id 8000059a
+[  113.0719] sifcmd sceSifRegisterRpc: rpc_id 80000593
+[  113.0720] sifcmd sceSifRegisterRpc: rpc_id 80000597
+[  113.0720] sifcmd sceSifRegisterRpc: rpc_id 80000595
+[  113.0720] sifcmd sceSifRegisterRpc: rpc_id 8000059c
+[  113.0721] sifcmd sceSifRegisterRpc: rpc_id 80000006
+[  113.0723] sifcmd sceSifRegisterRpc: rpc_id 80000001
+[  113.0723] sifcmd sceSifRegisterRpc: rpc_id 80000003
+[  113.0891] RegisterIntrHandler: intr INT_CDROM, handler 26a70
+[  113.0892] RegisterIntrHandler: intr INT_dmaCD, handler 289d0
+[  113.1072] CDGetToc Param[0]=0, Param[1]=179
+[  113.3397] RegisterLibraryEntries:  sio2man version 2.04
+[  113.3401] RegisterIntrHandler: intr INT_SIO2, handler 4c4b4
+[  113.4043] RegisterLibraryEntries:    mcman version 2.07
+[  113.4066] RegisterLibraryEntries:   mcserv version 2.01
+[  113.4073] sifcmd sceSifRegisterRpc: rpc_id 80000400
+[  113.4388] RegisterLibraryEntries:   dbcman version 1.02
+[  113.4396] sifcmd sceSifRegisterRpc: rpc_id 80001300
+[  113.4396] sifcmd sceSifRegisterRpc: rpc_id 8000131c
+[  113.4397] sifcmd sceSifRegisterRpc: rpc_id 8000131e
+[  113.4398] sifcmd sceSifRegisterRpc: rpc_id 8000131f
+[  113.4724] RegisterLibraryEntries:    sio2d version 2.03
+[  113.5556] RegisterLibraryEntries:    libsd version 1.05
+[  113.5871] RegisterLibraryEntries:   sdrdrv version 1.01
+[  113.5873] sifcmd sceSifRegisterRpc: rpc_id 80000701
+[  113.6378] RegisterLibraryEntries:  modhsyn version 1.04
+[  113.6711] RegisterLibraryEntries: modsesq2 version 1.01
+[  113.7200] RegisterLibraryEntries:  cdvdstm version 1.01
+[  113.7543] sifcmd sceSifRegisterRpc: rpc_id 2000004
+[  113.8048] RegisterIntrHandler: intr INT_dmaSPU, handler 85418
+[  113.8049] RegisterIntrHandler: intr INT_dmaSPU2, handler 85418
+[  113.8049] RegisterIntrHandler: intr INT_SPU, handler 86b40
+[  113.8054] sifcmd sceSifRegisterRpc: rpc_id 90000200
+[  113.8074] UpdateVSyncRate: Mode Changed to NTSC.
+[  113.8075] Frame rate: 59.829998, target speed: 1, target frame rate: 59.829998, ticks per frame: 16714023
+[  113.8075] Set GS CRTC configuration. NTSC 640x448 @ 59.940 (59.82) Interlaced (FRAME)
+[  113.8078] UpdateVSyncRate: Mode Changed to NTSC.
+[  113.8078] Frame rate: 59.94, target speed: 1, target frame rate: 59.94, ticks per frame: 16683350
+[  113.8081] UpdateVSyncRate: Mode Changed to NTSC.
+[  113.8081] Frame rate: 59.829998, target speed: 1, target frame rate: 59.829998, ticks per frame: 16714023
+[  113.8081] Set GS CRTC configuration. NTSC 640x448 @ 59.940 (59.82) Interlaced (FRAME)
+[  113.8081] UpdateVSyncRate: Mode Changed to NTSC.
+[  113.8081] Frame rate: 59.94, target speed: 1, target frame rate: 59.94, ticks per frame: 16683350
+[  113.8366] UpdateVSyncRate: Mode Changed to NTSC.
+[  113.8366] Frame rate: 59.829998, target speed: 1, target frame rate: 59.829998, ticks per frame: 16714023
+[  113.8366] Set GS CRTC configuration. NTSC 640x448 @ 59.940 (59.82) Interlaced (FIELD)
+[  113.8367] UpdateVSyncRate: Mode Changed to NTSC.
+[  113.8367] Frame rate: 59.94, target speed: 1, target frame rate: 59.94, ticks per frame: 16683350
+[  113.8415] RegisterIntrHandler: intr INT_RTC4, handler 8ca8
+[  113.8416] Updating psxCounter[4] mode old repeat 1 new 0 old toggle 0 new 0
+[  113.9534] Pad: DS2 Config Finished - P1/S1 - AL: On - AB: Locked - VS: Normal - VL: Normal - RB: D+A+P (0x0003FFFF)
+[  119.5709] cubeb.c:727:DeviceID: "alsa_output.pci-0000_00_1f.3.analog-stereo" (PREFERRED)
+[  119.5710] 	Name:	"Built-in Audio Analog Stereo"
+[  119.5710] 	Group:	"/devices/pci0000:00/0000:00:1f.3/sound/card0"
+[  119.5710] 	Vendor:	"Intel Corporation"
+[  119.5710] 	Type:	output
+[  119.5710] 	State:	enabled
+[  119.5711] 	Maximum channels:	2
+[  119.5711] 	Format:	S16LE 
+[  144.5339] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  144.5340] Applying settings...
+[  144.5362] Updating GS configuration...
+[  146.8234] FMV started
+[  155.9017] FMV ended
+[  204.9441] CTC2 at 00121118 paired with CFC2 00121130
+[  204.9441] Possible old value used in COP2 code. If the game is broken, please report to https://github.com/pcsx2/pcsx2.
+[  204.9442] 1210d8  D8A40000 lqc2	vf04, 0x   0(a1)
+[  204.9442] 1210dc  4BE481BC vmulax.xyzw ACC,vf16,vf04x
+[  204.9442] 1210e0  4BE488BD vmadday.xyzw ACC,vf17,vf04y
+[  204.9442] 1210e4  4BE490BE vmaddaz.xyzw ACC,vf18,vf04z
+[  204.9442] 1210e8  4BE4994B vmaddw.xyzw vf05, vf19, vf04w
+[  204.9442] 1210ec  4BE503BC vdiv Q, vf00w, vf05w
+[  204.9442] 1210f0  4BE002EC vsub.xyzw vf11, vf00, vf00
+[  204.9442] 1210f4  3C084580 lui	t0, 0x4580
+[  204.9442] 1210f8  00084438 dsll	t0,t0, 0x10
+[  204.9442] 1210fc  35084580 ori	t0,t0, 0x4580
+[  204.9442] 121100  00084438 dsll	t0,t0, 0x10
+[  204.9442] 121104  48A86000 qmtc2	t0, vf12
+[  204.9442] 121108  4A0003BF vwaitq
+[  204.9442] 12110c  4BC0295C vmulq.xyz vf05,vf05,Q
+[  204.9442] 121110  4A0002FF vnop
+[  204.9442] 121114  4A0002FF vnop
+[  204.9442] 121118  48C08000 ctc2	zero, Status
+[  204.9442] 12111c  4BAB282C vsub.xyw vf00, vf05, vf11
+[  204.9442] 121120 *4B85602C vsub.xy vf00, vf12, vf05
+[  204.9442] 121124  4B86297D vftoi4.xy vf06, vf05
+[  204.9442] 121128  4A66297C vftoi0.zw vf06, vf05
+[  204.9442] 12112c  F8860000 sqc2	vf06, 0x   0(a0)
+[  204.9442] 121130 =48428000 cfc2	v0, Status
+[  204.9442] 121134  304200C0 andi	v0,v0, 0x00C0
+[  204.9442] 121138  03E00008 jr	->ra
+[  204.9442] 12113c  2C420001 sltiu	v0,v0, 0x0001
+[  204.9617] microVU1: Cached Prog = [000] [PC=0000] [List=01] (Cache=0.000%) [0.0mb]
+[  204.9619] microVU1: Cached Prog = [001] [PC=0078] [List=01] (Cache=0.001%) [0.0mb]
+[  204.9619] microVU1: Cached Prog = [002] [PC=00a8] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9628] microVU1: Cached Prog = [003] [PC=0508] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9631] microVU1: Cached Prog = [004] [PC=0990] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9632] microVU1: Cached Prog = [005] [PC=09f0] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9632] microVU1: Cached Prog = [006] [PC=0530] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9634] microVU1: Cached Prog = [007] [PC=05a8] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9636] microVU1: Cached Prog = [008] [PC=05d0] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9637] microVU1: Cached Prog = [009] [PC=0648] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9639] microVU1: Cached Prog = [010] [PC=0670] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9641] microVU1: Cached Prog = [011] [PC=06e8] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9642] microVU1: Cached Prog = [012] [PC=0710] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9643] microVU1: Cached Prog = [013] [PC=0788] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9646] microVU1: Cached Prog = [014] [PC=07b0] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9647] microVU1: Cached Prog = [015] [PC=0828] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9649] microVU1: Cached Prog = [016] [PC=0850] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9650] microVU1: Cached Prog = [017] [PC=0890] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9650] microVU1: Cached Prog = [018] [PC=0348] [List=01] (Cache=0.002%) [0.0mb]
+[  204.9656] microVU1: Cached Prog = [019] [PC=0228] [List=01] (Cache=0.266%) [0.2mb]
+[  204.9700] microVU1: Cached Prog = [020] [PC=0000] [List=02] (Cache=0.332%) [0.2mb]
+[  204.9701] microVU1: Cached Prog = [021] [PC=0120] [List=01] (Cache=0.335%) [0.2mb]
+[  204.9706] microVU1: Cached Prog = [022] [PC=03e8] [List=01] (Cache=0.368%) [0.2mb]
+[  204.9727] microVU1: Cached Prog = [023] [PC=0000] [List=03] (Cache=0.401%) [0.2mb]
+[  204.9727] microVU1: Cached Prog = [024] [PC=0080] [List=01] (Cache=0.402%) [0.2mb]
+[  204.9727] microVU1: Branch Optimization
+[  204.9728] microVU1: Branch Optimization
+[  204.9728] microVU1: Branch Optimization
+[  204.9729] microVU1: Branch Optimization
+[  204.9729] microVU1: Branch Optimization
+[  204.9730] microVU1: Cached Prog = [025] [PC=0318] [List=01] (Cache=0.423%) [0.3mb]
+[  204.9730] microVU1: Branch Optimization
+[  204.9730] microVU1: Branch Optimization
+[  204.9731] microVU1: Branch Optimization
+[  204.9731] microVU1: Branch Optimization
+[  204.9731] microVU1: Branch Optimization
+[  204.9736] microVU1: Cached Prog = [026] [PC=0000] [List=04] (Cache=0.444%) [0.3mb]
+[  204.9736] microVU1: Cached Prog = [027] [PC=00a8] [List=02] (Cache=0.445%) [0.3mb]
+[  204.9742] microVU1: Cached Prog = [028] [PC=0668] [List=01] (Cache=0.445%) [0.3mb]
+[  204.9744] microVU1: Cached Prog = [029] [PC=0af0] [List=01] (Cache=0.445%) [0.3mb]
+[  204.9744] microVU1: Cached Prog = [030] [PC=0b50] [List=01] (Cache=0.445%) [0.3mb]
+[  204.9745] microVU1: Cached Prog = [031] [PC=0690] [List=01] (Cache=0.445%) [0.3mb]
+[  204.9746] microVU1: Cached Prog = [032] [PC=0708] [List=01] (Cache=0.445%) [0.3mb]
+[  204.9747] microVU1: Cached Prog = [033] [PC=0730] [List=01] (Cache=0.445%) [0.3mb]
+[  204.9751] microVU1: Cached Prog = [034] [PC=07a8] [List=01] (Cache=0.445%) [0.3mb]
+[  204.9752] microVU1: Cached Prog = [035] [PC=07d0] [List=01] (Cache=0.445%) [0.3mb]
+[  204.9754] microVU1: Cached Prog = [036] [PC=0848] [List=01] (Cache=0.445%) [0.3mb]
+[  204.9755] microVU1: Cached Prog = [037] [PC=0870] [List=01] (Cache=0.445%) [0.3mb]
+[  204.9756] microVU1: Cached Prog = [038] [PC=08e8] [List=01] (Cache=0.445%) [0.3mb]
+[  204.9760] microVU1: Cached Prog = [039] [PC=0910] [List=01] (Cache=0.445%) [0.3mb]
+[  204.9764] microVU1: Cached Prog = [040] [PC=0988] [List=01] (Cache=0.445%) [0.3mb]
+[  204.9767] microVU1: Cached Prog = [041] [PC=09b0] [List=01] (Cache=0.445%) [0.3mb]
+[  204.9769] microVU1: Cached Prog = [042] [PC=09f0] [List=02] (Cache=0.445%) [0.3mb]
+[  204.9770] microVU1: Cached Prog = [043] [PC=0478] [List=01] (Cache=0.445%) [0.3mb]
+[  214.3370] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  214.3371] Applying settings...
+[  214.3389] Updating GS configuration...
+[  219.4422] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  219.4423] Applying settings...
+[  219.4437] Updating GS configuration...
+[  220.7768] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  220.7769] Applying settings...
+[  220.7779] Updating GS configuration...
+[  223.9133] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  223.9134] Applying settings...
+[  223.9161] Updating GS configuration...
+[  229.0350] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  229.0351] Applying settings...
+[  229.0466] [Unsafe Settings] Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  229.0466] OSD [unsafe_settings_warning]:  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  229.0466] Updating GS configuration...
+[  232.2049] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  232.2050] Applying settings...
+[  232.2167] Updating GS configuration...
+[  235.1078] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  235.1079] Applying settings...
+[  235.1210] [Unsafe Settings] Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  235.1210] OSD [unsafe_settings_warning]:  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  235.1210] Updating GS configuration...
+[  239.3454] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  239.3456] Applying settings...
+[  239.3581] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  239.3581] [Unsafe Settings]
+[  239.3581] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  239.3581]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  239.3581] Updating GS configuration...
+[  243.4328] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  243.4329] Applying settings...
+[  243.4341] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  243.4341] [Unsafe Settings]
+[  243.4341] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  243.4341]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  243.4341] Updating GS configuration...
+[  249.7057] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  249.7058] Applying settings...
+[  249.7081] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  249.7081] [Unsafe Settings]t set to Bilinear (PS2). This will break rendering in some games.
+[  249.7081] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  249.7082]  Dithering is set to Force 32 bit. This will break rendering in some games.
+[  249.7082]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  249.7082] Updating GS configuration...
+[  253.5262] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  253.5263] Applying settings...
+[  253.5276] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  253.5276] [Unsafe Settings]o Bilinear (PS2). This will break rendering in some games.
+[  253.5276] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  253.5276]  Dithering is disabled. This will cause color banding in some games.
+[  253.5276]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  253.5276] Updating GS configuration...
+[  258.1141] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  258.1142] Applying settings...
+[  258.1264] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  258.1264] [Unsafe Settings]o Bilinear (PS2). This will break rendering in some games.
+[  258.1264] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  258.1264]  Dithering is disabled. This will cause color banding in some games.
+[  258.1264]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  258.1264] Updating GS configuration...
+[  261.0504] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  261.0505] Applying settings...
+[  261.0620] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  261.0620] [Unsafe Settings]o Bilinear (PS2). This will break rendering in some games.
+[  261.0620] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  261.0620]  Dithering is disabled. This will cause color banding in some games.
+[  261.0620]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  261.0620] Updating GS configuration...
+[  268.9750] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  268.9751] Applying settings...
+[  268.9765] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  268.9765] [Unsafe Settings]o Bilinear (PS2). This will break rendering in some games.
+[  268.9765] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  268.9765]  Dithering is disabled. This will cause color banding in some games.
+[  268.9765]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  268.9765] Updating GS configuration...
+[  271.4107] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  271.4108] Applying settings...
+[  271.4129] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  271.4129] [Unsafe Settings]o Bilinear (PS2). This will break rendering in some games.
+[  271.4129] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  271.4130]  Dithering is disabled. This will cause color banding in some games.
+[  271.4130]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  271.4130] Updating GS configuration...
+[  272.3283] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  272.3284] Applying settings...
+[  272.3401] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  272.3401] [Unsafe Settings]o Bilinear (PS2). This will break rendering in some games.
+[  272.3401] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  272.3401]  Dithering is disabled. This will cause color banding in some games.
+[  272.3401]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  272.3401] Updating GS configuration...
+[  272.8789] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  272.8790] Applying settings...
+[  272.8809] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  272.8809] [Unsafe Settings]o Bilinear (PS2). This will break rendering in some games.
+[  272.8809] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  272.8809]  Dithering is disabled. This will cause color banding in some games.
+[  272.8809]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  275.8986] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  275.8988] Applying settings...
+[  275.9105] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  275.9105] [Unsafe Settings]o Bilinear (PS2). This will break rendering in some games.
+[  275.9105] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  275.9105]  Dithering is disabled. This will cause color banding in some games.
+[  275.9105]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  275.9105] Updating GS configuration...
+[  279.6023] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  279.6023] Applying settings...
+[  279.6142] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  279.6143] [Unsafe Settings]o Bilinear (PS2). This will break rendering in some games.
+[  279.6143] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  279.6143]  Dithering is disabled. This will cause color banding in some games.
+[  279.6143]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  279.6143] Updating GS configuration...
+[  281.7878] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  281.7879] Applying settings...
+[  281.7903] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  281.7903] [Unsafe Settings]o Bilinear (PS2). This will break rendering in some games.
+[  281.7903] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  281.7903]  Dithering is disabled. This will cause color banding in some games.
+[  281.7903]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  281.7903] Updating GS configuration...
+[  284.8408] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  284.8409] Applying settings...
+[  284.8521] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  284.8521] [Unsafe Settings]o Bilinear (PS2). This will break rendering in some games.
+[  284.8522] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  284.8522]  Dithering is disabled. This will cause color banding in some games.
+[  284.8522]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  284.8522] Updating GS configuration...
+[  288.5612] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  288.5613] Applying settings...
+[  288.5657] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  288.5658] [Unsafe Settings]o Bilinear (PS2). This will break rendering in some games.
+[  288.5658] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  288.5658]  Dithering is disabled. This will cause color banding in some games.
+[  288.5658]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  288.5658] Updating GS configuration...
+[  290.9470] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  290.9471] Applying settings...
+[  290.9563] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  290.9563] [Unsafe Settings]o Bilinear (PS2). This will break rendering in some games.
+[  290.9563] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  290.9563]  Dithering is disabled. This will cause color banding in some games.
+[  290.9563]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  290.9563] Updating GS configuration...
+[  292.4484] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  292.4485] Applying settings...
+[  292.4587] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  292.4587] [Unsafe Settings]o Bilinear (PS2). This will break rendering in some games.
+[  292.4587] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  292.4587]  Dithering is disabled. This will cause color banding in some games.
+[  292.4587]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  292.4587] Updating GS configuration...
+[  293.2493] Loading game settings from '/home/teagar/.config/PCSX2/gamesettings/SLUS-21978_428113C2.ini'...
+[  293.2494] Applying settings...
+[  293.2595] [Unsafe Settings] Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  293.2595] [Unsafe Settings]o Bilinear (PS2). This will break rendering in some games.
+[  293.2595] OSD [unsafe_settings_warning]:  Trilinear filtering is not set to automatic. This may break rendering in some games.
+[  293.2595]  Dithering is disabled. This will cause color banding in some games.
+[  293.2595]  Texture filtering is not set to Bilinear (PS2). This will break rendering in some games.
+[  293.2595] Updating GS configuration...
+[  307.3152] Creating a swap chain with 3 images in present mode VK_PRESENT_MODE_MAILBOX_KHR
+[  309.4575] CTC2 at 00121298 paired with CFC2 001212B4
+[  309.4576] Possible old value used in COP2 code. If the game is broken, please report to https://github.com/pcsx2/pcsx2.
+[  309.4576] 121240  0100182D daddu	v1, t0, zero
+[  309.4576] 121244  D8C40000 lqc2	vf04, 0x   0(a2)
+[  309.4576] 121248  D8E80000 lqc2	vf08, 0x   0(a3)
+[  309.4576] 12124c  4BE481BC vmulax.xyzw ACC,vf16,vf04x
+[  309.4576] 121250  4BE488BD vmadday.xyzw ACC,vf17,vf04y
+[  309.4576] 121254  4BE490BE vmaddaz.xyzw ACC,vf18,vf04z
+[  309.4576] 121258  4BE4994B vmaddw.xyzw vf05, vf19, vf04w
+[  309.4576] 12125c  4BE503BC vdiv Q, vf00w, vf05w
+[  309.4576] 121260  4A480B3C vmove.z, vf08, vf01
+[  309.4576] 121264  4BE002EC vsub.xyzw vf11, vf00, vf00
+[  309.4576] 121268  3C084580 lui	t0, 0x4580
+[  309.4576] 12126c  00084438 dsll	t0,t0, 0x10
+[  309.4577] 121270  35084580 ori	t0,t0, 0x4580
+[  309.4577] 121274  00084438 dsll	t0,t0, 0x10
+[  309.4577] 121278  48A86000 qmtc2	t0, vf12
+[  309.4577] 12127c  20C60010 addi	a2, a2, 0x0010
+[  309.4577] 121280  D8C40000 lqc2	vf04, 0x   0(a2)
+[  309.4577] 121284  4A0003BF vwaitq
+[  309.4577] 121288  4BC0295C vmulq.xyz vf05,vf05,Q
+[  309.4577] 12128c  4BC041DC vmulq.xyz vf07,vf08,Q
+[  309.4577] 121290  20E70010 addi	a3, a3, 0x0010
+[  309.4577] 121294  D8E80000 lqc2	vf08, 0x   0(a3)
+[  309.4577] 121298  48C08000 ctc2	zero, Status
+[  309.4577] 12129c  4BAB282C vsub.xyw vf00, vf05, vf11
+[  309.4578] 1212a0 *4B85602C vsub.xy vf00, vf12, vf05
+[  309.4578] 1212a4  4B86297D vftoi4.xy vf06, vf05
+[  309.4578] 1212a8  4A66297C vftoi0.zw vf06, vf05
+[  309.4578] 1212ac  F8A70000 sqc2	vf07, 0x   0(a1)
+[  309.4578] 1212b0  F8860000 sqc2	vf06, 0x   0(a0)
+[  309.4578] 1212b4 =48428000 cfc2	v0, Status
+[  309.4578] 1212b8  304200C0 andi	v0,v0, 0x00C0
+[  309.4578] 1212bc  14020004 bne	zero, v0, ->$0x001212D0
+[  309.4578] 1212c0  20840010 addi	a0, a0, 0x0010
+[  309.4579] CTC2 at 00121298 paired with CFC2 001212B4
+[  309.4579] Possible old value used in COP2 code. If the game is broken, please report to https://github.com/pcsx2/pcsx2.
+[  309.4579] 12124c  4BE481BC vmulax.xyzw ACC,vf16,vf04x
+[  309.4579] 121250  4BE488BD vmadday.xyzw ACC,vf17,vf04y
+[  309.4579] 121254  4BE490BE vmaddaz.xyzw ACC,vf18,vf04z
+[  309.4579] 121258  4BE4994B vmaddw.xyzw vf05, vf19, vf04w
+[  309.4579] 12125c  4BE503BC vdiv Q, vf00w, vf05w
+[  309.4579] 121260  4A480B3C vmove.z, vf08, vf01
+[  309.4579] 121264  4BE002EC vsub.xyzw vf11, vf00, vf00
+[  309.4579] 121268  3C084580 lui	t0, 0x4580
+[  309.4579] 12126c  00084438 dsll	t0,t0, 0x10
+[  309.4579] 121270  35084580 ori	t0,t0, 0x4580
+[  309.4579] 121274  00084438 dsll	t0,t0, 0x10
+[  309.4579] 121278  48A86000 qmtc2	t0, vf12
+[  309.4579] 12127c  20C60010 addi	a2, a2, 0x0010
+[  309.4579] 121280  D8C40000 lqc2	vf04, 0x   0(a2)
+[  309.4579] 121284  4A0003BF vwaitq
+[  309.4579] 121288  4BC0295C vmulq.xyz vf05,vf05,Q
+[  309.4579] 12128c  4BC041DC vmulq.xyz vf07,vf08,Q
+[  309.4579] 121290  20E70010 addi	a3, a3, 0x0010
+[  309.4579] 121294  D8E80000 lqc2	vf08, 0x   0(a3)
+[  309.4579] 121298  48C08000 ctc2	zero, Status
+[  309.4579] 12129c  4BAB282C vsub.xyw vf00, vf05, vf11
+[  309.4579] 1212a0 *4B85602C vsub.xy vf00, vf12, vf05
+[  309.4579] 1212a4  4B86297D vftoi4.xy vf06, vf05
+[  309.4579] 1212a8  4A66297C vftoi0.zw vf06, vf05
+[  309.4579] 1212ac  F8A70000 sqc2	vf07, 0x   0(a1)
+[  309.4579] 1212b0  F8860000 sqc2	vf06, 0x   0(a0)
+[  309.4579] 1212b4 =48428000 cfc2	v0, Status
+[  309.4580] 1212b8  304200C0 andi	v0,v0, 0x00C0
+[  309.4580] 1212bc  14020004 bne	zero, v0, ->$0x001212D0
+[  309.4580] 1212c0  20840010 addi	a0, a0, 0x0010
+[  310.6797] CTC2 at 00121188 paired with CFC2 001211A0
+[  310.6798] Possible old value used in COP2 code. If the game is broken, please report to https://github.com/pcsx2/pcsx2.
+[  310.6798] 121140  D8A40000 lqc2	vf04, 0x   0(a1)
+[  310.6798] 121144  4BE481BC vmulax.xyzw ACC,vf16,vf04x
+[  310.6798] 121148  4BE488BD vmadday.xyzw ACC,vf17,vf04y
+[  310.6798] 12114c  4BE490BE vmaddaz.xyzw ACC,vf18,vf04z
+[  310.6798] 121150  4BE4994B vmaddw.xyzw vf05, vf19, vf04w
+[  310.6798] 121154  4BE503BC vdiv Q, vf00w, vf05w
+[  310.6798] 121158  4BE002EC vsub.xyzw vf11, vf00, vf00
+[  310.6798] 12115c  3C084580 lui	t0, 0x4580
+[  310.6798] 121160  00084438 dsll	t0,t0, 0x10
+[  310.6798] 121164  35084580 ori	t0,t0, 0x4580
+[  310.6798] 121168  00084438 dsll	t0,t0, 0x10
+[  310.6798] 12116c  48A86000 qmtc2	t0, vf12
+[  310.6798] 121170  20A50010 addi	a1, a1, 0x0010
+[  310.6798] 121174  D8A40000 lqc2	vf04, 0x   0(a1)
+[  310.6798] 121178  4A0003BF vwaitq
+[  310.6798] 12117c  4BC0295C vmulq.xyz vf05,vf05,Q
+[  310.6799] 121180  4A0002FF vnop
+[  310.6799] 121184  4A0002FF vnop
+[  310.6799] 121188  48C08000 ctc2	zero, Status
+[  310.6799] 12118c  4BAB282C vsub.xyw vf00, vf05, vf11
+[  310.6799] 121190 *4B85602C vsub.xy vf00, vf12, vf05
+[  310.6799] 121194  4B86297D vftoi4.xy vf06, vf05
+[  310.6799] 121198  4A66297C vftoi0.zw vf06, vf05
+[  310.6799] 12119c  F8860000 sqc2	vf06, 0x   0(a0)
+[  310.6799] 1211a0 =48428000 cfc2	v0, Status
+[  310.6799] 1211a4  304200C0 andi	v0,v0, 0x00C0
+[  310.6799] 1211a8  14020004 bne	zero, v0, ->$0x001211BC
+[  310.6799] 1211ac  00000000 nop
+[  310.6800] CTC2 at 00121188 paired with CFC2 001211A0
+[  310.6800] Possible old value used in COP2 code. If the game is broken, please report to https://github.com/pcsx2/pcsx2.
+[  310.6800] 121144  4BE481BC vmulax.xyzw ACC,vf16,vf04x
+[  310.6800] 121148  4BE488BD vmadday.xyzw ACC,vf17,vf04y
+[  310.6800] 12114c  4BE490BE vmaddaz.xyzw ACC,vf18,vf04z
+[  310.6800] 121150  4BE4994B vmaddw.xyzw vf05, vf19, vf04w
+[  310.6800] 121154  4BE503BC vdiv Q, vf00w, vf05w
+[  310.6800] 121158  4BE002EC vsub.xyzw vf11, vf00, vf00
+[  310.6800] 12115c  3C084580 lui	t0, 0x4580
+[  310.6800] 121160  00084438 dsll	t0,t0, 0x10
+[  310.6800] 121164  35084580 ori	t0,t0, 0x4580
+[  310.6800] 121168  00084438 dsll	t0,t0, 0x10
+[  310.6800] 12116c  48A86000 qmtc2	t0, vf12
+[  310.6800] 121170  20A50010 addi	a1, a1, 0x0010
+[  310.6800] 121174  D8A40000 lqc2	vf04, 0x   0(a1)
+[  310.6800] 121178  4A0003BF vwaitq
+[  310.6800] 12117c  4BC0295C vmulq.xyz vf05,vf05,Q
+[  310.6800] 121180  4A0002FF vnop
+[  310.6800] 121184  4A0002FF vnop
+[  310.6800] 121188  48C08000 ctc2	zero, Status
+[  310.6800] 12118c  4BAB282C vsub.xyw vf00, vf05, vf11
+[  310.6800] 121190 *4B85602C vsub.xy vf00, vf12, vf05
+[  310.6801] 121194  4B86297D vftoi4.xy vf06, vf05
+[  310.6801] 121198  4A66297C vftoi0.zw vf06, vf05
+[  310.6801] 12119c  F8860000 sqc2	vf06, 0x   0(a0)
+[  310.6801] 1211a0 =48428000 cfc2	v0, Status
+[  310.6801] 1211a4  304200C0 andi	v0,v0, 0x00C0
+[  310.6801] 1211a8  14020004 bne	zero, v0, ->$0x001211BC
+[  310.6801] 1211ac  00000000 nop
+[  321.0624] microVU1: Cached Prog = [044] [PC=0000] [List=05] (Cache=0.719%) [0.4mb]
+[  321.0625] microVU1: Cached Prog = [045] [PC=01a0] [List=01] (Cache=0.723%) [0.4mb]
+[  323.6964] (VMManager) Pausing...
+[  324.5521] Add 212 seconds play time to SLUS-21978 -> now 286
+[  324.6651] DEV9: DEV9close
+[  324.6855] Writing 1949433 bytes to '/home/teagar/.config/PCSX2/cache/vulkan_pipelines.bin'
+[  324.7549] DEV9: DEV9shutdown
+[  324.7573] NVRAM has not changed, not writing to disk.
+[  324.8205] Releasing host memory for virtual systems...

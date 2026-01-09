@@ -1,0 +1,24 @@
+2026/01/09-01:35:09.158 4f1 Reusing MANIFEST /home/teagar/.config/lunarclient/WebStorage/3/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/01/09-01:35:09.158 4f1 Recovering log #201
+2026/01/09-01:35:09.158 4f1 Reusing old log /home/teagar/.config/lunarclient/WebStorage/3/IndexedDB/indexeddb.leveldb/000201.log 
+2026/01/09-01:35:09.220 619 Level-0 table #206: started
+2026/01/09-01:35:09.222 619 Level-0 table #206: 2739 bytes OK
+2026/01/09-01:35:09.224 619 Delete type=0 #201
+2026/01/09-01:35:09.224 57b Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1e\x00\x00\xc8\x05\x00s\x00t\x00o\x00r\x00e' @ 3235 : 1
+2026/01/09-01:35:09.224 57b Compacting 1@0 + 1@1 files
+2026/01/09-01:35:09.225 57b Generated table #207@0: 94 keys, 2717 bytes
+2026/01/09-01:35:09.225 57b Compacted 1@0 + 1@1 files => 2717 bytes
+2026/01/09-01:35:09.227 57b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/09-01:35:09.227 57b Delete type=2 #206
+2026/01/09-01:35:09.227 57b Manual compaction at level-0 from '\x00\x1e\x00\x00\xc8\x05\x00s\x00t\x00o\x00r\x00e' @ 3235 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/09-01:35:10.259 57a Level-0 table #209: started
+2026/01/09-01:35:10.261 57a Level-0 table #209: 414 bytes OK
+2026/01/09-01:35:10.264 57a Delete type=2 #203
+2026/01/09-01:35:10.264 57a Delete type=0 #205
+2026/01/09-01:35:10.264 4f0 Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1e\x00\x00\x04' @ 3296 : 1
+2026/01/09-01:35:10.264 4f0 Compacting 1@0 + 1@1 files
+2026/01/09-01:35:10.266 4f0 Generated table #210@0: 94 keys, 2716 bytes
+2026/01/09-01:35:10.266 4f0 Compacted 1@0 + 1@1 files => 2716 bytes
+2026/01/09-01:35:10.268 4f0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/09-01:35:10.268 4f0 Delete type=2 #209
+2026/01/09-01:35:10.268 4f0 Manual compaction at level-0 from '\x00\x1e\x00\x00\x04' @ 3296 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)

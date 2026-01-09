@@ -1,0 +1,16 @@
+# Laptop Only (External disconnected)
+profile {
+    output eDP-1 enable scale 1.0
+}
+
+# External Only (Laptop lid likely closed)
+# profile {
+#     output HDMI-A-1 enable mode "1920x1080@60Hz" position 0,0
+#     output eDP-1 disable
+# }
+
+# Extended Desktop (Automatic when both connected)
+# profile {
+#     output eDP-1 enable position 0,0
+#     output HDMI-A-1 enable mode "1920x1080@60Hz" position 1920,0
+# }

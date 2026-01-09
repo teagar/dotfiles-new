@@ -1,0 +1,50 @@
+{
+  "clientId": "1a844b39-f3f7-4a6f-9643-597d921e9524",
+  "userId": "",
+  "authedUserIDs": [],
+  "app": {
+    "logLevel": 1,
+    "lastTimeClearLogFile": 1767493187923,
+    "enableColorSpaceSrgb": false,
+    "visibleNewProjectBtn": true,
+    "useZenity": false,
+    "disableThemes": false,
+    "panelHeight": 40,
+    "saveLastOpenedTabs": true,
+    "exportDir": "/home/teagar/Pictures/Figma",
+    "commandSwitches": [
+      {
+        "switch": "enable-gpu-rasterization"
+      },
+      {
+        "switch": "enable-experimental-canvas-features"
+      },
+      {
+        "switch": "use-vulkan"
+      }
+    ],
+    "fontDirs": [
+      "/usr/share/fonts",
+      "/usr/local/share/fonts",
+      "/run/host/fonts",
+      "/run/host/user-fonts",
+      "/home/teagar/.local/share/fonts"
+    ],
+    "recentlyClosedTabs": [],
+    "windowsState": {},
+    "lastOpenedTabs": {},
+    "featureFlags": {},
+    "savedExtensions": [],
+    "themeDropdownOpen": true,
+    "creatorsThemesDropdownOpen": false,
+    "useOldPreviewer": false,
+    "dontShowTutorialCreator": false
+  },
+  "theme": {
+    "currentTheme": "0"
+  },
+  "ui": {
+    "scalePanel": 1,
+    "scaleFigmaUI": 1
+  }
+}

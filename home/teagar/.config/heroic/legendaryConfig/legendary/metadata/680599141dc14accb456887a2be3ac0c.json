@@ -1,0 +1,86 @@
+{
+  "app_name": "680599141dc14accb456887a2be3ac0c",
+  "app_title": "Cook, Serve, Delicious! 3?!",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "680599141dc14accb456887a2be3ac0c",
+      "asset_id": "680599141dc14accb456887a2be3ac0c",
+      "build_version": "1.1",
+      "catalog_item_id": "51abd0556f6a42aeb460617436a8f8d5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "00c76f001c3a4901b41d571be8750bb4"
+      },
+      "namespace": "b29663f909b94b0b83deb76f147e9e4f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-04-20T18:47:26.677Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "CookServeDelicious3Dwgf7"
+      }
+    },
+    "description": "Cook, serve and manage your food truck as you dish out hundreds of different foods across war-torn America in this massive sequel to the million-selling series!",
+    "developer": "Vertigo Gaming Inc.",
+    "developerId": "o-bd53lrp6efaptfdlfr3pcrldrgl44w",
+    "endOfSupport": false,
+    "entitlementName": "51abd0556f6a42aeb460617436a8f8d5",
+    "entitlementType": "EXECUTABLE",
+    "id": "51abd0556f6a42aeb460617436a8f8d5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Cook Serve Delicious 3 Offer",
+        "height": 1440,
+        "md5": "63545a2716a5c632c69faad91be9b813",
+        "size": 2807952,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-04-21T03:26:06.932Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/28430738e6554ff0a67d9a93402c4348/cook-serve-delicious-3-offer-1hqnm.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Cook Serve Delicious 3 Offer",
+        "height": 1600,
+        "md5": "e572da15d305172c5f33f03a5415cc2c",
+        "size": 1926970,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-04-21T03:26:04.269Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/28430738e6554ff0a67d9a93402c4348/download-cook-serve-delicious-3-offer-1bok5.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-23T18:09:59.029Z",
+    "mainGameItemList": [],
+    "namespace": "b29663f909b94b0b83deb76f147e9e4f",
+    "releaseInfo": [
+      {
+        "appId": "680599141dc14accb456887a2be3ac0c",
+        "id": "a4174596fa014fd2b4a54dd4d16dd484",
+        "platform": [
+          "Windows",
+          "Win32",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Cook, Serve, Delicious! 3?!",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

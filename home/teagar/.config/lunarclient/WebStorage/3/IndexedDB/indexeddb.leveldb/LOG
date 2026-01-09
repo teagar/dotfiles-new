@@ -1,0 +1,4 @@
+2026/01/09-01:35:32.711 4f0 Reusing MANIFEST /home/teagar/.config/lunarclient/WebStorage/3/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/01/09-01:35:32.712 4f0 Recovering log #208
+2026/01/09-01:35:32.712 4f0 Reusing old log /home/teagar/.config/lunarclient/WebStorage/3/IndexedDB/indexeddb.leveldb/000208.log 
+2026/01/09-01:35:32.712 4f0 Delete type=2 #207

@@ -1,0 +1,24 @@
+### Editing /home/teagar/.config/systemd/user/niri.service.d/override.conf
+### Anything between here and the comment below will become the contents of the drop-in file
+
+[Service]
+Environment=RUST_LOG=info
+
+### Edits below this comment will be discarded
+
+
+### /usr/lib/systemd/user/niri.service
+# [Unit]
+# Description=A scrollable-tiling Wayland compositor
+# BindsTo=graphical-session.target
+# Before=graphical-session.target
+# Wants=graphical-session-pre.target
+# After=graphical-session-pre.target
+# 
+# Wants=xdg-desktop-autostart.target
+# Before=xdg-desktop-autostart.target
+# 
+# [Service]
+# Slice=session.slice
+# Type=notify
+# ExecStart=/usr/bin/niri --session

@@ -1,0 +1,88 @@
+1/4/2026, 4:42:15 PM GMT-3 21: window.close win2
+1/4/2026, 4:48:55 PM GMT-3 22: window.close win2
+1/4/2026, 5:24:56 PM GMT-3 0: 
+
+----------------------------------------------
+1/4/2026, 5:24:56 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/teagar/.config/discord/0.0.119/modules
+1/5/2026, 2:26:23 AM GMT-3 0: 
+
+----------------------------------------------
+1/5/2026, 2:26:23 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/teagar/.config/discord/0.0.119/modules
+1/5/2026, 2:26:24 AM GMT-3 2: ✅ webContents.created web1 ""
+1/5/2026, 2:26:24 AM GMT-3 3: ✅ window.created win1 "discord"
+1/5/2026, 2:26:24 AM GMT-3 4: ✅ webContents.did-finish-load web1
+1/5/2026, 2:26:24 AM GMT-3 5: ✅ webContents.created web2 ""
+1/5/2026, 2:26:24 AM GMT-3 6: ✅ window.created win2 "Discord"
+1/5/2026, 2:26:26 AM GMT-3 7: ✅ webContents.did-finish-load web2
+1/5/2026, 2:26:26 AM GMT-3 8: window.close win1
+1/5/2026, 2:26:26 AM GMT-3 9: webContents.destroyed web1
+1/5/2026, 2:26:26 AM GMT-3 10: window.closed win1
+1/5/2026, 2:29:44 AM GMT-3 11: window.close win2
+1/5/2026, 11:50:00 AM GMT-3 0: 
+
+----------------------------------------------
+1/5/2026, 11:50:00 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/teagar/.config/discord/0.0.119/modules
+1/5/2026, 11:50:00 AM GMT-3 2: ✅ webContents.created web1 ""
+1/5/2026, 11:50:00 AM GMT-3 3: ✅ window.created win1 "discord"
+1/5/2026, 11:50:00 AM GMT-3 4: ✅ webContents.did-finish-load web1
+1/5/2026, 11:50:01 AM GMT-3 5: ✅ webContents.created web2 ""
+1/5/2026, 11:50:01 AM GMT-3 6: ✅ window.created win2 "Discord"
+1/5/2026, 11:50:03 AM GMT-3 7: ✅ webContents.did-finish-load web2
+1/5/2026, 11:50:04 AM GMT-3 8: window.close win1
+1/5/2026, 11:50:04 AM GMT-3 9: webContents.destroyed web1
+1/5/2026, 11:50:04 AM GMT-3 10: window.closed win1
+1/5/2026, 1:55:30 PM GMT-3 0: 
+
+----------------------------------------------
+1/5/2026, 1:55:30 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/teagar/.config/discord/0.0.119/modules
+1/5/2026, 1:55:30 PM GMT-3 2: ✅ webContents.created web1 ""
+1/5/2026, 1:55:30 PM GMT-3 3: ✅ window.created win1 "discord"
+1/5/2026, 1:55:30 PM GMT-3 4: ✅ webContents.did-finish-load web1
+1/5/2026, 1:55:31 PM GMT-3 5: ✅ webContents.created web2 ""
+1/5/2026, 1:55:31 PM GMT-3 6: ✅ window.created win2 "Discord"
+1/5/2026, 1:55:33 PM GMT-3 7: ✅ webContents.did-finish-load web2
+1/5/2026, 1:55:34 PM GMT-3 8: window.close win1
+1/5/2026, 1:55:34 PM GMT-3 9: webContents.destroyed web1
+1/5/2026, 1:55:34 PM GMT-3 10: window.closed win1
+1/5/2026, 2:58:51 PM GMT-3 11: window.close win2
+1/6/2026, 5:41:20 PM GMT-3 0: 
+
+----------------------------------------------
+1/6/2026, 5:41:20 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/teagar/.config/discord/0.0.119/modules
+1/6/2026, 5:41:20 PM GMT-3 2: ✅ webContents.created web1 ""
+1/6/2026, 5:41:20 PM GMT-3 3: ✅ window.created win1 "discord"
+1/6/2026, 5:41:20 PM GMT-3 4: ✅ webContents.did-finish-load web1
+1/6/2026, 5:41:21 PM GMT-3 5: ✅ webContents.created web2 ""
+1/6/2026, 5:41:21 PM GMT-3 6: ✅ window.created win2 "Discord"
+1/6/2026, 5:41:26 PM GMT-3 7: ✅ webContents.did-finish-load web2
+1/6/2026, 5:41:27 PM GMT-3 8: window.close win1
+1/6/2026, 5:41:27 PM GMT-3 9: webContents.destroyed web1
+1/6/2026, 5:41:27 PM GMT-3 10: window.closed win1
+1/6/2026, 6:16:27 PM GMT-3 0: 
+
+----------------------------------------------
+1/6/2026, 6:16:27 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/teagar/.config/discord/0.0.119/modules
+1/6/2026, 6:16:27 PM GMT-3 2: ✅ webContents.created web1 ""
+1/6/2026, 6:16:27 PM GMT-3 3: ✅ window.created win1 "discord"
+1/6/2026, 6:16:27 PM GMT-3 4: ✅ webContents.did-finish-load web1
+1/6/2026, 6:16:28 PM GMT-3 5: ✅ webContents.created web2 ""
+1/6/2026, 6:16:28 PM GMT-3 6: ✅ window.created win2 "Discord"
+1/6/2026, 6:16:29 PM GMT-3 7: ✅ webContents.did-finish-load web2
+1/6/2026, 6:16:30 PM GMT-3 8: window.close win1
+1/6/2026, 6:16:30 PM GMT-3 9: webContents.destroyed web1
+1/6/2026, 6:16:30 PM GMT-3 10: window.closed win1
+1/7/2026, 9:02:17 PM GMT-3 0: 
+
+----------------------------------------------
+1/7/2026, 9:02:17 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/teagar/.config/discord/0.0.119/modules
+1/7/2026, 9:02:17 PM GMT-3 2: ✅ webContents.created web1 ""
+1/7/2026, 9:02:17 PM GMT-3 3: ✅ window.created win1 "discord"
+1/7/2026, 9:02:18 PM GMT-3 4: ✅ webContents.did-finish-load web1
+1/7/2026, 9:02:19 PM GMT-3 5: ✅ webContents.created web2 ""
+1/7/2026, 9:02:19 PM GMT-3 6: ✅ window.created win2 "Discord"
+1/7/2026, 9:02:26 PM GMT-3 7: ✅ webContents.did-finish-load web2
+1/7/2026, 9:02:26 PM GMT-3 8: window.close win1
+1/7/2026, 9:02:26 PM GMT-3 9: webContents.destroyed web1
+1/7/2026, 9:02:26 PM GMT-3 10: window.closed win1
+1/7/2026, 9:12:01 PM GMT-3 11: window.close win2
+1/7/2026, 10:10:02 PM GMT-3 12: ❌ render-process-gone { reason: 'crashed', exitCode: 134 }

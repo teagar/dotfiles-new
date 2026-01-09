@@ -1,0 +1,111 @@
+{
+  "app_name": "1317e4e3b3ed40c289dde85b194347d3",
+  "app_title": "3 out of 10, EP 2: \"Foundation 101\"",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "1317e4e3b3ed40c289dde85b194347d3",
+      "asset_id": "1317e4e3b3ed40c289dde85b194347d3",
+      "build_version": "R02_S01_E02_V007_CL16693",
+      "catalog_item_id": "0b360023d85043fd8d89651ebe203ae0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "9c5bbf5fa33d410b955b857c58f41c5c",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-23T02:23:31.300Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "threeoutof10Ep2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "9c5bbf5fa33d410b955b857c58f41c5c"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "3 out of 10, EP 2: \"Foundation 101\"",
+    "developer": "Terrible Posture Games, Inc.",
+    "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+    "endOfSupport": false,
+    "entitlementName": "0b360023d85043fd8d89651ebe203ae0",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "0b360023d85043fd8d89651ebe203ae0",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "20a9b2d639aad18eab57b7a05692570f",
+        "size": 574030,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-08-11T22:38:41.424Z",
+        "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/item/EGS_3outof10EP2Foundation101_TerriblePostureGamesInc_G1C_00-1920x1080-20a9b2d639aad18eab57b7a05692570f.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "5970e36a8ffd83dc0845613cc55eca2e",
+        "size": 481329,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-08-24T14:19:26.504Z",
+        "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/item/EGS_3outof10EP2Foundation101_TerriblePostureGamesInc_S2-1200x1600-5970e36a8ffd83dc0845613cc55eca2e.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-08-24T14:19:36.756Z",
+    "longDescription": "3 out of 10, EP 2: \"Foundation 101\"",
+    "mainGameItemList": [],
+    "namespace": "9c5bbf5fa33d410b955b857c58f41c5c",
+    "releaseInfo": [
+      {
+        "appId": "1317e4e3b3ed40c289dde85b194347d3",
+        "dateAdded": "2020-06-23T00:00:00.000Z",
+        "id": "252d4543939f42a3aa45e648faadd36c",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "3 out of 10, EP 2: \"Foundation 101\"",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

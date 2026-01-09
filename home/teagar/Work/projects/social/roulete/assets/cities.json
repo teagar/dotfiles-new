@@ -1,0 +1,16 @@
+[
+  { "name": "Belo Horizonte", "state": "MG" },
+  { "name": "Uberlândia", "state": "MG" },
+  { "name": "Contagem", "state": "MG" },
+  { "name": "São Paulo", "state": "SP" },
+  { "name": "Campinas", "state": "SP" },
+  { "name": "Santos", "state": "SP" },
+  { "name": "Rio de Janeiro", "state": "RJ" },
+  { "name": "Niterói", "state": "RJ" },
+  { "name": "Curitiba", "state": "PR" },
+  { "name": "Londrina", "state": "PR" },
+  { "name": "Fortaleza", "state": "CE" },
+  { "name": "Recife", "state": "PE" },
+  { "name": "Salvador", "state": "BA" },
+  { "name": "Porto Alegre", "state": "RS" }
+]

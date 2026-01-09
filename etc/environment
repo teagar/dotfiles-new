@@ -1,0 +1,12 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+__NV_PRIME_RENDER_OFFLOAD=1
+#__GLX_VENDOR_LIBRARY_NAME=nvidia
+
+EDITOR=nvim
+VISUAL=nvim
+# GTK_THEME=phinger-cursors-dark
+ELECTRON_OZONE_PLATFORM_HINT=wayland
+QT_QPA_PLATFORM=wayland

@@ -1,0 +1,92 @@
+{
+  "app_name": "14a38161ad3c45adab18425415b5df3d",
+  "app_title": "Filament",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "14a38161ad3c45adab18425415b5df3d",
+      "asset_id": "14a38161ad3c45adab18425415b5df3d",
+      "build_version": "1.21",
+      "catalog_item_id": "7a3db2c9ac0646f9af2b35757050f8a4",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f9da68985dfa4dd799d7cad2ec5f8c9a"
+      },
+      "namespace": "89fb09a222a54e53b692e9c36e68d0a1",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-03-28T14:32:55.090Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Filament/Saved/SavedGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "FilamentKfF5w"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "10"
+      }
+    },
+    "description": "Solve challenging cable-based puzzles and uncover what really happened to the crew of The Alabaster. Now with Hint System (for those ultra tricky puzzles).",
+    "developer": "Kasedo Games Ltd",
+    "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+    "endOfSupport": false,
+    "entitlementName": "7a3db2c9ac0646f9af2b35757050f8a4",
+    "entitlementType": "EXECUTABLE",
+    "id": "7a3db2c9ac0646f9af2b35757050f8a4",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Filament Offer",
+        "height": 1440,
+        "md5": "728f62c4f9f171d31be7b60257493c74",
+        "size": 1108353,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-05-16T09:57:17.745Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/5a72e62648d747189d2f5e7abb47444c/filament-offer-1vbz6.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Filament Offer",
+        "height": 1600,
+        "md5": "89fdc4623be6879f8673b42580623cf4",
+        "size": 357741,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-05-16T09:57:17.182Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/5a72e62648d747189d2f5e7abb47444c/download-filament-offer-1iku0.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-07-12T17:16:12.101Z",
+    "mainGameItemList": [],
+    "namespace": "89fb09a222a54e53b692e9c36e68d0a1",
+    "releaseInfo": [
+      {
+        "appId": "14a38161ad3c45adab18425415b5df3d",
+        "id": "645874b3887940be8546fc82c53e42d6",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Filament",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

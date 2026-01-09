@@ -1,0 +1,59 @@
+{
+	"__timestamp": {
+		"9d2d0eb64d5c44529cece33fe2a46482": "Sun Jan 04 2026 20:53:36 GMT-0300 (Brasilia Standard Time)"
+	},
+	"9d2d0eb64d5c44529cece33fe2a46482": {
+		"game": {
+			"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
+			"title": "Grand Theft Auto V",
+			"version": "1.0.3725.0",
+			"platform_versions": {
+				"Windows": "1.0.3725.0"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": {
+			"platform": "Windows",
+			"version": "1.0.3725.0",
+			"disk_size": 127924027112,
+			"install_path": "/home/teagar/Games/Heroic/GTAV",
+			"save_path": null,
+			"synced_egl_guid": "",
+			"install_tags": [],
+			"requires_ovt": false,
+			"installed_dlc": []
+		},
+		"manifest": {
+			"size": 7880235,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
+			"launch_exe": "PlayGTAV.exe",
+			"launch_command": "",
+			"build_version": "1.0.3725.0",
+			"build_id": "Lfucs-qIEUWgzTJTTxtTzA",
+			"prerequisites": null,
+			"uninstaller": {
+				"path": "GTA5_BE.exe",
+				"args": "4 0"
+			},
+			"install_tags": [
+				""
+			],
+			"num_files": 439,
+			"num_chunks": 120999,
+			"disk_size": 127924027112,
+			"download_size": 124992804137,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	}
+}

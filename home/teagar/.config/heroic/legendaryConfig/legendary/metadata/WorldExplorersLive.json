@@ -1,0 +1,98 @@
+{
+  "app_name": "WorldExplorersLive",
+  "app_title": "Battle Breakers",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "WorldExplorersLive",
+      "asset_id": "WorldExplorersLive",
+      "build_version": "1.88.244-r17036752-Windows",
+      "catalog_item_id": "a53e821fbdc24181877243a8dbb63463",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "wex",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2016-08-10T17:22:25.371Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "BattleBreakers"
+      }
+    },
+    "description": "Battle Breakers",
+    "developer": "Epic Games",
+    "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "endOfSupport": false,
+    "entitlementName": "WorldExplorersLive",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "a53e821fbdc24181877243a8dbb63463",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 800,
+        "md5": "f83d14d91266a550f50475984ec11bf8",
+        "size": 758378,
+        "type": "Featured",
+        "uploadedDate": "2020-07-21T16:09:53.602Z",
+        "url": "https://cdn1.epicgames.com/wex/item/BB_AndroidLauncher_Keyart-800x800-f83d14d91266a550f50475984ec11bf8.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "md5": "f83d14d91266a550f50475984ec11bf8",
+        "size": 758378,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-07-21T19:06:39.190Z",
+        "url": "https://cdn1.epicgames.com/wex/item/BB_AndroidLauncher_Keyart-800x800-f83d14d91266a550f50475984ec11bf8.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "md5": "f83d14d91266a550f50475984ec11bf8",
+        "size": 758378,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-07-21T19:07:13.144Z",
+        "url": "https://cdn1.epicgames.com/wex/item/BB_AndroidLauncher_Keyart-800x800-f83d14d91266a550f50475984ec11bf8.jpg",
+        "width": 800
+      }
+    ],
+    "lastModifiedDate": "2022-02-14T19:52:45.988Z",
+    "mainGameItemList": [],
+    "namespace": "wex",
+    "releaseInfo": [
+      {
+        "appId": "WorldExplorersLive",
+        "compatibleApps": [],
+        "dateAdded": "2016-08-10T00:00:00.000Z",
+        "id": "f9a36cd1681a41d1872c7037ec8d8c60",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Battle Breakers",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

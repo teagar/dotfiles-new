@@ -1,0 +1,6 @@
+2026/01/09-01:34:55.678 4f0 Reusing MANIFEST /home/teagar/.config/lunarclient/Session Storage/MANIFEST-000001
+2026/01/09-01:34:55.679 4f0 Recovering log #88
+2026/01/09-01:34:55.680 4f0 Reusing old log /home/teagar/.config/lunarclient/Session Storage/000088.log 
+2026/01/09-01:49:38.368 4f1 Level-0 table #92: started
+2026/01/09-01:49:38.373 4f1 Level-0 table #92: 12065 bytes OK
+2026/01/09-01:49:38.376 4f1 Delete type=0 #88

@@ -1,0 +1,642 @@
+{
+  "app_name": "Antbird",
+  "app_title": "Paladins",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Antbird",
+      "asset_id": "Antbird",
+      "build_version": "1317",
+      "catalog_item_id": "85a98d012e1245c8a6572f03fcf920b6",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "badb0ee71b474ed591ec43212547cfc8",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-10-18T01:57:09.836Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Paladins"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "badb0ee71b474ed591ec43212547cfc8"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      }
+    },
+    "description": "Paladins",
+    "developer": "Hi-Rez Studios",
+    "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-22T15:53:43.828Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "SS Audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "85df840a815143bfaf8ec3dad79e8a5a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "85df840a815143bfaf8ec3dad79e8a5a",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-31T10:57:27.088Z",
+        "longDescription": "",
+        "mainGameItem": {
+          "id": "85a98d012e1245c8a6572f03fcf920b6",
+          "namespace": "badb0ee71b474ed591ec43212547cfc8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "85a98d012e1245c8a6572f03fcf920b6",
+            "namespace": "badb0ee71b474ed591ec43212547cfc8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "badb0ee71b474ed591ec43212547cfc8",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SS Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-02-11T16:49:32.443Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Paladins Feathered Raptor Mount Audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "d8a4033230654b4faf6dc2f7785b6b08",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d8a4033230654b4faf6dc2f7785b6b08",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-04-20T20:02:07.316Z",
+        "longDescription": "",
+        "mainGameItem": {
+          "id": "85a98d012e1245c8a6572f03fcf920b6",
+          "namespace": "badb0ee71b474ed591ec43212547cfc8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "85a98d012e1245c8a6572f03fcf920b6",
+            "namespace": "badb0ee71b474ed591ec43212547cfc8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "badb0ee71b474ed591ec43212547cfc8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Paladins Feathered Raptor Mount Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-01-11T23:08:28.175Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Gold Edition Audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "2f3c73b0eba444f3bff97b0f58565ad8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2f3c73b0eba444f3bff97b0f58565ad8",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-09-14T00:22:42.539Z",
+        "longDescription": "Gold Edition Audience",
+        "mainGameItem": {
+          "id": "85a98d012e1245c8a6572f03fcf920b6",
+          "namespace": "badb0ee71b474ed591ec43212547cfc8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "85a98d012e1245c8a6572f03fcf920b6",
+            "namespace": "badb0ee71b474ed591ec43212547cfc8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "badb0ee71b474ed591ec43212547cfc8",
+        "status": "ACTIVE",
+        "title": "Gold Edition Audience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-05-27T01:41:10.761Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dragon Rider Pack Marker",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "61c3562acaed4212bda1cd8068604ebf",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "61c3562acaed4212bda1cd8068604ebf",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-05-27T01:41:10.761Z",
+        "longDescription": "Dragon Rider Pack Marker",
+        "mainGameItem": {
+          "id": "85a98d012e1245c8a6572f03fcf920b6",
+          "namespace": "badb0ee71b474ed591ec43212547cfc8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "85a98d012e1245c8a6572f03fcf920b6",
+            "namespace": "badb0ee71b474ed591ec43212547cfc8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "badb0ee71b474ed591ec43212547cfc8",
+        "status": "ACTIVE",
+        "title": "Dragon Rider Pack Marker",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-08T18:08:39.244Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Paladins CHM",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "2109b0d58bb94301a6a1bbdf3a5aa8d9",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2109b0d58bb94301a6a1bbdf3a5aa8d9",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-07-08T18:08:39.244Z",
+        "mainGameItem": {
+          "id": "85a98d012e1245c8a6572f03fcf920b6",
+          "namespace": "badb0ee71b474ed591ec43212547cfc8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "85a98d012e1245c8a6572f03fcf920b6",
+            "namespace": "badb0ee71b474ed591ec43212547cfc8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "badb0ee71b474ed591ec43212547cfc8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Paladins CHM",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-01-11T23:00:35.189Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Starter Edition Audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "495fc30119a44ecf849da91f2eac91ed",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "495fc30119a44ecf849da91f2eac91ed",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-02-03T23:28:26.328Z",
+        "longDescription": "Starter Edition Audience",
+        "mainGameItem": {
+          "id": "85a98d012e1245c8a6572f03fcf920b6",
+          "namespace": "badb0ee71b474ed591ec43212547cfc8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "85a98d012e1245c8a6572f03fcf920b6",
+            "namespace": "badb0ee71b474ed591ec43212547cfc8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "badb0ee71b474ed591ec43212547cfc8",
+        "status": "ACTIVE",
+        "title": "Starter Edition Audience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-01-11T23:10:18.260Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Deluxe Edition Audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "5deb4fb1e07640fb8f63b1ddb02987f9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5deb4fb1e07640fb8f63b1ddb02987f9",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-02-03T23:28:14.787Z",
+        "longDescription": "Deluxe Edition Audience",
+        "mainGameItem": {
+          "id": "85a98d012e1245c8a6572f03fcf920b6",
+          "namespace": "badb0ee71b474ed591ec43212547cfc8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "85a98d012e1245c8a6572f03fcf920b6",
+            "namespace": "badb0ee71b474ed591ec43212547cfc8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "badb0ee71b474ed591ec43212547cfc8",
+        "status": "ACTIVE",
+        "title": "Deluxe Edition Audience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-06T15:59:42.841Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Sky Whale Pack Audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "0097ad11c7c440feb58580ba9c14db52",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0097ad11c7c440feb58580ba9c14db52",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-08-10T14:56:01.234Z",
+        "longDescription": "",
+        "mainGameItem": {
+          "id": "85a98d012e1245c8a6572f03fcf920b6",
+          "namespace": "badb0ee71b474ed591ec43212547cfc8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "85a98d012e1245c8a6572f03fcf920b6",
+            "namespace": "badb0ee71b474ed591ec43212547cfc8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "badb0ee71b474ed591ec43212547cfc8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sky Whale Pack Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-06-02T18:49:21.457Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RWBYBAB",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "0358ee1fda744a9c8d1fcc6bd1d8eeaa",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0358ee1fda744a9c8d1fcc6bd1d8eeaa",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-06-29T10:59:27.831Z",
+        "mainGameItem": {
+          "id": "85a98d012e1245c8a6572f03fcf920b6",
+          "namespace": "badb0ee71b474ed591ec43212547cfc8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "85a98d012e1245c8a6572f03fcf920b6",
+            "namespace": "badb0ee71b474ed591ec43212547cfc8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "badb0ee71b474ed591ec43212547cfc8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RWBYBAB",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-01-06T20:47:59.302Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Paladins Season 4 Champions Bundle",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "3113bf660ca74222ae88e13994281d8f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3113bf660ca74222ae88e13994281d8f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-01-26T16:27:26.676Z",
+        "mainGameItem": {
+          "id": "85a98d012e1245c8a6572f03fcf920b6",
+          "namespace": "badb0ee71b474ed591ec43212547cfc8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "85a98d012e1245c8a6572f03fcf920b6",
+            "namespace": "badb0ee71b474ed591ec43212547cfc8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "badb0ee71b474ed591ec43212547cfc8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Paladins Season 4 Champions Bundle",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-11T07:06:06.033Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "gen:LOCK Complete Audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "da433fdd4fe94e559b8899e75171ab97",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "da433fdd4fe94e559b8899e75171ab97",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-07-19T21:48:10.545Z",
+        "longDescription": "",
+        "mainGameItem": {
+          "id": "85a98d012e1245c8a6572f03fcf920b6",
+          "namespace": "badb0ee71b474ed591ec43212547cfc8",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "85a98d012e1245c8a6572f03fcf920b6",
+            "namespace": "badb0ee71b474ed591ec43212547cfc8",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "badb0ee71b474ed591ec43212547cfc8",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "gen:LOCK Complete Audience",
+        "unsearchable": true,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "85a98d012e1245c8a6572f03fcf920b6",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "85a98d012e1245c8a6572f03fcf920b6",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1148,
+        "md5": "e1a8527791f5b73b436c8c80bbe636e3",
+        "size": 437195,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-01-10T16:58:45.159Z",
+        "url": "https://cdn1.epicgames.com/item/badb0ee71b474ed591ec43212547cfc8/Paladins_EGS_BaseGame_Portrait_860x1148_860x1148-e1a8527791f5b73b436c8c80bbe636e3",
+        "width": 860
+      },
+      {
+        "height": 1440,
+        "md5": "99d0ed45c628c499ad600a52217b4123",
+        "size": 448401,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-01-10T16:59:04.818Z",
+        "url": "https://cdn1.epicgames.com/item/badb0ee71b474ed591ec43212547cfc8/Paladins_EGS_BaseGame_2560x1440_2560x1440-99d0ed45c628c499ad600a52217b4123",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2025-06-27T12:48:46.462Z",
+    "mainGameItemList": [],
+    "namespace": "badb0ee71b474ed591ec43212547cfc8",
+    "releaseInfo": [
+      {
+        "appId": "Antbird",
+        "dateAdded": "2019-10-18T00:00:00.000Z",
+        "id": "8d1b93d514db469aa8be02edebc8400d",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Paladins",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

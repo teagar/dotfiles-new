@@ -1,0 +1,420 @@
+12:33:57.572: Platform: Wayland
+12:33:57.573: CPU Name: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+12:33:57.573: CPU Speed: 4089.900MHz
+12:33:57.573: Physical Cores: 6, Logical Cores: 12
+12:33:57.573: Physical Memory: 7712MB Total, 407MB Free
+12:33:57.573: Kernel Version: Linux 6.18.3-arch1-1
+12:33:57.573: Distribution: "Arch Linux" Unknown
+12:33:57.573: Desktop Environment: niri (niri)
+12:33:57.573: Session Type: wayland
+12:33:57.576: Current Date/Time: 2026-01-07, 12:33:57 PM
+12:33:57.576: Browser Hardware Acceleration: false
+12:33:57.576: Qt Version: 6.10.1 (runtime), 6.10.1 (compiled)
+12:33:57.576: Portable mode: false
+12:33:57.626: OBS 32.0.2 (linux)
+12:33:57.626: ---------------------------------
+12:33:57.627: ---------------------------------
+12:33:57.627: audio settings reset:
+12:33:57.627: 	samples per sec: 48000
+12:33:57.627: 	speakers:        2
+12:33:57.627: 	max buffering:   960 milliseconds
+12:33:57.627: 	buffering type:  dynamically increasing
+12:33:57.629: ---------------------------------
+12:33:57.629: Initializing OpenGL...
+12:33:57.629: Using EGL/Wayland
+12:33:57.681: Initialized EGL 1.5
+12:33:57.742: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 1650/PCIe/SSE2
+12:33:57.742: OpenGL loaded successfully, version 3.3.0 NVIDIA 590.48.01, shading language 3.30 NVIDIA via Cg compiler
+12:33:57.768: ---------------------------------
+12:33:57.768: video settings reset:
+12:33:57.768: 	base resolution:   1920x1080
+12:33:57.768: 	output resolution: 1536x864
+12:33:57.768: 	downscale filter:  Lanczos
+12:33:57.768: 	fps:               60/1
+12:33:57.768: 	format:            NV12
+12:33:57.768: 	YUV mode:          Rec. 709/Full
+12:33:57.768: NV12 texture support enabled
+12:33:57.768: P010 texture support not available
+12:33:57.810: Audio monitoring device:
+12:33:57.810: 	name: Default
+12:33:57.810: 	id: default
+12:33:57.814: ---------------------------------
+12:33:57.815: Failed to load 'en-US' text for module: 'decklink-captions.so'
+12:33:57.817: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+12:33:57.818: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+12:33:57.818: Failed to initialize module 'decklink.so'
+12:33:57.919: [pipewire] Available capture sources:
+12:33:57.919: [pipewire]     - Monitor source
+12:33:57.932: v4l2loopback not installed, virtual camera not registered
+12:33:57.958: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+12:33:58.339: VAAPI: API version 1.22
+12:33:58.420: FFmpeg VAAPI H264 encoding supported
+12:33:58.833: FFmpeg VAAPI AV1 encoding supported
+12:33:59.269: FFmpeg VAAPI HEVC encoding supported
+12:33:59.633: [obs-nvenc] NVENC version: 13.0 (compiled) / 13.0 (driver), CUDA driver version: 13.10, AV1 supported: false
+12:34:01.403: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.6.3 | RPC Version: 1)
+12:34:01.403: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.10.1 | Qt version (run-time): 6.10.1
+12:34:01.403: [obs-websocket] [obs_module_load] Linked ASIO Version: 103600
+12:34:01.410: [obs-websocket] [obs_module_load] Module loaded.
+12:34:01.416: ---------------------------------
+12:34:01.416:   Loaded Modules:
+12:34:01.416:     text-freetype2.so
+12:34:01.416:     rtmp-services.so
+12:34:01.416:     obs-x264.so
+12:34:01.416:     obs-websocket.so
+12:34:01.416:     obs-webrtc.so
+12:34:01.416:     obs-vst.so
+12:34:01.416:     obs-transitions.so
+12:34:01.416:     obs-qsv11.so
+12:34:01.416:     obs-outputs.so
+12:34:01.416:     obs-nvenc.so
+12:34:01.416:     obs-libfdk.so
+12:34:01.416:     obs-filters.so
+12:34:01.416:     obs-ffmpeg.so
+12:34:01.416:     linux-v4l2.so
+12:34:01.416:     linux-pulseaudio.so
+12:34:01.416:     linux-pipewire.so
+12:34:01.416:     linux-jack.so
+12:34:01.416:     linux-capture.so
+12:34:01.416:     linux-alsa.so
+12:34:01.416:     image-source.so
+12:34:01.416:     frontend-tools.so
+12:34:01.416:     decklink-output-ui.so
+12:34:01.416:     decklink-captions.so
+12:34:01.416: ---------------------------------
+12:34:01.417: ---------------------------------
+12:34:01.417: Available Encoders:
+12:34:01.417:   Video Encoders:
+12:34:01.417: 	- ffmpeg_svt_av1 (SVT-AV1)
+12:34:01.417: 	- ffmpeg_aom_av1 (AOM AV1)
+12:34:01.417: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+12:34:01.417: 	- av1_ffmpeg_vaapi_tex (FFmpeg VAAPI AV1)
+12:34:01.417: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+12:34:01.417: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+12:34:01.417: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+12:34:01.417: 	- obs_x264 (x264)
+12:34:01.417:   Audio Encoders:
+12:34:01.417: 	- ffmpeg_aac (FFmpeg AAC)
+12:34:01.417: 	- ffmpeg_opus (FFmpeg Opus)
+12:34:01.417: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+12:34:01.417: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+12:34:01.417: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+12:34:01.417: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+12:34:01.417: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+12:34:01.417: 	- libfdk_aac (libfdk AAC)
+12:34:01.417: ==== Startup complete ===============================================
+12:34:01.447: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+12:34:01.447: All scene data cleared
+12:34:01.447: ------------------------------------------------
+12:34:01.451: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.9) 15.0.0'
+12:34:01.451: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+12:34:01.451: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor' (default)
+12:34:01.452: [Loaded global audio device]: 'Desktop Audio'
+12:34:01.452: PipeWire initialized
+12:34:01.453: Switched to scene 'Scene'
+12:34:01.453: ------------------------------------------------
+12:34:01.453: Loaded scenes:
+12:34:01.453: - scene 'Scene':
+12:34:01.453:     - source: 'Screen Capture (PipeWire) 2' (pipewire-screen-capture-source)
+12:34:01.453: ------------------------------------------------
+12:34:01.467: Device for 'Audio Output Capture' source is also used for audio monitoring:
+12:34:01.467: Deduplication logic is being applied to all monitored sources.
+12:34:01.467: 
+12:34:01.515: [pipewire] Screencast session created
+12:34:01.550: [pipewire] Asking for monitor and window
+12:34:01.581: [pipewire] source selected, setting up screencast
+12:34:01.598: [pipewire] Server version: 1.4.9
+12:34:01.598: [pipewire] Library version: 1.4.9
+12:34:01.599: [pipewire] Header version: 1.4.9
+12:34:01.615: [pipewire] Created stream 0x560145f4e5f0
+12:34:01.615: [pipewire] Stream 0x560145f4e5f0 state: "connecting" (error: none)
+12:34:01.616: [pipewire] Playing stream 0x560145f4e5f0
+12:34:01.617: [pipewire] Stream 0x560145f4e5f0 state: "paused" (error: none)
+12:34:01.670: [pipewire] Negotiated format:
+12:34:01.670: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+12:34:01.670: [pipewire]     Modifier: 0x0
+12:34:01.670: [pipewire]     Size: 1920x1080
+12:34:01.670: [pipewire]     Framerate: 0/1
+12:34:01.674: [pipewire] Negotiated format:
+12:34:01.674: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+12:34:01.674: [pipewire]     Modifier: 0x300000000e08014
+12:34:01.674: [pipewire]     Size: 1920x1080
+12:34:01.674: [pipewire]     Framerate: 0/1
+12:34:01.675: [pipewire] Stream 0x560145f4e5f0 state: "streaming" (error: none)
+12:34:02.022: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+12:34:02.022: 
+12:34:04.268: [obs-nvenc: 'advanced_video_recording'] settings:
+12:34:04.268: 	codec:        HEVC
+12:34:04.268: 	rate_control: CBR
+12:34:04.268: 	bitrate:      10000
+12:34:04.268: 	keyint:       250
+12:34:04.268: 	preset:       p6
+12:34:04.268: 	tuning:       hq
+12:34:04.268: 	multipass:    qres
+12:34:04.268: 	profile:      main
+12:34:04.268: 	width:        1536
+12:34:04.268: 	height:       864
+12:34:04.268: 	b-frames:     0
+12:34:04.268: 	b-ref-mode:   0
+12:34:04.268: 	lookahead:    true (8 frames)
+12:34:04.268: 	aq:           true
+12:34:04.268: 
+12:34:04.304: ---------------------------------
+12:34:04.304: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+12:34:04.304: 
+12:34:04.320: ==== Recording Start ===============================================
+12:34:04.320: [mp4 output: 'adv_file_output'] Writing Hybrid MP4/MOV file '/home/teagar/Videos/2026-01-07 12-34-04.mp4'...
+12:34:05.181: [mp4 muxer: 'adv_file_output'] Flushing final fragment...
+12:34:05.182: [mp4 muxer: 'adv_file_output'] Number of fragments: 1
+12:34:05.182: [mp4 muxer: 'adv_file_output'] Full moov size: 1 KiB
+12:34:05.182: [mp4 muxer: 'adv_file_output'] Final mdat size: 745 KiB
+12:34:05.182: Output 'adv_file_output': stopping
+12:34:05.182: Output 'adv_file_output': Total frames output: 38
+12:34:05.182: Output 'adv_file_output': Total drawn frames: 50 (51 attempted)
+12:34:05.182: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (2.0%)
+12:34:05.182: [mp4 output: 'adv_file_output'] Waiting for file writer to finish...
+12:34:05.182: Video stopped, number of skipped frames due to encoding lag: 1/50 (2.0%)
+12:34:05.182: [mp4 output: 'adv_file_output'] File output complete. Finalization took 1 ms.
+12:34:05.183: ==== Recording Stop ================================================
+12:34:13.964: [obs-nvenc: 'advanced_video_recording'] settings:
+12:34:13.964: 	codec:        HEVC
+12:34:13.964: 	rate_control: CBR
+12:34:13.964: 	bitrate:      10000
+12:34:13.964: 	keyint:       250
+12:34:13.964: 	preset:       p6
+12:34:13.964: 	tuning:       hq
+12:34:13.964: 	multipass:    qres
+12:34:13.964: 	profile:      main
+12:34:13.964: 	width:        1536
+12:34:13.964: 	height:       864
+12:34:13.964: 	b-frames:     0
+12:34:13.964: 	b-ref-mode:   0
+12:34:13.964: 	lookahead:    true (8 frames)
+12:34:13.964: 	aq:           true
+12:34:13.964: 
+12:34:14.011: ---------------------------------
+12:34:14.012: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+12:34:14.012: 
+12:34:14.016: ==== Recording Start ===============================================
+12:34:14.017: [mp4 output: 'adv_file_output'] Writing Hybrid MP4/MOV file '/home/teagar/Videos/2026-01-07 12-34-13.mp4'...
+12:36:00.021: [mp4 muxer: 'adv_file_output'] Flushing final fragment...
+12:36:00.023: [mp4 muxer: 'adv_file_output'] Number of fragments: 28
+12:36:00.024: [mp4 muxer: 'adv_file_output'] Full moov size: 46 KiB
+12:36:00.024: [mp4 muxer: 'adv_file_output'] Final mdat size: 131179 KiB
+12:36:00.024: Output 'adv_file_output': stopping
+12:36:00.024: Output 'adv_file_output': Total frames output: 6344
+12:36:00.024: Output 'adv_file_output': Total drawn frames: 6356 (6361 attempted)
+12:36:00.024: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 5 (0.1%)
+12:36:00.024: [mp4 output: 'adv_file_output'] Waiting for file writer to finish...
+12:36:00.025: [mp4 output: 'adv_file_output'] File output complete. Finalization took 3 ms.
+12:36:00.025: Video stopped, number of skipped frames due to encoding lag: 5/6359 (0.1%)
+12:36:00.026: ==== Recording Stop ================================================
+12:37:10.030: [obs-nvenc: 'advanced_video_recording'] settings:
+12:37:10.030: 	codec:        HEVC
+12:37:10.030: 	rate_control: CBR
+12:37:10.030: 	bitrate:      10000
+12:37:10.030: 	keyint:       250
+12:37:10.030: 	preset:       p6
+12:37:10.030: 	tuning:       hq
+12:37:10.030: 	multipass:    qres
+12:37:10.030: 	profile:      main
+12:37:10.030: 	width:        1536
+12:37:10.030: 	height:       864
+12:37:10.030: 	b-frames:     0
+12:37:10.030: 	b-ref-mode:   0
+12:37:10.030: 	lookahead:    true (8 frames)
+12:37:10.030: 	aq:           true
+12:37:10.030: 
+12:37:10.080: ---------------------------------
+12:37:10.080: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+12:37:10.080: 
+12:37:10.086: ==== Recording Start ===============================================
+12:37:10.086: [mp4 output: 'adv_file_output'] Writing Hybrid MP4/MOV file '/home/teagar/Videos/2026-01-07 12-37-09.mp4'...
+12:41:35.570: [mp4 muxer: 'adv_file_output'] Flushing final fragment...
+12:41:35.571: [mp4 muxer: 'adv_file_output'] Number of fragments: 65
+12:41:35.572: [mp4 muxer: 'adv_file_output'] Full moov size: 113 KiB
+12:41:35.572: [mp4 muxer: 'adv_file_output'] Final mdat size: 329145 KiB
+12:41:35.572: Output 'adv_file_output': stopping
+12:41:35.572: Output 'adv_file_output': Total frames output: 15915
+12:41:35.572: Output 'adv_file_output': Total drawn frames: 15928 (15929 attempted)
+12:41:35.572: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+12:41:35.572: [mp4 output: 'adv_file_output'] Waiting for file writer to finish...
+12:41:35.572: Video stopped, number of skipped frames due to encoding lag: 1/15928 (0.0%)
+12:41:35.572: [mp4 output: 'adv_file_output'] File output complete. Finalization took 2 ms.
+12:41:35.573: ==== Recording Stop ================================================
+12:41:44.249: [obs-nvenc: 'advanced_video_recording'] settings:
+12:41:44.249: 	codec:        HEVC
+12:41:44.249: 	rate_control: CBR
+12:41:44.249: 	bitrate:      10000
+12:41:44.249: 	keyint:       250
+12:41:44.249: 	preset:       p6
+12:41:44.249: 	tuning:       hq
+12:41:44.249: 	multipass:    qres
+12:41:44.249: 	profile:      main
+12:41:44.249: 	width:        1536
+12:41:44.249: 	height:       864
+12:41:44.249: 	b-frames:     0
+12:41:44.249: 	b-ref-mode:   0
+12:41:44.249: 	lookahead:    true (8 frames)
+12:41:44.249: 	aq:           true
+12:41:44.249: 
+12:41:44.290: ---------------------------------
+12:41:44.290: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+12:41:44.290: 
+12:41:44.293: ==== Recording Start ===============================================
+12:41:44.293: [mp4 output: 'adv_file_output'] Writing Hybrid MP4/MOV file '/home/teagar/Videos/2026-01-07 12-41-44.mp4'...
+12:44:40.490: [mp4 muxer: 'adv_file_output'] Flushing final fragment...
+12:44:40.490: [mp4 muxer: 'adv_file_output'] Number of fragments: 45
+12:44:40.491: [mp4 muxer: 'adv_file_output'] Full moov size: 75 KiB
+12:44:40.491: [mp4 muxer: 'adv_file_output'] Final mdat size: 218302 KiB
+12:44:40.491: Output 'adv_file_output': stopping
+12:44:40.491: Output 'adv_file_output': Total frames output: 10555
+12:44:40.491: Output 'adv_file_output': Total drawn frames: 10566 (10572 attempted)
+12:44:40.492: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 6 (0.1%)
+12:44:40.492: [mp4 output: 'adv_file_output'] Waiting for file writer to finish...
+12:44:40.492: [mp4 output: 'adv_file_output'] File output complete. Finalization took 1 ms.
+12:44:40.492: Video stopped, number of skipped frames due to encoding lag: 6/10570 (0.1%)
+12:44:40.493: ==== Recording Stop ================================================
+13:37:54.918: adding 42 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: Desktop Audio)
+13:37:54.918: 
+13:45:53.774: [obs-nvenc: 'advanced_video_recording'] settings:
+13:45:53.774: 	codec:        HEVC
+13:45:53.774: 	rate_control: CBR
+13:45:53.774: 	bitrate:      10000
+13:45:53.774: 	keyint:       250
+13:45:53.774: 	preset:       p6
+13:45:53.774: 	tuning:       hq
+13:45:53.774: 	multipass:    qres
+13:45:53.774: 	profile:      main
+13:45:53.774: 	width:        1536
+13:45:53.774: 	height:       864
+13:45:53.774: 	b-frames:     0
+13:45:53.774: 	b-ref-mode:   0
+13:45:53.774: 	lookahead:    true (8 frames)
+13:45:53.774: 	aq:           true
+13:45:53.774: 
+13:45:53.850: ---------------------------------
+13:45:53.855: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+13:45:53.855: 
+13:45:53.870: ==== Recording Start ===============================================
+13:45:53.870: [mp4 output: 'adv_file_output'] Writing Hybrid MP4/MOV file '/home/teagar/Videos/2026-01-07 13-45-53.mp4'...
+13:46:02.876: [mp4 muxer: 'adv_file_output'] Flushing final fragment...
+13:46:02.876: [mp4 muxer: 'adv_file_output'] Number of fragments: 5
+13:46:02.876: [mp4 muxer: 'adv_file_output'] Full moov size: 5 KiB
+13:46:02.876: [mp4 muxer: 'adv_file_output'] Final mdat size: 10777 KiB
+13:46:02.876: Output 'adv_file_output': stopping
+13:46:02.876: Output 'adv_file_output': Total frames output: 523
+13:46:02.876: Output 'adv_file_output': Total drawn frames: 519 (540 attempted)
+13:46:02.876: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 21 (3.9%)
+13:46:02.877: Video stopped, number of skipped frames due to encoding lag: 21/539 (3.9%)
+13:46:02.877: [mp4 output: 'adv_file_output'] Waiting for file writer to finish...
+13:46:02.877: [mp4 output: 'adv_file_output'] File output complete. Finalization took 1 ms.
+13:46:02.877: ==== Recording Stop ================================================
+13:47:06.198: [obs-nvenc: 'advanced_video_recording'] cuda_ctx_init: CUDA call "cu->cuCtxCreate(&enc->cu_ctx, 0, device)" failed with CUDA_ERROR_OUT_OF_MEMORY (2): out of memory
+13:47:06.470: [obs-nvenc: 'advanced_video_recording'] cuda_ctx_init: CUDA call "cu->cuCtxCreate(&enc->cu_ctx, 0, device)" failed with CUDA_ERROR_OUT_OF_MEMORY (2): out of memory
+13:47:06.470: Already in non_texture encoder, can't fall back further!
+13:47:08.779: [obs-nvenc: 'advanced_video_recording'] cuda_ctx_init: CUDA call "cu->cuCtxCreate(&enc->cu_ctx, 0, device)" failed with CUDA_ERROR_OUT_OF_MEMORY (2): out of memory
+13:47:09.037: [obs-nvenc: 'advanced_video_recording'] cuda_ctx_init: CUDA call "cu->cuCtxCreate(&enc->cu_ctx, 0, device)" failed with CUDA_ERROR_OUT_OF_MEMORY (2): out of memory
+13:47:09.037: Already in non_texture encoder, can't fall back further!
+13:47:13.849: ==== Shutting down ==================================================
+13:47:13.912: [pipewire] Stream 0x560145f4e5f0 state: "paused" (error: none)
+13:47:13.912: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+13:47:13.913: pulse-input: Got 175669 packets with 210802800 frames
+13:47:13.919: [pipewire] Stream 0x560145f4e5f0 state: "unconnected" (error: none)
+13:47:13.979: All scene data cleared
+13:47:13.979: ------------------------------------------------
+13:47:14.117: [obs-websocket] [obs_module_unload] Shutting down...
+13:47:14.118: Tried to call obs_frontend_remove_event_callback with no callbacks!
+13:47:14.118: [obs-websocket] [obs_module_unload] Finished shutting down.
+13:47:14.157: [Scripting] Total detached callbacks: 0
+13:47:14.159: Freeing OBS context data
+13:47:14.242: == Profiler Results =============================
+13:47:14.242: run_program_init: 3978.66 ms
+13:47:14.242:  ┣OBSApp::AppInit: 16.962 ms
+13:47:14.242:  ┃ ┗OBSApp::InitLocale: 1.261 ms
+13:47:14.242:  ┗OBSApp::OBSInit: 3934.78 ms
+13:47:14.242:    ┣obs_startup: 3.745 ms
+13:47:14.242:    ┗OBSBasic::OBSInit: 3880.72 ms
+13:47:14.242:      ┣OBSBasic::InitBasicConfig: 0.53 ms
+13:47:14.242:      ┣OBSBasic::ResetAudio: 0.204 ms
+13:47:14.242:      ┣OBSBasic::ResetVideo: 182.945 ms
+13:47:14.242:      ┃ ┗obs_init_graphics: 140.428 ms
+13:47:14.242:      ┃   ┗shader compilation: 25.266 ms
+13:47:14.242:      ┣OBSBasic::InitOBSCallbacks: 0.005 ms
+13:47:14.242:      ┣OBSBasic::InitHotkeys: 0.019 ms
+13:47:14.242:      ┣obs_load_all_modules2: 3602.1 ms
+13:47:14.242:      ┃ ┣obs_init_module(decklink-captions.so): 0 ms
+13:47:14.242:      ┃ ┣obs_init_module(decklink-output-ui.so): 0 ms
+13:47:14.242:      ┃ ┣obs_init_module(decklink.so): 0.07 ms
+13:47:14.242:      ┃ ┣obs_init_module(frontend-tools.so): 82.63 ms
+13:47:14.242:      ┃ ┣obs_init_module(image-source.so): 0.005 ms
+13:47:14.242:      ┃ ┣obs_init_module(linux-alsa.so): 0.001 ms
+13:47:14.243:      ┃ ┣obs_init_module(linux-capture.so): 0 ms
+13:47:14.243:      ┃ ┣obs_init_module(linux-jack.so): 0.002 ms
+13:47:14.243:      ┃ ┣obs_init_module(linux-pipewire.so): 3.199 ms
+13:47:14.243:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.004 ms
+13:47:14.243:      ┃ ┣obs_init_module(linux-v4l2.so): 7.698 ms
+13:47:14.243:      ┃ ┣obs_init_module(obs-ffmpeg.so): 1321.77 ms
+13:47:14.243:      ┃ ┣obs_init_module(obs-filters.so): 0.019 ms
+13:47:14.243:      ┃ ┣obs_init_module(obs-libfdk.so): 0.002 ms
+13:47:14.243:      ┃ ┣obs_init_module(obs-nvenc.so): 354.737 ms
+13:47:14.243:      ┃ ┃ ┗nvenc_check: 354.723 ms
+13:47:14.243:      ┃ ┣obs_init_module(obs-outputs.so): 0.006 ms
+13:47:14.243:      ┃ ┣obs_init_module(obs-qsv11.so): 1737.58 ms
+13:47:14.243:      ┃ ┣obs_init_module(obs-transitions.so): 0.011 ms
+13:47:14.243:      ┃ ┣obs_init_module(obs-vst.so): 0.002 ms
+13:47:14.243:      ┃ ┣obs_init_module(obs-webrtc.so): 0.005 ms
+13:47:14.243:      ┃ ┣obs_init_module(obs-websocket.so): 7.372 ms
+13:47:14.243:      ┃ ┣obs_init_module(obs-x264.so): 0.001 ms
+13:47:14.243:      ┃ ┣obs_init_module(rtmp-services.so): 1.209 ms
+13:47:14.243:      ┃ ┗obs_init_module(text-freetype2.so): 0.027 ms
+13:47:14.243:      ┣OBSBasic::InitService: 1.501 ms
+13:47:14.243:      ┣OBSBasic::ResetOutputs: 1.048 ms
+13:47:14.243:      ┣OBSBasic::CreateHotkeys: 0.118 ms
+13:47:14.243:      ┣OBSBasic::InitPrimitives: 0.107 ms
+13:47:14.243:      ┗OBSBasic::Load: 34.2 ms
+13:47:14.243: obs_hotkey_thread(25 ms): min=0 ms, median=0.001 ms, max=6.607 ms, 99th percentile=0.009 ms, 100% below 25 ms
+13:47:14.243: audio_thread(Audio): min=0.008 ms, median=0.035 ms, max=1211.36 ms, 99th percentile=1.182 ms
+13:47:14.243:  ┗receive_audio: min=0.004 ms, median=0.494 ms, max=11.605 ms, 99th percentile=1.517 ms, 0.127103 calls per parent call
+13:47:14.243:    ┣buffer_audio: min=0 ms, median=0.002 ms, max=0.239 ms, 99th percentile=0.019 ms
+13:47:14.243:    ┗do_encode: min=0.014 ms, median=0.487 ms, max=11.591 ms, 99th percentile=1.5 ms
+13:47:14.243:      ┣encode(Track1): min=0.014 ms, median=0.466 ms, max=11.565 ms, 99th percentile=1.372 ms
+13:47:14.243:      ┗send_packet: min=0.001 ms, median=0.015 ms, max=7.112 ms, 99th percentile=0.148 ms
+13:47:14.243: obs_graphics_thread(16.6667 ms): min=0.045 ms, median=1.597 ms, max=4022.36 ms, 99th percentile=6.605 ms, 99.8138% below 16.667 ms
+13:47:14.243:  ┣tick_sources: min=0 ms, median=0.01 ms, max=56.367 ms, 99th percentile=0.063 ms
+13:47:14.243:  ┣output_frame: min=0.024 ms, median=0.239 ms, max=1190.53 ms, 99th percentile=2.459 ms
+13:47:14.243:  ┃ ┗gs_context(video->graphics): min=0.023 ms, median=0.238 ms, max=1190.52 ms, 99th percentile=2.449 ms
+13:47:14.243:  ┃   ┣render_video: min=0.011 ms, median=0.205 ms, max=991.344 ms, 99th percentile=1.486 ms
+13:47:14.243:  ┃   ┃ ┣render_main_texture: min=0.008 ms, median=0.189 ms, max=912.048 ms, 99th percentile=1.243 ms
+13:47:14.243:  ┃   ┃ ┣render_output_texture: min=0.019 ms, median=0.055 ms, max=27.057 ms, 99th percentile=0.269 ms, 0.127505 calls per parent call
+13:47:14.243:  ┃   ┃ ┣render_convert_texture: min=0.031 ms, median=0.059 ms, max=2.295 ms, 99th percentile=0.246 ms, 0.127505 calls per parent call
+13:47:14.243:  ┃   ┃ ┗output_gpu_encoders: min=0 ms, median=0.006 ms, max=2.738 ms, 99th percentile=0.03 ms, 0.127505 calls per parent call
+13:47:14.243:  ┃   ┗gs_flush: min=0.002 ms, median=0.008 ms, max=34.128 ms, 99th percentile=0.136 ms
+13:47:14.243:  ┗render_displays: min=0.009 ms, median=1.06 ms, max=4022.13 ms, 99th percentile=4.722 ms
+13:47:14.243: obs_gpu_encode_thread(16.6667 ms): min=1.149 ms, median=2.255 ms, max=46.643 ms, 99th percentile=46.643 ms, 98% below 16.667 ms
+13:47:14.243:  ┣gpu_encode_frame: min=1.132 ms, median=2.218 ms, max=46.636 ms, 99th percentile=46.636 ms
+13:47:14.243:  ┗send_packet: min=0.003 ms, median=0.01 ms, max=0.125 ms, 99th percentile=0.125 ms, 0.76 calls per parent call
+13:47:14.243: OBSBasicSettings::LoadThemeList: 0.066 ms
+13:47:14.243: obs_gpu_encode_thread(16.6667 ms): min=0.297 ms, median=2.1 ms, max=49.976 ms, 99th percentile=5.881 ms, 99.9843% below 16.667 ms
+13:47:14.243:  ┣gpu_encode_frame: min=0.265 ms, median=2.064 ms, max=49.972 ms, 99th percentile=5.763 ms
+13:47:14.243:  ┗send_packet: min=0.002 ms, median=0.018 ms, max=4.234 ms, 99th percentile=0.134 ms
+13:47:14.243: obs_gpu_encode_thread(16.6667 ms): min=0.424 ms, median=2.11 ms, max=48.465 ms, 99th percentile=5.483 ms, 99.9937% below 16.667 ms
+13:47:14.243:  ┣gpu_encode_frame: min=0.414 ms, median=2.08 ms, max=48.461 ms, 99th percentile=5.387 ms
+13:47:14.243:  ┗send_packet: min=0.002 ms, median=0.016 ms, max=4.943 ms, 99th percentile=0.104 ms
+13:47:14.243: obs_gpu_encode_thread(16.6667 ms): min=0.063 ms, median=2.109 ms, max=42.272 ms, 99th percentile=5.47 ms, 99.9905% below 16.667 ms
+13:47:14.243:  ┣gpu_encode_frame: min=0.061 ms, median=2.084 ms, max=42.265 ms, 99th percentile=5.413 ms
+13:47:14.243:  ┗send_packet: min=0.002 ms, median=0.011 ms, max=4.133 ms, 99th percentile=0.062 ms
+13:47:14.243: obs_gpu_encode_thread(16.6667 ms): min=0.141 ms, median=1.612 ms, max=53.408 ms, 99th percentile=11.36 ms, 99.6289% below 16.667 ms
+13:47:14.243:  ┣gpu_encode_frame: min=0.138 ms, median=1.585 ms, max=53.396 ms, 99th percentile=11.338 ms
+13:47:14.243:  ┗send_packet: min=0.002 ms, median=0.01 ms, max=1.538 ms, 99th percentile=0.39 ms
+13:47:14.243: =================================================
+13:47:14.243: == Profiler Time Between Calls ==================
+13:47:14.243: obs_hotkey_thread(25 ms): min=25.008 ms, median=25.075 ms, max=78.86 ms, 99.3283% within ±2% of 25 ms (0% lower, 0.671746% higher)
+13:47:14.243: obs_graphics_thread(16.6667 ms): min=0.447 ms, median=16.667 ms, max=4022.38 ms, 98.4801% within ±2% of 16.667 ms (0.754992% lower, 0.764911% higher)
+13:47:14.243: obs_gpu_encode_thread(16.6667 ms): min=5.45 ms, median=16.605 ms, max=54.785 ms, 42.8571% within ±2% of 16.667 ms (32.6531% lower, 24.4898% higher)
+13:47:14.243: obs_gpu_encode_thread(16.6667 ms): min=0.301 ms, median=16.687 ms, max=101.21 ms, 41.3495% within ±2% of 16.667 ms (29.0815% lower, 29.569% higher)
+13:47:14.243: obs_gpu_encode_thread(16.6667 ms): min=4.217 ms, median=16.681 ms, max=54.702 ms, 41.7404% within ±2% of 16.667 ms (28.8692% lower, 29.3903% higher)
+13:47:14.243: obs_gpu_encode_thread(16.6667 ms): min=0.174 ms, median=16.683 ms, max=99.74 ms, 41.9434% within ±2% of 16.667 ms (28.858% lower, 29.1986% higher)
+13:47:14.243: obs_gpu_encode_thread(16.6667 ms): min=0.142 ms, median=16.641 ms, max=171.362 ms, 64.3123% within ±2% of 16.667 ms (20.632% lower, 15.0558% higher)
+13:47:14.243: =================================================
+13:47:14.318: Number of memory leaks: 0

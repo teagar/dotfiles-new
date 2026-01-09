@@ -1,0 +1,63 @@
+{
+	"__timestamp": {
+		"0584d2013f0149a791e7b9bad0eec102": "Sun Jan 04 2026 20:53:32 GMT-0300 (Brasilia Standard Time)"
+	},
+	"0584d2013f0149a791e7b9bad0eec102": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-grandtheftautovenhanced-rockstarnorth-s1-2560x1440-5d4af36eed4c.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Rockstar North",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Rockstar Games",
+			"description": "# Welcome to Los Santos\nWhen a young street hustler, a retired bank robber, and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government, and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city in which they can trust nobody — least of all each other.\nCurrent PC players can transfer both GTAV Story Mode progress and GTA Online characters and progression with a one-time migration from the legacy version of GTAV to GTAV Enhanced.\n\n# Stunning Visuals\nEnhanced levels of fidelity and performance with new graphics modes including ray tracing features such as ambient occlusion and global illumination, ray traced shadows and reflections, support for AMD FSR1 and FSR3, and NVIDIA DLSS 3, and more.*\n\n\n# Faster Loading\nQuicker access to the action as the world of Los Santos and Blaine County load in faster than ever before by using SSD and DirectStorage on supported devices.\n\n\n# Immersive Controls\nFeel new levels of responsiveness with dynamic resistance via the Adaptive Triggers on the DualSense™ wireless controller, from directional damage to weather effects, rough road surfaces to explosions, and much more.*\n\n\n# 3D Audio\nEnhanced audio with support for Dolby Atmos and improved fidelity of speech, cinematics, and music.* Hear the sounds of the world with pinpoint precision: the throttle of a stolen supercar, the rattle of neighboring gunfire, the roar of a helicopter overhead, and more.\n\n\n# Grand Theft Auto Online\nExperience GTA Online, a dynamic and ever-evolving online universe for up to 30 players, where you can rise from street-level hustler to become a kingpin of your own criminal empire.\n\nEnjoy new high-performance vehicle upgrades and improvements like the Career Builder as well as all GTA Online gameplay upgrades, expansions, and content released since launch, ready to enjoy solo or with friends. Pull off daring co-operative Heists, enter adrenaline-fueled Stunt Races, compete in unique Adversary Modes, or hang out in social spaces including nightclubs, arcades, penthouse parties, car meetups, and much more.\n\n# Exclusive Content\nStep into Hao’s Special Works at the Los Santos Car Meet, featuring elite new upgrades and exclusive modifications. Then take these high-performance vehicles into HSW races, new time trials, and more.\n\n# New Career Builder\nGet started in GTA Online with the tools of the trade. Quickly choose from one of four businesses — Biker, Executive, Nightclub Owner, or Gunrunner — and select from properties, powerhouse vehicles, and weaponry to kick-start your enterprise.\n\n# New Menu Design\nImmediately access everything GTA Online has to offer right from the main menu, including the latest and most popular updates.\n\n# Access to All Current and Previous Updates\nDive into more than 40 massive updates with more to come, featuring everything from running a covert ops installation in Agents of Sabotage, to tracking down and dragging in Southern San Andreas' most wanted in Bottom Dollar Bounties; exposing corrupt cops and killer cartels in The Cluckin' Bell Farm Raid, to daring robberies of the most coveted vehicles in Los Santos in The Chop Shop. All this and more available alongside a wide range of races, modes, activities, and social spaces to enjoy solo or with friends — including nightclubs, arcades, penthouse parties, car meetups, and much more.\n\n*Over time downloadable content and programming changes will change the system requirements for this game. Please refer to your hardware manufacturer and www.rockstargames.com/support for current compatibility information. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher.*\n",
+			"shortDescription": "Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online — now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.",
+			"title": "Grand Theft Auto V Enhanced",
+			"developerLogo": {
+				"src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_200x200_PublisherLogo-128x128-9f1e57af94bf2983d56393ec7aa80b6ae9c4f555.png",
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS ",
+				"minimum": "Windows 10 (latest update)",
+				"recommended": "Windows 11"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "\"Intel® Core™ i7-4770 | AMD FX™-9590\"",
+				"recommended": "\"Intel® Core™ i5-9600K | AMD Ryzen™ 5 3600\""
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "8GB RAM",
+				"recommended": "16GB Dual-Channel Configuration RAM"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "105GB SSD Required",
+				"recommended": "105GB, DirectStorage-compatible drive"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "\"NVIDIA GeForce® GTX 1630 (4GB VRAM) | AMD Radeon™ RX 6400 (4GB VRAM)\"",
+				"recommended": "\"NVIDIA GeForce® RTX 3060 (8GB VRAM) | AMD Radeon™ RX 6600XT (8GB VRAM)\""
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Other",
+				"minimum": "",
+				"recommended": "Windows Spatial Sound-compatible audio system; solution containing Dolby Atmos® support required for a Dolby Atmos® experience"
+			}
+		],
+		"releaseDate": "2013-09-17T13:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/grand-theft-auto-v"
+	}
+}

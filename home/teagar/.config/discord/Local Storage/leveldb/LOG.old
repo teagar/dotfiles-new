@@ -1,0 +1,9 @@
+2026/01/06-18:16:27.122 af8 Reusing MANIFEST /home/teagar/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2026/01/06-18:16:27.125 af8 Recovering log #206
+2026/01/06-18:16:27.126 af8 Reusing old log /home/teagar/.config/discord/Local Storage/leveldb/000206.log 
+2026/01/06-18:17:27.130 af8 Level-0 table #210: started
+2026/01/06-18:17:27.131 af8 Level-0 table #210: 23209 bytes OK
+2026/01/06-18:17:27.133 af8 Delete type=0 #206
+2026/01/06-18:35:12.223 af7 Level-0 table #212: started
+2026/01/06-18:35:12.225 af7 Level-0 table #212: 22516 bytes OK
+2026/01/06-18:35:12.227 af7 Delete type=0 #209

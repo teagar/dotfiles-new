@@ -1,0 +1,523 @@
+12:16:40.971: Platform: Wayland
+12:16:40.971: CPU Name: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+12:16:40.971: CPU Speed: 4099.958MHz
+12:16:40.971: Physical Cores: 6, Logical Cores: 12
+12:16:40.971: Physical Memory: 7712MB Total, 150MB Free
+12:16:40.971: Kernel Version: Linux 6.18.3-arch1-1
+12:16:40.971: Distribution: "Arch Linux" Unknown
+12:16:40.971: Desktop Environment: niri (niri)
+12:16:40.971: Session Type: wayland
+12:16:40.974: Current Date/Time: 2026-01-07, 12:16:40 PM
+12:16:40.974: Browser Hardware Acceleration: false
+12:16:40.974: Qt Version: 6.10.1 (runtime), 6.10.1 (compiled)
+12:16:40.974: Portable mode: false
+12:16:41.028: OBS 32.0.2 (linux)
+12:16:41.028: ---------------------------------
+12:16:41.029: ---------------------------------
+12:16:41.029: audio settings reset:
+12:16:41.029: 	samples per sec: 48000
+12:16:41.029: 	speakers:        2
+12:16:41.029: 	max buffering:   960 milliseconds
+12:16:41.029: 	buffering type:  dynamically increasing
+12:16:41.032: ---------------------------------
+12:16:41.032: Initializing OpenGL...
+12:16:41.032: Using EGL/Wayland
+12:16:41.132: Initialized EGL 1.5
+12:16:41.188: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 1650/PCIe/SSE2
+12:16:41.188: OpenGL loaded successfully, version 3.3.0 NVIDIA 590.48.01, shading language 3.30 NVIDIA via Cg compiler
+12:16:41.217: ---------------------------------
+12:16:41.217: video settings reset:
+12:16:41.217: 	base resolution:   1920x1080
+12:16:41.217: 	output resolution: 1536x864
+12:16:41.217: 	downscale filter:  Lanczos
+12:16:41.217: 	fps:               60/1
+12:16:41.217: 	format:            NV12
+12:16:41.217: 	YUV mode:          Rec. 709/Full
+12:16:41.217: NV12 texture support enabled
+12:16:41.217: P010 texture support not available
+12:16:41.217: Audio monitoring device:
+12:16:41.217: 	name: Default
+12:16:41.217: 	id: default
+12:16:41.260: ---------------------------------
+12:16:41.263: Failed to load 'en-US' text for module: 'decklink-captions.so'
+12:16:41.264: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+12:16:41.266: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+12:16:41.266: Failed to initialize module 'decklink.so'
+12:16:41.399: [pipewire] Available capture sources:
+12:16:41.399: [pipewire]     - Monitor source
+12:16:41.412: v4l2loopback not installed, virtual camera not registered
+12:16:41.460: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+12:16:41.847: VAAPI: API version 1.22
+12:16:41.930: FFmpeg VAAPI H264 encoding supported
+12:16:42.859: FFmpeg VAAPI AV1 encoding not supported
+12:16:43.342: FFmpeg VAAPI HEVC encoding supported
+12:16:43.725: [obs-nvenc] NVENC version: 13.0 (compiled) / 13.0 (driver), CUDA driver version: 13.10, AV1 supported: false
+12:16:45.708: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.6.3 | RPC Version: 1)
+12:16:45.708: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.10.1 | Qt version (run-time): 6.10.1
+12:16:45.708: [obs-websocket] [obs_module_load] Linked ASIO Version: 103600
+12:16:45.713: [obs-websocket] [obs_module_load] Module loaded.
+12:16:45.721: ---------------------------------
+12:16:45.721:   Loaded Modules:
+12:16:45.721:     text-freetype2.so
+12:16:45.721:     rtmp-services.so
+12:16:45.721:     obs-x264.so
+12:16:45.721:     obs-websocket.so
+12:16:45.721:     obs-webrtc.so
+12:16:45.721:     obs-vst.so
+12:16:45.721:     obs-transitions.so
+12:16:45.721:     obs-qsv11.so
+12:16:45.721:     obs-outputs.so
+12:16:45.721:     obs-nvenc.so
+12:16:45.721:     obs-libfdk.so
+12:16:45.721:     obs-filters.so
+12:16:45.721:     obs-ffmpeg.so
+12:16:45.721:     linux-v4l2.so
+12:16:45.721:     linux-pulseaudio.so
+12:16:45.721:     linux-pipewire.so
+12:16:45.721:     linux-jack.so
+12:16:45.721:     linux-capture.so
+12:16:45.721:     linux-alsa.so
+12:16:45.721:     image-source.so
+12:16:45.721:     frontend-tools.so
+12:16:45.721:     decklink-output-ui.so
+12:16:45.721:     decklink-captions.so
+12:16:45.721: ---------------------------------
+12:16:45.721: ---------------------------------
+12:16:45.721: Available Encoders:
+12:16:45.721:   Video Encoders:
+12:16:45.721: 	- ffmpeg_svt_av1 (SVT-AV1)
+12:16:45.721: 	- ffmpeg_aom_av1 (AOM AV1)
+12:16:45.721: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+12:16:45.721: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+12:16:45.721: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+12:16:45.721: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+12:16:45.721: 	- obs_x264 (x264)
+12:16:45.721:   Audio Encoders:
+12:16:45.721: 	- ffmpeg_aac (FFmpeg AAC)
+12:16:45.721: 	- ffmpeg_opus (FFmpeg Opus)
+12:16:45.721: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+12:16:45.721: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+12:16:45.722: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+12:16:45.722: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+12:16:45.722: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+12:16:45.722: 	- libfdk_aac (libfdk AAC)
+12:16:45.722: ==== Startup complete ===============================================
+12:16:45.766: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+12:16:45.767: All scene data cleared
+12:16:45.767: ------------------------------------------------
+12:16:45.775: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.9) 15.0.0'
+12:16:45.776: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+12:16:45.776: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor' (default)
+12:16:45.776: [Loaded global audio device]: 'Desktop Audio'
+12:16:45.776: PipeWire initialized
+12:16:45.776: PipeWire initialized
+12:16:45.778: Switched to scene 'Scene'
+12:16:45.779: ------------------------------------------------
+12:16:45.779: Loaded scenes:
+12:16:45.779: - scene 'Scene':
+12:16:45.779:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+12:16:45.779:     - source: 'Screen Capture (PipeWire) 2' (pipewire-screen-capture-source)
+12:16:45.779: ------------------------------------------------
+12:16:45.787: Device for 'Audio Output Capture' source is also used for audio monitoring:
+12:16:45.787: Deduplication logic is being applied to all monitored sources.
+12:16:45.787: 
+12:16:45.873: [pipewire] Screencast session created
+12:16:45.873: [pipewire] Screencast session created
+12:16:46.363: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+12:16:46.363: 
+12:16:47.252: [pipewire] Asking for monitor and window
+12:16:47.972: [pipewire] Asking for monitor and window
+12:16:47.997: [pipewire] source selected, setting up screencast
+12:16:48.001: [pipewire] source selected, setting up screencast
+12:16:48.020: [pipewire] Server version: 1.4.9
+12:16:48.021: [pipewire] Library version: 1.4.9
+12:16:48.021: [pipewire] Header version: 1.4.9
+12:16:48.021: [pipewire] Created stream 0x55678a16f330
+12:16:48.021: [pipewire] Stream 0x55678a16f330 state: "connecting" (error: none)
+12:16:48.022: [pipewire] Playing stream 0x55678a16f330
+12:16:48.022: [pipewire] Stream 0x55678a16f330 state: "paused" (error: none)
+12:16:48.026: [pipewire] Server version: 1.4.9
+12:16:48.026: [pipewire] Library version: 1.4.9
+12:16:48.026: [pipewire] Header version: 1.4.9
+12:16:48.026: [pipewire] Created stream 0x55678a1c3450
+12:16:48.026: [pipewire] Stream 0x55678a1c3450 state: "connecting" (error: none)
+12:16:48.027: [pipewire] Playing stream 0x55678a1c3450
+12:16:48.029: [pipewire] Stream 0x55678a1c3450 state: "paused" (error: none)
+12:16:48.082: [pipewire] Negotiated format:
+12:16:48.082: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+12:16:48.082: [pipewire]     Modifier: 0x0
+12:16:48.082: [pipewire]     Size: 1920x1080
+12:16:48.082: [pipewire]     Framerate: 0/1
+12:16:48.085: [pipewire] Negotiated format:
+12:16:48.085: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+12:16:48.085: [pipewire]     Modifier: 0x300000000e08014
+12:16:48.085: [pipewire]     Size: 1920x1080
+12:16:48.085: [pipewire]     Framerate: 0/1
+12:16:48.088: [pipewire] Stream 0x55678a16f330 state: "streaming" (error: none)
+12:16:48.134: [pipewire] Negotiated format:
+12:16:48.134: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+12:16:48.134: [pipewire]     Modifier: 0x0
+12:16:48.134: [pipewire]     Size: 1920x1080
+12:16:48.134: [pipewire]     Framerate: 0/1
+12:16:48.137: [pipewire] Negotiated format:
+12:16:48.137: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+12:16:48.137: [pipewire]     Modifier: 0x300000000e08014
+12:16:48.137: [pipewire]     Size: 1920x1080
+12:16:48.137: [pipewire]     Framerate: 0/1
+12:16:48.138: [pipewire] Stream 0x55678a1c3450 state: "streaming" (error: none)
+12:16:50.403: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x55678b34f1a0 with focusing surface 0x5567882fb210
+12:16:51.312: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Try to disable surface 0x55678b34f1a0 with focusing surface 0x5567882fb210
+12:16:51.984: User Removed source 'Screen Capture (PipeWire)' (pipewire-screen-capture-source) from scene 'Scene'
+12:16:51.998: [pipewire] Stream 0x55678a16f330 state: "paused" (error: none)
+12:16:52.036: [pipewire] Stream 0x55678a16f330 state: "unconnected" (error: none)
+12:16:57.049: [obs-nvenc: 'advanced_video_recording'] settings:
+12:16:57.049: 	codec:        HEVC
+12:16:57.049: 	rate_control: CBR
+12:16:57.049: 	bitrate:      10000
+12:16:57.049: 	keyint:       250
+12:16:57.049: 	preset:       p6
+12:16:57.049: 	tuning:       hq
+12:16:57.049: 	multipass:    qres
+12:16:57.049: 	profile:      main
+12:16:57.049: 	width:        1536
+12:16:57.049: 	height:       864
+12:16:57.049: 	b-frames:     0
+12:16:57.049: 	b-ref-mode:   0
+12:16:57.049: 	lookahead:    true (8 frames)
+12:16:57.049: 	aq:           true
+12:16:57.049: 
+12:16:57.111: ---------------------------------
+12:16:57.111: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+12:16:57.111: 
+12:16:57.132: ==== Recording Start ===============================================
+12:16:57.132: [mp4 output: 'adv_file_output'] Writing Hybrid MP4/MOV file '/home/teagar/Videos/2026-01-07 12-16-56.mp4'...
+12:17:50.554: [mp4 muxer: 'adv_file_output'] Flushing final fragment...
+12:17:50.556: [mp4 muxer: 'adv_file_output'] Number of fragments: 14
+12:17:50.556: [mp4 muxer: 'adv_file_output'] Full moov size: 23 KiB
+12:17:50.556: [mp4 muxer: 'adv_file_output'] Final mdat size: 65982 KiB
+12:17:50.556: Output 'adv_file_output': stopping
+12:17:50.556: Output 'adv_file_output': Total frames output: 3192
+12:17:50.556: Output 'adv_file_output': Total drawn frames: 3205 (3206 attempted)
+12:17:50.556: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+12:17:50.557: [mp4 output: 'adv_file_output'] Waiting for file writer to finish...
+12:17:50.558: ==== Recording Stop ================================================
+12:17:50.559: [mp4 output: 'adv_file_output'] File output complete. Finalization took 4 ms.
+12:17:50.559: Video stopped, number of skipped frames due to encoding lag: 1/3205 (0.0%)
+12:19:18.270: [obs-nvenc: 'advanced_video_recording'] settings:
+12:19:18.270: 	codec:        HEVC
+12:19:18.270: 	rate_control: CBR
+12:19:18.270: 	bitrate:      10000
+12:19:18.270: 	keyint:       250
+12:19:18.270: 	preset:       p6
+12:19:18.270: 	tuning:       hq
+12:19:18.270: 	multipass:    qres
+12:19:18.270: 	profile:      main
+12:19:18.270: 	width:        1536
+12:19:18.270: 	height:       864
+12:19:18.270: 	b-frames:     0
+12:19:18.270: 	b-ref-mode:   0
+12:19:18.270: 	lookahead:    true (8 frames)
+12:19:18.270: 	aq:           true
+12:19:18.270: 
+12:19:18.319: ---------------------------------
+12:19:18.319: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+12:19:18.319: 
+12:19:18.324: ==== Recording Start ===============================================
+12:19:18.325: [mp4 output: 'adv_file_output'] Writing Hybrid MP4/MOV file '/home/teagar/Videos/2026-01-07 12-19-18.mp4'...
+12:19:46.136: [mp4 muxer: 'adv_file_output'] Flushing final fragment...
+12:19:46.137: [mp4 muxer: 'adv_file_output'] Number of fragments: 9
+12:19:46.137: [mp4 muxer: 'adv_file_output'] Full moov size: 13 KiB
+12:19:46.137: [mp4 muxer: 'adv_file_output'] Final mdat size: 34171 KiB
+12:19:46.137: Output 'adv_file_output': stopping
+12:19:46.137: Output 'adv_file_output': Total frames output: 1654
+12:19:46.137: Output 'adv_file_output': Total drawn frames: 1668 (1669 attempted)
+12:19:46.137: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.1%)
+12:19:46.137: [mp4 output: 'adv_file_output'] Waiting for file writer to finish...
+12:19:46.137: [mp4 output: 'adv_file_output'] File output complete. Finalization took 0 ms.
+12:19:46.137: Video stopped, number of skipped frames due to encoding lag: 1/1667 (0.1%)
+12:19:46.138: ==== Recording Stop ================================================
+12:19:52.078: [obs-nvenc: 'advanced_video_recording'] settings:
+12:19:52.078: 	codec:        HEVC
+12:19:52.078: 	rate_control: CBR
+12:19:52.078: 	bitrate:      10000
+12:19:52.078: 	keyint:       250
+12:19:52.078: 	preset:       p6
+12:19:52.078: 	tuning:       hq
+12:19:52.078: 	multipass:    qres
+12:19:52.078: 	profile:      main
+12:19:52.078: 	width:        1536
+12:19:52.078: 	height:       864
+12:19:52.078: 	b-frames:     0
+12:19:52.078: 	b-ref-mode:   0
+12:19:52.078: 	lookahead:    true (8 frames)
+12:19:52.078: 	aq:           true
+12:19:52.078: 
+12:19:52.125: ---------------------------------
+12:19:52.126: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+12:19:52.126: 
+12:19:52.131: ==== Recording Start ===============================================
+12:19:52.131: [mp4 output: 'adv_file_output'] Writing Hybrid MP4/MOV file '/home/teagar/Videos/2026-01-07 12-19-51.mp4'...
+12:20:01.022: [mp4 muxer: 'adv_file_output'] Flushing final fragment...
+12:20:01.022: [mp4 muxer: 'adv_file_output'] Number of fragments: 4
+12:20:01.023: [mp4 muxer: 'adv_file_output'] Full moov size: 5 KiB
+12:20:01.023: [mp4 muxer: 'adv_file_output'] Final mdat size: 10695 KiB
+12:20:01.023: Output 'adv_file_output': stopping
+12:20:01.023: Output 'adv_file_output': Total frames output: 519
+12:20:01.023: Output 'adv_file_output': Total drawn frames: 533 (534 attempted)
+12:20:01.023: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.2%)
+12:20:01.023: [mp4 output: 'adv_file_output'] Waiting for file writer to finish...
+12:20:01.024: ==== Recording Stop ================================================
+12:20:01.024: [mp4 output: 'adv_file_output'] File output complete. Finalization took 2 ms.
+12:20:01.024: Video stopped, number of skipped frames due to encoding lag: 1/532 (0.2%)
+12:20:04.197: [obs-nvenc: 'advanced_video_recording'] settings:
+12:20:04.197: 	codec:        HEVC
+12:20:04.197: 	rate_control: CBR
+12:20:04.197: 	bitrate:      10000
+12:20:04.197: 	keyint:       250
+12:20:04.197: 	preset:       p6
+12:20:04.197: 	tuning:       hq
+12:20:04.197: 	multipass:    qres
+12:20:04.197: 	profile:      main
+12:20:04.197: 	width:        1536
+12:20:04.197: 	height:       864
+12:20:04.197: 	b-frames:     0
+12:20:04.197: 	b-ref-mode:   0
+12:20:04.197: 	lookahead:    true (8 frames)
+12:20:04.197: 	aq:           true
+12:20:04.197: 
+12:20:04.245: ---------------------------------
+12:20:04.245: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+12:20:04.245: 
+12:20:04.250: ==== Recording Start ===============================================
+12:20:04.251: [mp4 output: 'adv_file_output'] Writing Hybrid MP4/MOV file '/home/teagar/Videos/2026-01-07 12-20-03.mp4'...
+12:20:41.237: [mp4 muxer: 'adv_file_output'] Flushing final fragment...
+12:20:41.238: [mp4 muxer: 'adv_file_output'] Number of fragments: 11
+12:20:41.238: [mp4 muxer: 'adv_file_output'] Full moov size: 17 KiB
+12:20:41.238: [mp4 muxer: 'adv_file_output'] Final mdat size: 45569 KiB
+12:20:41.238: Output 'adv_file_output': stopping
+12:20:41.238: Output 'adv_file_output': Total frames output: 2205
+12:20:41.238: Output 'adv_file_output': Total drawn frames: 2219 (2220 attempted)
+12:20:41.238: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+12:20:41.239: [mp4 output: 'adv_file_output'] Waiting for file writer to finish...
+12:20:41.239: [mp4 output: 'adv_file_output'] File output complete. Finalization took 2 ms.
+12:20:41.239: Video stopped, number of skipped frames due to encoding lag: 1/2218 (0.0%)
+12:20:41.239: ==== Recording Stop ================================================
+12:20:46.468: [obs-nvenc: 'advanced_video_recording'] settings:
+12:20:46.468: 	codec:        HEVC
+12:20:46.468: 	rate_control: CBR
+12:20:46.468: 	bitrate:      10000
+12:20:46.468: 	keyint:       250
+12:20:46.468: 	preset:       p6
+12:20:46.468: 	tuning:       hq
+12:20:46.468: 	multipass:    qres
+12:20:46.468: 	profile:      main
+12:20:46.468: 	width:        1536
+12:20:46.468: 	height:       864
+12:20:46.468: 	b-frames:     0
+12:20:46.468: 	b-ref-mode:   0
+12:20:46.468: 	lookahead:    true (8 frames)
+12:20:46.468: 	aq:           true
+12:20:46.468: 
+12:20:46.527: ---------------------------------
+12:20:46.527: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+12:20:46.527: 
+12:20:46.532: ==== Recording Start ===============================================
+12:20:46.532: [mp4 output: 'adv_file_output'] Writing Hybrid MP4/MOV file '/home/teagar/Videos/2026-01-07 12-20-46.mp4'...
+12:20:59.953: [mp4 muxer: 'adv_file_output'] Flushing final fragment...
+12:20:59.956: [mp4 muxer: 'adv_file_output'] Number of fragments: 5
+12:20:59.956: [mp4 muxer: 'adv_file_output'] Full moov size: 7 KiB
+12:20:59.956: [mp4 muxer: 'adv_file_output'] Final mdat size: 16280 KiB
+12:20:59.956: Output 'adv_file_output': stopping
+12:20:59.956: Output 'adv_file_output': Total frames output: 789
+12:20:59.956: Output 'adv_file_output': Total drawn frames: 802 (806 attempted)
+12:20:59.956: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 4 (0.5%)
+12:20:59.956: [mp4 output: 'adv_file_output'] Waiting for file writer to finish...
+12:20:59.957: [mp4 output: 'adv_file_output'] File output complete. Finalization took 3 ms.
+12:20:59.957: Video stopped, number of skipped frames due to encoding lag: 4/804 (0.5%)
+12:20:59.957: ==== Recording Stop ================================================
+12:21:15.951: Settings changed (hotkeys)
+12:21:15.951: ------------------------------------------------
+12:21:18.504: Starting stream due to hotkey
+12:21:18.513: Stream output type 'rtmp_output' failed to start!
+12:21:20.856: Starting stream due to hotkey
+12:21:20.861: Stream output type 'rtmp_output' failed to start!
+12:21:22.509: [obs-nvenc: 'advanced_video_recording'] settings:
+12:21:22.509: 	codec:        HEVC
+12:21:22.509: 	rate_control: CBR
+12:21:22.509: 	bitrate:      10000
+12:21:22.509: 	keyint:       250
+12:21:22.509: 	preset:       p6
+12:21:22.509: 	tuning:       hq
+12:21:22.509: 	multipass:    qres
+12:21:22.509: 	profile:      main
+12:21:22.509: 	width:        1536
+12:21:22.509: 	height:       864
+12:21:22.509: 	b-frames:     0
+12:21:22.509: 	b-ref-mode:   0
+12:21:22.509: 	lookahead:    true (8 frames)
+12:21:22.509: 	aq:           true
+12:21:22.509: 
+12:21:22.554: ---------------------------------
+12:21:22.554: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+12:21:22.554: 
+12:21:22.558: ==== Recording Start ===============================================
+12:21:22.558: [mp4 output: 'adv_file_output'] Writing Hybrid MP4/MOV file '/home/teagar/Videos/2026-01-07 12-21-22.mp4'...
+12:21:23.804: [mp4 muxer: 'adv_file_output'] Flushing final fragment...
+12:21:23.805: [mp4 muxer: 'adv_file_output'] Number of fragments: 1
+12:21:23.805: [mp4 muxer: 'adv_file_output'] Full moov size: 1 KiB
+12:21:23.805: [mp4 muxer: 'adv_file_output'] Final mdat size: 1200 KiB
+12:21:23.805: Output 'adv_file_output': stopping
+12:21:23.805: Output 'adv_file_output': Total frames output: 59
+12:21:23.805: Output 'adv_file_output': Total drawn frames: 74 (75 attempted)
+12:21:23.805: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (1.3%)
+12:21:23.805: [mp4 output: 'adv_file_output'] Waiting for file writer to finish...
+12:21:23.807: [mp4 output: 'adv_file_output'] File output complete. Finalization took 2 ms.
+12:21:23.807: ==== Recording Stop ================================================
+12:21:23.807: Video stopped, number of skipped frames due to encoding lag: 1/73 (1.4%)
+12:21:33.816: Settings changed (hotkeys)
+12:21:33.816: ------------------------------------------------
+12:21:35.169: Starting recording due to hotkey
+12:21:35.385: [obs-nvenc: 'advanced_video_recording'] settings:
+12:21:35.385: 	codec:        HEVC
+12:21:35.385: 	rate_control: CBR
+12:21:35.385: 	bitrate:      10000
+12:21:35.385: 	keyint:       250
+12:21:35.385: 	preset:       p6
+12:21:35.385: 	tuning:       hq
+12:21:35.385: 	multipass:    qres
+12:21:35.385: 	profile:      main
+12:21:35.385: 	width:        1536
+12:21:35.385: 	height:       864
+12:21:35.385: 	b-frames:     0
+12:21:35.385: 	b-ref-mode:   0
+12:21:35.385: 	lookahead:    true (8 frames)
+12:21:35.385: 	aq:           true
+12:21:35.385: 
+12:21:35.437: ---------------------------------
+12:21:35.438: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+12:21:35.438: 
+12:21:35.443: ==== Recording Start ===============================================
+12:21:35.443: [mp4 output: 'adv_file_output'] Writing Hybrid MP4/MOV file '/home/teagar/Videos/2026-01-07 12-21-35.mp4'...
+12:21:35.909: Stopping recording due to hotkey
+12:21:36.171: [mp4 muxer: 'adv_file_output'] Flushing final fragment...
+12:21:36.172: [mp4 muxer: 'adv_file_output'] Number of fragments: 1
+12:21:36.172: [mp4 muxer: 'adv_file_output'] Full moov size: 1 KiB
+12:21:36.172: [mp4 muxer: 'adv_file_output'] Final mdat size: 559 KiB
+12:21:36.172: Output 'adv_file_output': stopping
+12:21:36.172: Output 'adv_file_output': Total frames output: 29
+12:21:36.172: Output 'adv_file_output': Total drawn frames: 43 (44 attempted)
+12:21:36.172: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (2.3%)
+12:21:36.172: [mp4 output: 'adv_file_output'] Waiting for file writer to finish...
+12:21:36.173: [mp4 output: 'adv_file_output'] File output complete. Finalization took 2 ms.
+12:21:36.173: Video stopped, number of skipped frames due to encoding lag: 1/42 (2.4%)
+12:21:36.175: ==== Recording Stop ================================================
+12:24:23.536: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+12:24:23.536: 
+12:24:41.317: [obs-nvenc: 'advanced_video_recording'] settings:
+12:24:41.317: 	codec:        HEVC
+12:24:41.317: 	rate_control: CBR
+12:24:41.317: 	bitrate:      10000
+12:24:41.317: 	keyint:       250
+12:24:41.317: 	preset:       p6
+12:24:41.317: 	tuning:       hq
+12:24:41.317: 	multipass:    qres
+12:24:41.317: 	profile:      main
+12:24:41.317: 	width:        1536
+12:24:41.317: 	height:       864
+12:24:41.317: 	b-frames:     0
+12:24:41.317: 	b-ref-mode:   0
+12:24:41.317: 	lookahead:    true (8 frames)
+12:24:41.317: 	aq:           true
+12:24:41.317: 
+12:24:41.361: ---------------------------------
+12:24:41.362: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+12:24:41.362: 
+12:24:41.367: ==== Recording Start ===============================================
+12:24:41.367: [mp4 output: 'adv_file_output'] Writing Hybrid MP4/MOV file '/home/teagar/Videos/2026-01-07 12-24-41.mp4'...
+12:25:17.053: [mp4 muxer: 'adv_file_output'] Flushing final fragment...
+12:25:17.054: [mp4 muxer: 'adv_file_output'] Number of fragments: 11
+12:25:17.055: [mp4 muxer: 'adv_file_output'] Full moov size: 16 KiB
+12:25:17.055: [mp4 muxer: 'adv_file_output'] Final mdat size: 43624 KiB
+12:25:17.055: Output 'adv_file_output': stopping
+12:25:17.055: Output 'adv_file_output': Total frames output: 2110
+12:25:17.055: Output 'adv_file_output': Total drawn frames: 2092 (2142 attempted)
+12:25:17.055: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 50 (2.3%)
+12:25:17.055: [mp4 output: 'adv_file_output'] Waiting for file writer to finish...
+12:25:17.055: ==== Recording Stop ================================================
+12:25:17.055: [mp4 output: 'adv_file_output'] File output complete. Finalization took 2 ms.
+12:25:17.056: Video stopped, number of skipped frames due to encoding lag: 50/2140 (2.3%)
+12:25:18.946: [obs-nvenc: 'advanced_video_recording'] settings:
+12:25:18.946: 	codec:        HEVC
+12:25:18.946: 	rate_control: CBR
+12:25:18.946: 	bitrate:      10000
+12:25:18.946: 	keyint:       250
+12:25:18.946: 	preset:       p6
+12:25:18.946: 	tuning:       hq
+12:25:18.946: 	multipass:    qres
+12:25:18.946: 	profile:      main
+12:25:18.946: 	width:        1536
+12:25:18.946: 	height:       864
+12:25:18.946: 	b-frames:     0
+12:25:18.946: 	b-ref-mode:   0
+12:25:18.946: 	lookahead:    true (8 frames)
+12:25:18.946: 	aq:           true
+12:25:18.946: 
+12:25:18.984: ---------------------------------
+12:25:18.984: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+12:25:18.984: 
+12:25:18.989: ==== Recording Start ===============================================
+12:25:18.989: [mp4 output: 'adv_file_output'] Writing Hybrid MP4/MOV file '/home/teagar/Videos/2026-01-07 12-25-18.mp4'...
+12:26:11.021: [mp4 muxer: 'adv_file_output'] Flushing final fragment...
+12:26:11.021: [mp4 muxer: 'adv_file_output'] Number of fragments: 14
+12:26:11.022: [mp4 muxer: 'adv_file_output'] Full moov size: 23 KiB
+12:26:11.022: [mp4 muxer: 'adv_file_output'] Final mdat size: 64079 KiB
+12:26:11.022: Output 'adv_file_output': stopping
+12:26:11.022: Output 'adv_file_output': Total frames output: 3099
+12:26:11.022: Output 'adv_file_output': Total drawn frames: 3087 (3122 attempted)
+12:26:11.022: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 35 (1.1%)
+12:26:11.022: [mp4 output: 'adv_file_output'] Waiting for file writer to finish...
+12:26:11.023: ==== Recording Stop ================================================
+12:26:11.023: [mp4 output: 'adv_file_output'] File output complete. Finalization took 2 ms.
+12:26:11.023: Video stopped, number of skipped frames due to encoding lag: 35/3120 (1.1%)
+12:32:45.217: [obs-nvenc: 'advanced_video_recording'] settings:
+12:32:45.217: 	codec:        HEVC
+12:32:45.217: 	rate_control: CBR
+12:32:45.217: 	bitrate:      10000
+12:32:45.217: 	keyint:       250
+12:32:45.217: 	preset:       p6
+12:32:45.217: 	tuning:       hq
+12:32:45.217: 	multipass:    qres
+12:32:45.217: 	profile:      main
+12:32:45.217: 	width:        1536
+12:32:45.217: 	height:       864
+12:32:45.217: 	b-frames:     0
+12:32:45.217: 	b-ref-mode:   0
+12:32:45.217: 	lookahead:    true (8 frames)
+12:32:45.217: 	aq:           true
+12:32:45.217: 
+12:32:45.258: ---------------------------------
+12:32:45.259: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo, track: 1
+12:32:45.259: 
+12:32:45.265: ==== Recording Start ===============================================
+12:32:45.265: [mp4 output: 'adv_file_output'] Writing Hybrid MP4/MOV file '/home/teagar/Videos/2026-01-07 12-32-44.mp4'...
+12:32:45.440: [obs-nvenc: 'advanced_video_recording'] get_res_for_tex_ids: CUDA call "cu->cuGraphicsGLRegisterImage(tex_y, tex_id_y, GL_TEXTURE_2D, CU_GRAPHICS_REGISTER_FLAGS_READ_ONLY)" failed with CUDA_ERROR_NOT_SUPPORTED (801): operation not supported
+12:32:45.440: Error encoding with encoder 'advanced_video_recording'
+12:32:45.440: [mp4 muxer: 'adv_file_output'] Flushing final fragment...
+12:32:45.440: [mp4 muxer: 'adv_file_output'] Number of fragments: 1
+12:32:45.441: [mp4 muxer: 'adv_file_output'] Full moov size: 0 KiB
+12:32:45.441: [mp4 muxer: 'adv_file_output'] Final mdat size: 1 KiB
+12:32:45.441: Output 'adv_file_output': stopping
+12:32:45.441: Output 'adv_file_output': Total frames output: 0
+12:32:45.441: Output 'adv_file_output': Total drawn frames: 10 (11 attempted)
+12:32:45.441: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (9.1%)
+12:32:45.441: Video stopped, number of skipped frames due to encoding lag: 1/9 (11.1%)
+12:32:45.441: [mp4 output: 'adv_file_output'] Waiting for file writer to finish...
+12:32:45.441: [mp4 output: 'adv_file_output'] File output complete. Finalization took 0 ms.
+12:32:45.442: ==== Recording Stop ================================================
+12:32:54.549: ==== Shutting down ==================================================
+12:32:54.556: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+12:32:54.556: pulse-input: Got 38748 packets with 46497600 frames
+12:32:54.557: [pipewire] Stream 0x55678a1c3450 state: "paused" (error: none)
+12:32:54.557: [pipewire] Stream 0x55678a1c3450 state: "unconnected" (error: none)
+12:32:54.604: All scene data cleared
+12:32:54.604: ------------------------------------------------

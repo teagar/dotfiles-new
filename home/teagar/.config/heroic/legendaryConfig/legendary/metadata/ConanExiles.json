@@ -1,0 +1,111 @@
+{
+  "app_name": "ConanExiles",
+  "app_title": "Conan Exiles Dev Kit",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ConanExiles",
+      "asset_id": "ConanExiles",
+      "build_version": "1755779.44630",
+      "catalog_item_id": "4b24951512584889ad1224b8efb49bb1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "conanexiles",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "engines"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2017-01-16T19:41:54.055Z",
+    "customAttributes": {
+      "AllowMultipleInstances": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ConanExilesDevKit"
+      }
+    },
+    "description": "Conan Exiles Dev Kit",
+    "developer": "Funcom Oslo AS",
+    "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+    "endOfSupport": false,
+    "entitlementName": "ConanExilesEditor",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(conanexiles && unreal_engine)"
+    ],
+    "id": "4b24951512584889ad1224b8efb49bb1",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 500,
+        "md5": "bcbb170bb6bf85720e3aebcd8cc0b467",
+        "size": 470119,
+        "type": "DieselGameBox",
+        "uploadedDate": "2018-09-17T20:53:30.811Z",
+        "url": "https://cdn1.epicgames.com/conanexiles/item/conan-860x500-bcbb170bb6bf85720e3aebcd8cc0b467.png",
+        "width": 860
+      },
+      {
+        "height": 302,
+        "md5": "833450058e1c6ebbf005f6aab50ae6ff",
+        "size": 44193,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2018-11-15T18:04:47.522Z",
+        "url": "https://cdn1.epicgames.com/conanexiles/item/Conan_White-1114x302-833450058e1c6ebbf005f6aab50ae6ff.png",
+        "width": 1114
+      },
+      {
+        "height": 250,
+        "md5": "9495e4ef940b5667bc1ff1f13ab24301",
+        "size": 172700,
+        "type": "Thumbnail",
+        "uploadedDate": "2018-12-06T23:08:53.965Z",
+        "url": "https://cdn1.epicgames.com/conanexiles/item/conan_diesel-430x250-9495e4ef940b5667bc1ff1f13ab24301.png",
+        "width": 430
+      },
+      {
+        "height": 500,
+        "md5": "bcbb170bb6bf85720e3aebcd8cc0b467",
+        "size": 470119,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-11-20T20:59:42.543Z",
+        "url": "https://cdn1.epicgames.com/conanexiles/item/conan-860x500-bcbb170bb6bf85720e3aebcd8cc0b467-860x500-bcbb170bb6bf85720e3aebcd8cc0b467.png",
+        "width": 860
+      }
+    ],
+    "lastModifiedDate": "2022-04-05T14:55:39.196Z",
+    "mainGameItemList": [],
+    "namespace": "conanexiles",
+    "releaseInfo": [
+      {
+        "appId": "ConanExiles",
+        "compatibleApps": [],
+        "dateAdded": "2017-01-16T00:00:00.000Z",
+        "id": "e8fb2cca33f149d683d98dcb0b9531a3",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Conan Exiles Dev Kit",
+    "unsearchable": false
+  },
+  "sidecar": null
+}
